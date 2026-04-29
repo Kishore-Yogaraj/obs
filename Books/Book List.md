@@ -1,3 +1,6 @@
 - **How to Win Friends and Influence People**
 - **Atomic Habits**
 - Red Rising
+- Mistborn
+- Stormlight archive
+- First Law Trilogy
