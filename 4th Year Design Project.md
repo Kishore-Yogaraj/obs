@@ -5,6 +5,7 @@
 - Coco robotics
 - Robot.com (kiwibot)
 - Pink Bot (TinyMile)
+- testing change
 
 ![[Pasted image 20260412181234.png]]
 ![[Pasted image 20260413111730.png]]

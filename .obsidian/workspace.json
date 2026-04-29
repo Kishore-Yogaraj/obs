@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subscriptions.md",
+                "file": "Questions for Ashwin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Subscriptions"
+              "title": "Questions for Ashwin"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,24 +212,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ebca696b7530c67",
+  "active": "f0789214ac66f4e0",
   "lastOpenFiles": [
-    "VCycene/Debugging Project/Displaying Left and Right Pad Heater.md",
+    "Questions for Ashwin.md",
     "Subscriptions.md",
+    "VCycene/Debugging Project/Displaying Left and Right Pad Heater.md",
     "Watonomous Knowledge Base/Github Commands.md",
     "Git-connection",
     "RTOS.md",
@@ -247,7 +249,6 @@
     "VCycene/FoodSAM.md",
     "VCycene/CAD Work.md",
     "Quartz.md",
-    "Questions for Ashwin.md",
     "Questions for Captains Meeting.md",
     "Plan with Liv.md",
     "Poker.md",
