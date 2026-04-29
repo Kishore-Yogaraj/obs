@@ -23,33 +23,18 @@
             }
           },
           {
-            "id": "f0789214ac66f4e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflections/2026/April/April 28th.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "April 28th"
-            }
-          },
-          {
             "id": "2ebca696b7530c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions for Ashwin.md",
+                "file": "Books/Book List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Questions for Ashwin"
+              "title": "Book List"
             }
           }
         ],
@@ -227,8 +212,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0789214ac66f4e0",
+  "active": "2ebca696b7530c67",
   "lastOpenFiles": [
+    "Books/Atomic Habits.md",
+    "Books/Book List.md",
+    "Books",
+    "Books/Books I would like to read.md",
+    "Books/Intro to Books.md",
+    "Books/Freakonomics.md",
+    "Reflections/2026/April/April 28th.md",
     "4th Year Design Project.md",
     "Questions for Ashwin.md",
     "Hello from laptop 1.md",
@@ -242,7 +234,6 @@
     "Testing Procedure.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Reflections/2026/April/April 28th.md",
     "attachments/Pasted image 20260428151122.png",
     "attachments/Pasted image 20260413111730.png",
     "attachments/Pasted image 20260412181234.png",
@@ -256,11 +247,6 @@
     "Poker.md",
     "Coin Calculator.md",
     "Deliveries.md",
-    "Email to Milne.md",
-    "Leetcode Journey/Data Structures/Data Structures Table of Contents.md",
-    "Cursor Knowledgebase/My Approach to Building with Cursor.md",
-    "ME 380/What to Talk about for Twitter Post.md",
-    "Github/How to turn a folder into a git repo.md",
     "Reflections/2026/April",
     "4th Year/attachments/Pasted image 20260328152919.png",
     "4th Year/attachments/Pasted image 20260328152917.png",
@@ -273,7 +259,6 @@
     "ME 380/attachments/Pasted image 20260323124834.png",
     "Reflections/2026/March",
     "Solidworks/TUHH/Quay Wall Neural Net/attachments",
-    "Solidworks/TUHH/NeRF Robotics/attachments",
-    "Solidworks/TUHH/Quay Wall Neural Net"
+    "Solidworks/TUHH/NeRF Robotics/attachments"
   ]
 }

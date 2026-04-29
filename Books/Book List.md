@@ -1,0 +1,3 @@
+- **How to Win Friends and Influence People**
+- **Atomic Habits**
+- Red Rising
