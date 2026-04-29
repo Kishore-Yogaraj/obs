@@ -1,0 +1,5 @@
+Okay we need to do a better job learning a lot of things. We're going to take an L on the first part of the course but we need to lock in for the last part of the course which is about vibrations. SDOF vibrations kind of have me messed up because of the physics but I have an idea about how it works now. Its time to focus on MDOF. The goal for this is simple. Take a picture of the problem. Paste it into chat gpt along with the solution. Then follow along on how to solve the problem and learn that specific problem. Take careful notes on all the formula that were used and see where you can use it again. After we learn that move onto the next question and see if you can apply what you just learned. If you can't it usually means something is missing. Lets begin
+
+- Gears Review
+- Velocity Polygon Review
+- Loop closure review

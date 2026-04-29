@@ -1,0 +1,7 @@
+- Intro to the project
+- Timeline of software breakdown
+	- Software Design for Inverse Kinematics
+	- Simulation software
+	- PID control
+	- Computer vision integration
+	- All challenges

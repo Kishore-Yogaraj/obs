@@ -1,0 +1,3 @@
+- What I've worked on
+- What I plan to do here
+- What I need help from team 

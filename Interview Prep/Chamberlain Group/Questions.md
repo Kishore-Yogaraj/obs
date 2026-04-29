@@ -1,0 +1,23 @@
+-How would you define success in this role? What would be the key indicators to you that you hired the right person?
+	- Able to learn 
+		- Everything you learn at chamberlain is going to new
+		- How much you learn is what makes someone
+	- How do you interact with the team is very important and making sure you know how to work with different people as they all have different dynamics and can asdapt to the different ways that people work
+		- Sometimes it can be really tough and people can have different backgrounds
+		- Have learned a couple things about the situation
+	- Project
+		- Have hard evidence that you are able to deliver and make sure you are able to get 
+- What aspects of working here excite you the most?
+	- The projects you work on are super advanced and you're trying to accommodate different
+	- Project that's being worked on is serverless networking integration 
+	- We're working on providing the best solutions
+- The company recently had a release with the MyQ outdoor camera and and the smart secure system which has heavy advancements in machine learning implemented. How would I fit into this project or is there a different project I would be working on?
+- I briefly talked to Tanay about the projects that he worked on such as:
+	- Used Tensorflow Python library to build convolutional neural network with audio recognition capabilities.  
+	- Utilized V7 Darwin database management system to train model using over 1500 data samples.  
+	- Performed market research on various microphones and microcontrollers to find best fit for project.  
+	- Quantized and converted model to a TFLite model which was then ported to an ESP32S3 microcontroller.  
+	- Wrote C++ code to collect audio from I2S pin and to run audio inference on ESP32S3.
+	- Would I be continuing on these projects or working on completely new projects?
+	- wokrin gon the next elvel of the ystjjajlkjjsdfjks
+	- 

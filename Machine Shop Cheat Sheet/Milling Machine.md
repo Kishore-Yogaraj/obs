@@ -1,0 +1,84 @@
+### What is a milling machine
+- The milling machine is used for drilling holes and shaving off sections of a piece
+- You an use the milling machine for steel, aluminum and anything in between
+	- Aluminum is the metal you'll find yourself spending most of your time working with 
+	- We use aluminum because:
+		- Low cost
+		- Easy to work with and manufacture from
+		- Light weight
+		- High strength to weight ratio
+		
+### How to use the milling machine (drilling)
+- **Find a handle to open up the clamps**
+	- This handle can usually be found on the grey carts beside the milling machine
+	- You attach it to the knob in front of the machine and rotate clockwise to tighten and counter clockwise to loosen the clamps
+- **Find wedges to place your material on**
+	- You can not simply place your material in the clamps of the milling machine because it needs space underneath the material to drill into
+	- In front of the milling machine is a table with **coolant**, **drill bits** and **wedges**
+	- The wedges are two rectangular pieces of varying sizes with holes on both ends of the rectangle
+	- Pick the appropriate size depending on your parts and place them in the clamps
+- **Place material on top of the wedges and close the clamps**
+	- Ensure that the area you want to drill into on the material isn't obstructed by the wedges or the milling machine 
+	- Wedges will not be entirely secure, they are simply used as a place holder to keep the material secure
+	- Although not secure, do not remove the wedges until you are done with the operation
+- **Find the red tool kit**
+	- Get the red tool kit from the machine shop office
+	- This can be found when you enter the office and look straight in front of you
+	- There will be rows of red tool kits, some for the milling machine and some for the lathe
+	- Pick up the one for the milling machine and leave your watcard in place of the tool kit
+- **Find appropriate pieces needed from the red tool kit**
+	- In the red tool kit you'll find different drill bits used to shave off pieces of material 
+		- These drill bits aren't as pointy as the drill bits used for drilling
+		- They look more like a cylinder
+		- In the red tool kit you'll also find the "chuck". This is what you attach to the milling machine which allows you to attach drill bits to the milling machine
+		- Drill bits can not be attached to the milling machine on its own
+		- It needs this attachment
+- **Insert attachment**
+	- Hold the narrow end of the chuck inside of the milling machine
+	- Click the "IN" button located on the top right of the milling machine until you here a hard clicking sound
+	- This may take a couple attempts so just keep attempting to attach until it actually attaches
+		- Don't panic
+	- Don't be afraid to hold down the "IN"
+- **Insert drill bit**
+	- After the chuck is installed you attach the drill bit as you would to a power drill
+	- Simply push until the smooth cylindrical part of the drill bit is held in place
+	- Turn the thick cylinder on the chuck until it grasps the drill bit
+	- Use the tool in the red tool kit to further tighten the drill bit on the chuck 
+		- This piece looks like a gear attached to a lever
+- **Set a point to 0 in on*
+	- You can use the electronic control on the top right to control the location where you drill
+	- Ensure you are using the center for the drill bit when taking measurements and when zeroing
+	- You'll figure out how to 0 on the control pad it's pretty intuitive
+		- Each one of the control pads are slightly different
+- **Drill hole**
+	- After determining your location of where to drill you are ready to drill
+	- Add some coolant to the area you want to drill to reduce friction
+	- Set the dial to 1 for clockwise spin and 2 for counter clockwise spin
+	- You can find this on the top left of the milling machine and is red in color
+	- After turning on the drill wait a couple seconds for the drill to turn on and catch up to speed
+	- Slowly lower the drill using the black handle beside the drill
+	- Drill in a smooth and controlled manner
+	- After finish drilling blow off the excess scraps and move on to next drill location
+- **Clean up**
+	- When you are done make sure area is clean by blowing off any excess scraps
+	- Use the "gear tool" from the red tool kit to loosen the chuck to pull the drill bit out
+	- Hold down the "OUT" button on the top right of the milling machine to remove the chuck
+		- It'll come loose when the milling machine un latches to the chuck
+	- Put everything back to where you found it
+- **Addition notes**
+	- If milling machine doesn't turn on when you turn the dial the safety is turned on some part of the machine
+		- The red button on the bottom right of the milling machine should be pulled out
+		- There's a safety on the back of each milling machine which also needs to be turned off
+	- To use the milling machine for shaving off pieces of material you will use the chucks on the rights side of the milling machine which are in a holster
+		- This chuck is attached the same way
+		- Ensure you use the more cylindrical like drill bit for this use case
+		- To attach the drill bit to the chuck you simply find the chuck that best fits your desired drill bit size (should be snug fit)
+		- **Attach drill bit to chuck first then attach chuck to milling machine**
+		- **For drilling attach chuck first then attach drill bit to chuck**
+	- Different material and different drill bit sizes require different drilling speeds
+		- Look at the charts which can be found on the pillars to the right and left of the milling machines
+		- Based on what these charts say adjust the speed of the milling machine accordingly
+		- To adjust the speed turn the milling machine on
+		- Then turn the spindle slowly until it reaches your desired speed
+
+### How to use milling machine (shaving)

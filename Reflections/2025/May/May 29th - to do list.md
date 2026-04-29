@@ -1,0 +1,55 @@
+Things I need to get done today:
+- Figure out the software stack for Eve
+- Apply to jobs until there's no more jobs to apply to 
+- **Figure out the proposal for Manufacturing processes** 
+- **Figure out which part of the discussion you want to take on**
+- **Attend Matic call**
+
+Rust can be used across the stack. It is the new language that he thinks everyone should go to 
+
+Why is Matic different from other players in the market
+- Matic is a home robotics company
+- They started off with the vacuum cleaner
+- Matic uses cameras to get a semantic understanding of someone home than a geometric understanding
+- Privacy
+	- All operations are done on the robot itself and nothing is sent out to the company
+- Hardware was designed from scratch using first principles
+- Goals
+	- The Hardware should be simple
+	- All complexity should be handled in the software
+	- Hardware adds a new point of failure 
+	- Most robotics problem should be a software problem because adding new libraries is never really a huge problem and never cost too much across teams
+- Vision only SLAM will work outdoors
+	- Vision based SLAM is a very powerful architecture and its all based on Cameras
+	- Cameras are the most complex sensor that humans have built
+	- There's a huge eco system working on vision problems
+	- Vision SLAM allows us to use a powerful sensor 
+	- Cameras took IR as the input and was able to very easily generalize between the day and the night
+	- SLAM is mainly an algorithmic problem
+	- SLAM takes up less than 10% of the Jetson's computer
+- How useful is Rust better for prototyping compared to Python to ROS
+	- We need to understand what are the key components of the system
+	- Develop a library for this instead of using frameworks
+		- Advantages of typed languages
+			- Very high level
+- Rust has a library called Tokio which allows for data sharing 
+- We should not shy away from from using ROS because ROS still has a lot of great tools like ROS bags
+- 2 cameras on front, 2 cameras on back and one camera on top for gestures 
+	- Whole autonomy stack is close to a stereo pair autonomy stack
+- Simulation is what's used for training like Unreal game engine 5
+	- Hey it doesn't work on an acryclic chair, can we add it to our simulation
+	- Users are open to providing data to help them solve their problems 
+	- If certain wires aren't detectable you notice how in 2 weeks the robot is immediately improved
+- Hiring for research and software engineers
+	- You don't have to know RUST
+	- 90% of the team did not know robotics or computer vision before joining MATIC
+	- They are hiring for generalist
+	- Software, Research and Platform engineers
+	- Product number 2 is coming out
+- Matic is a vertically integrated company
+- Tokio framework to run synchronous tasks and is the only one that you can use
+- SLAM is a library
+- Likes using libraries over using frameworks
+- Rust provides a lot of important parts that are needed for a framework
+- Youtube for learning visual SLAM
+	- Cyrill Stachniss

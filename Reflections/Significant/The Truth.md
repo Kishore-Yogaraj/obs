@@ -1,0 +1,45 @@
+I'm a cheater and a fake.
+
+I have been born into a world where struggling sometimes doesn't feel like an option. I feel like my entire life has been about moving fast with no time to actually learn anything. 
+
+It all started during Covid to be honest. Anything that I could cheat my way through I would. That's a terrible way to live life. Chat gpt coming along doesn't exactly help much either. I need to be more honest with myself. The truth its, I don't really know anything. I'm not really a smart person anymore. I don't think I ever was to be honest. 
+
+Everything about my life and who I am has felt so fake. I didn't even realize it because there was always one thing holding me together and giving me purpose and that was volleyball.
+
+I was known to be athletic and I held onto that with pride. People made me believe that going to Waterloo was impressive enough. My whole life I've been told that I am the best and people ask me how I don't let it get to my head but to be honest it did.
+
+I don't show it and I guess I never realized it but it did get to my head. I take it easier. I constantly convince myself that I'm working hard enough because everyone tells me how hard I work. Everyone believes I put in all these hours but I really don't. I never have. I fake everything about my life. 
+
+I think the reason I fake it is because I've been told over and over again about how far I've come and how great I am that I haven't given myself the chance to actually start something new. I rushed to become the best because I believed that's who I was destined to be but in doing so I didn't learn any of the fundamentals. **I haven't learned anything.** 
+
+It sounds like I'm blaming others for my mistakes but I'm just discussing why I think I'm going through this crisis. As soon as I believe I'm not the best I completely lose it. I think that's common for most people. Losing purpose and meaning will do that to you. All throughout high school I had one purpose and that purpose was to get recruited to play volleyball but I never really gave any thought as to what my life would be like after I achieved it or didn't achieve it. 
+
+I'm turning 21 and it looks like everyone has already figured things out and have set their sights on what's next in life. I keep telling myself I can just use AI with everything because that's where the world is headed but I noticed that it leave me feeling really empty. You can definitely use it later down the line but you rushed into things so fast. Maybe it's because you care too much about what other people think. You always have, to be honest. Especially in volleyball. You did it so much you forgot how to have fun. Now you don't even play it anymore because you're worried about what other people will think if you're not as good as people make you out to be. 
+
+You were held at such a high standard for so much of your life that you never gave yourself the chance to start over and start something from scratch. You convinced yourself that things in life just happen automatically, that taking an unpaid job will give you the chance to learn but it didn't really give you anything. You took those chances passively.
+
+Looking back at my past, I was always over confident in my ability to do school but underconfident in my ability to play volleyball. Despite being better at volleyball. This translates really well because I put a lot more work into becoming better at volleyball and to be honest, I never really got to the point I wanted to be at. But volleyball is the one area of life that I feel I have learned the most from. 
+
+Something I learned in atomic habits is that habits come naturally when you change your persona to be of a person you want to be. What I mean by this is that when you think you are someone, your habits are formed so you become that person. Someone who thinks their life is about working out and being jacked, becomes someone who consistently works out everyday. Someone who believes they are a reader will make it a habit to read everyday. 
+
+Similarly, I was someone who believed I was athletic and I worked everyday to become that person and stay that person. This is sort of a double edged sword because I feel that now, I believe it so much that I don't even make it a habit to workout anymore and keep blaming it on time. Remember that the things you learn in books should be taken with a grain of salt and every book you read should not be treated like a bible. I think what really helps me build a habit is developing the mindset of the person I want to become but also understanding that I'm not there yet. 
+
+The same thing applies to the rest of life like coding and school. You are no where near close to being intelligent. You keep tricking yourself into thinking that you're this crazy cracked person, you start lying about the internships you have and believing it. You think skipping class is okay because you have bigger things going on even though you really don't. You're not honest with yourself about the life you're living. I think you've been way too confident in your university career. You don't know anything at a deeper level. You don't know how to learn. 
+
+You need to take a step back and understand that you are no where near where you want to be and you shouldn't have the confidence to back that up. You're a lot further behind than most people and that's okay. The sooner you accept this the sooner you can start moving forward. You need **humility.** You don't need to be this perfect person all the time. You've convinced yourself that you have to live up to this fake standard you created for yourself that you haven't given yourself a chance to start from the beginning. You basically threw yourself into the fire right away because of this fake standard that you have. No one expects you to be the best. Maybe they do but you can't let that get to your head. Accepting that you are much further behind than others is step 1. Step 2 is understanding how much work you have to put in to catch up. **You are not a hard worker at all. People have made you believe you work hard but you really don't.** 
+
+I don't want to set any random goals like "from this point forward do this..." because you rarely every stick to it but I want you to take this reflection as a realization. Understand that you are starting from scratch. Everything you do in life right now is starting from scratch. Have the **humility** to understand that you are not some god but you are aiming to be. In doing so you need to start somewhere. You may be far behind from others, but that's okay. Take the steps necessary to catch up and become the person you want to be. It's okay to admit it to yourself but admitting it to others is when things change. You are truly starting from 0. 
+
+Another thing that's been on your mind is that you're afraid of spending too much time learning the wrong thing from scratch. I don't think there's a rush. I know it seems like a lot of people have achieved great things by the time they turn 21 but you aren't one of those people and that's okay. Sit back and reset. Learn to struggle again. Learn to make mistakes again. Pick something and try it and give it 100%. There's no reason why you shouldn't. It may hit or it may not hit. There is no rush with anything you do in life. Your goal is to accept humility and be humble. Work yourself up from the ground up again. Learn how to work hard again. Admit that you've been lazy for a big part of your life and that's okay. You don't need anymore excuses you just need to grow again. You are a seed starting again from scratch. Don't worry about the noise. Don't worry about what others are doing. Let them be great and congratulate them on it. You don't need to decide between being a non technical founder and a technical founder. If you feel accomplished in learning then be someone who learns. It's not about the title, it's not about what other people think it's about you and only you. Life is unfair. Reality isn't so great. It's okay to be lost.
+
+As long as every hour is spent to it's maximum. This is to starting again. 
+
+- You don't have more important things going on where you can't attend class
+- Don't believe when others say you work so hard because they don't know how much time you waste sitting around because of this fake standard you've made everyone believe
+- You are not better than anyone
+- Admit you are starting from 0 again 
+- There is no standard you have to live up to
+	- The standard you set up for yourself is so unrealistic and fake to the point where you try to find the shortest way (cheating) to go about getting it
+	- You haven't truly learned anything because you've been chasing this goal by the wrong means
+	- You convince yourself that everything is a great learning experience but you don't really learn from any of these experiences
+	- Take a step back and let things come to you as life goes. You are simply starting from 0 trying to learn about what you like. **Leetcode should be a consistent thing though lol**

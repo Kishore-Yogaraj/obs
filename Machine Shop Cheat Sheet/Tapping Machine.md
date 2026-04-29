@@ -1,0 +1,39 @@
+### What is a tapping machine 
+- The tapping machine is used to create a tapped hole with a hole that has already been drilled
+	- A tapped hole is a hole that allows screws to be inserted to fasten other pieces 
+
+### How to use a tapping machine
+- **Ensure that the hole is the correct size to be tapped based on the size of the tap you want**
+	- Before making a tap the hole has to be the correct size because the tapping machine needs enough material to cut when tapping
+	- For example for an M4 screw the whole needs to be 3.3 mm wide in diameter (at least close to this value)
+- **Find the appropriate tap size drill bit**
+	- The different tapping drill bits can be found on the top right of the table 
+		- Drill bits will be in metric and imperial
+		- Drill bits will be shown in the format {diameter x pitch size} (For example: M4 x 0.7)
+		- "M4" means the screw has a diameter of 4 mm (not the head)
+		- "0.7" is the pitch which is the distance from ridge to ridge of the screw
+		- Find out the diameter and pitch of the screw you want to use and use the corresponding tapping drill bit
+- **Attach the tapping drill bit to drill bit machine**
+	- Take the drill bit and simply insert it in the hole of the machine 
+		- You may have to turn it a bit just to lock it in place but I'm pretty sure it's just a magnetic fit
+		- You will know when the drill bit is successfully attached
+- **Lube the trapping drill bit and area of material you want to tap**
+	- Use the lube and the brush found on the left hand side of the table to lube the area of material you want to drill into and the drill itself
+- **Make the tap**
+	- Hold the tapping drill bit on top of the hole (touching the hole) aligning it for tapping
+	- The tapping machine has a lever that can be pressed (this makes the drill go in one direction (forward)) and it also has a button which needs to be held while pressing the lever in order for the drill bit to go the opposite direction (backward)
+	- Push down with sufficient pressure using the tapping machine on the hole using only the lever to make it go forward
+	- The tapping bit will eventually engage with the material (get caught or lock in) 
+		- This will be simply by feel but don't worry about risk of cutting your threads it wont happen just be smart and careful
+	- After it engages do not use any more downward force to push the tapping bit in
+	- Simply reduce amount of pressure you use (doesn't have to be completely no pressure) and continue holding the down the lever to move in the forward direction
+	- The tapping machine will do the rest of the work on its own as long as you hold down the lever
+	- Once you feel that the tap has gone through the entire hole or your desired distance you will let go of the lever
+	- To pull the tapping bit out use the button and the lever to (button first then lever) 
+	- Do not pull with force simply engage the backwards motion and let the tapping machine do the work to pull the tapping bit out
+	- If you pull you risk cutting the threads
+- **Clean up**
+	- After you finish just blow away the excess scrap metal and move onto the next hole, lube and tap
+	- To remove the tapping drill bit just pull the drill bit out
+	- It may take a couple tries but you just simply pull the bit out
+	- Ask for help if you need

@@ -1,0 +1,4 @@
+- Psychology of Money
+- Meditations
+- Discourses
+- The will of the many

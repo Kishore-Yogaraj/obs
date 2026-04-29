@@ -1,0 +1,4 @@
+- New filter picture?
+- Step 3 can be a bit more clear. Are pouring directly into the chamber (remove top lid first or into the food diverter?)
+- For step 4 should we make it clear that you have to really push down on the back lid for it to be closed
+- Mention the side latches?

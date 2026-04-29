@@ -1,0 +1,71 @@
+- Your goal at the end of every week should be to understand all concepts that were taught that week
+    - Ideally, look to review and understand the concept while making notes for yourself on different topics
+    - Try to do this the day you learned it so your knowledge is still fresh
+    - Try your absolute best to listen and focus on the material taught in class - constantly be thinking about questions about what the prof is talking about so you stay engaged throughout
+- After full review, attempt the problem sets that were assigned
+    - You need to challenge yourself with these problem sets no matter how long they take - the struggle of doing each problem is what helps you become familiar with the topic
+    - While doing these problem sets make note of questions you got right, wrong and where you went wrong if you got the question wrong
+    - Truly understand the process of each question before moving on
+        - If you don’t understand a question or where you went wrong ask the prof for help
+        - If you don’t understand a question you should have specific questions about the process or a step in the process not just ‘I don’t know how to do the question’
+        - You don’t learn unless you attempt and figure out the specific point at which you fail
+        - You should aim to get problem sets done and have a complete understanding as soon as possible instead of waiting to complete all of them by the midterm - this causes stress
+- For midterms, if you have been staying on top of your learning, you should immediately start any problem sets or practice midterms to see how much you remember
+    - While doing questions, make notes of the ones you struggled with and where exactly you struggled
+    - If you aren’t sure about a specific topic, go back, review, practice a couple questions for that topic and then come back
+- **The process of learning is simply beginning a process for a topic question with what you know and as you get stuck you find out why you get stuck and how to not get stuck next time**
+    - **Identify points where you get stuck and attempt to resolve**
+- **You learn the best when you give yourself time to learn things and not have to rush - when you rush because you’re studying the day before your midterm, you get stressed and don’t review questions properly because you’re afraid of running out of time and you have other topics to cover over the span of a day**
+- **This would be much easier, if you had studied along with the speed of the course and stayed on top of everything - it is impossible to be completely ahead in engineering but falling too far behind is even worse**
+- **You need to give yourself time to learn and study - time to learn and study is the most important thing and is what helps you as an individual to understand a concept**
+- **If you REALLY learn something once (learn, practice, mistakes, questions, understand), you will still have to re-learn it, its inevitable but the second time you learn something it’s always faster**
+- **You are not as smart as you think, one day before isn’t realistic for you as much as it is for other people, you need to understand that**
+- **Only do projects at home, go somewhere else to study because you will get tired and fall asleep at home (trust me on this)**
+- **You can’t wait for the perfect time to study, get ahead of the review and learn the material early then try to spend majority of time practicing, in between classes, when you’re waiting for people to come over, just hanging around. These problem sets are life or death now and you NEED to understand this. More time practicing and less time learning**
+- You should create a cheat sheet as you work through problem sets
+    - What you want to do is attempt a question and if you get stuck on a certain process, you go review it and add it to your cheat sheet. The next time you get stuck on a similar question, you can refer back to the cheat sheet.
+    - This is not cheating you because if you do enough practice problems and refer back to the cheat sheet enough it becomes engrained in your brain
+        - You used the cheat sheet to refer to a question once and you never looked back at the cheat sheet for questions like that because you remembered it so well
+    - This cheat sheet will have formulas, explanations for different processes, important things to remember, anything that can help you with a question
+    - Purchase a small folder and a note book that has pieces of paper in portrait where you can rip the pieces of paper off the top of the page instead of from this side (https://www.amazon.ca/Writing-Refills-Notebook-Planning-Organization/dp/B0B6133XH3?th=1)
+    - Make your cheat sheets on this and as you finish cheat sheets you should add it to your folder so you can refer back to any subject at any point
+- On your iPad have folders for each class within a folder of the term you are currently doing
+    - In each folder you will have 3 notebooks
+        - In class notes
+            - Notes you take in class if you go
+        - Notes
+            - Notes you take on your own which should be more clear and concise
+        - Assignments
+            - Problem set questions
+- You need a study plan for each course as each course you will have to learn a different way
+    - The way you study after learning (practice) the concept should be the same as described above however the way you learn content might be different for each course
+    - For example, for calc you would’ve done much better on the exam if you had found the guy on YouTube earlier
+    - You went in with no study plan and only found a study to plan 2 days before despite having 5 days
+- You should REALLY consider going to tutorials for class
+    - Even if you don’t understand what’s going on in the class (bound to happen) tutorials allow you to see how common exam problems are done and the though process behind solving them which can be used later
+    - The brain works best after it sees something once because then you can correlate the two together when you study
+    - Think about your last mods midterm and when you were studying chapter 6 which was bending moments - You didn’t even do the problem set for chapter 6 you just copied down examples and developed an understanding while copying down questions (this is you being active about your learning)
+    - When it came to finals you answered the question just fine - this means exposing yourself to as much content despite understanding or not is the key to making it through exam season and understanding content
+        - Ask yourself questions while problems are being solved?
+- **You still have to figure out how to learn from lectures**
+    - Try to understand?
+- To be completely honest the reality is you’re going to have to teach yourself content at the end of the day but its about how you can make those teachings easier for yourself
+    - This means going to class and at least listening to what professors are saying because somewhere in your mind it will stick and it will click for sure
+    - It doesn’t matter if you don’t understand at all just listening does help in some way
+    - BUT JESUS CHRIST MAN FIND A WAY TO STAY AWAKE IN CLASS AT LEAST YOU SLEEP SO MUCH IN CLASS DUMBASS
+    - ALSO, EVEN THOUGH I SAY YOU MIGHT HAVE TO TEACH YOURSELF AT THE END OF THE DAY THAT DOES NOT MEAN TO SKIP CLASS AND SLEEP IN BECUASE YOU WILL STILL GET SOMETHING OUT OF IT, TRUST ME
+    - JUST STAY THE FUCK AWAKE
+- Because you reviewed stats all throughout the term and took time to take notes on it, studying for finals was so much was so much easier and you didn’t have to pull and all nighter and you were actually relaxed
+    - You should aim for this with all your courses the best you can
+    - Maybe cut back on screen time a lot - if you find yourself on social have the discipline to get off because I think you spend a lot of time wasting away especially if you don't go to class
+    - Best thing to do is probably go to school and study there and only come home to sleep
+    - Choose the struggle during the year so you can relax during exams
+    - **Trust me - you don’t deserve a break no matter how much people tell you you do**
+- Starting to learn a subject earlier also teaches HOW to learn that subject which makes it easier to cram later down the line if you have to instead of learning a study strategy the week before the exam
+- **Studying is your new volleyball. No matter how difficult it gets you must work hard at it and become the best. You are competing forever against everyone whether that be in school, personal projects, or watonomous**
+- **You do it even if you don't want to**
+- **Don't waste time chatting anymore**
+- **Remember you are on your own journey**
+- sadas
+- asdasd
+- 

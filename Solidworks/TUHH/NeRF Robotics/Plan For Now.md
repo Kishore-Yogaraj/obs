@@ -1,0 +1,3 @@
+- Dual Boot computer to run linux 22.04 and then try to run torch ngp on it
+- If above doesn't work try to figure out what torch returns and what instant ngp returns and then see if you can use the outputs of either nerf model in the trajectory tracking code
+- i ned pohiuh

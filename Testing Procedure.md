@@ -1,0 +1,7 @@
+- Add food twice a day
+- Monitor
+- Hard food (better)
+- Soft food
+- Notes
+	- Take pictures and videos of the compost chambers to make sure its mixing properly 
+	- By pass cables are included by pass the micro switch 

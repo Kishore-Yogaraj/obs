@@ -1,0 +1,51 @@
+- You have been struggling man
+- we need to lock back in urgently like you're sleeping a lot right now and you're falling so far behind
+- You just had the worst failure of your life and you're acting like everything is going to be okay
+- You haven't gone to the gym in 2 weeks
+- You've done no wato work in 2 months basically
+	- What a waste of a lead
+- You really have to focus the next month man
+- This is a make or break month for you and you are already behind in literally everything
+	- School, wato, germany
+- You're wasting a lot of your parents' money right now and you have no ambition and willingness to push forward at all 
+- You're supposed to be tired when you wake up in the morning you think other people aren't
+- You're not a hardworker you're lazty
+- You don't know anything right now
+- You're not fit to be a lead and your parents aren't proud of the man you are becoming
+
+- Okay enough of the negativity
+- I know how exhausted you must be from midterms but everyone is 
+- You need to get up and get back to the grind because this isnt going to work out for you in the long run if you just sit on your ass all day
+- YOU NEED CALI NEXT CO OP NO MATTER WHAT
+	- You won't have a girlfriend if you continue this
+	- Shes working so much harder than you bro
+	- You need to differentiate yourself to the max
+	- You need to get up and start working harder and on yourself
+- **Our steps to lock in and improve**
+	- Idk how realistic this is but lets try to get up at 7 am every morning
+	- You're able to function off very little sleep so waking up at 7 with 6 hours of sleep is definitely doable
+	- 7 am every morning is a must now no matter what 
+		- What is your reason for getting up in the morning
+		- Remember the relief and happiness you felt when you got Chicago?
+		- Remember the success that comes from the song Gata Only?
+		- You want a rich life and thats not going to happen unless you put yourself out there an learn to the max
+		- Learn learn learn
+		- even if you hate it please learn
+		- You have to love learning
+		- You have to be the best at learning
+		- Push push push
+		- You started your day at 4pm for the better part of 4 months so push kishore
+	- **STARTING FROM OCTOBER 29TH 2024 YOU BEGIN THE GRIND TO CALI**
+	- **YOU WILL GET UP AT 7AM EVERY MORNING**
+	- **YOU WILL WORKOUT EVERY MORNING**
+	- **YOU WILL LEARN SOMETHING NEW EVERYDAY**
+	- **YOU WILL FINISH YOUR PROBLEM SETS BY SUNDAY**
+	- **YOU WILL WORK ON WATO A LITTLE BIT EVERYDAY**
+	- EVERYTHING STATED ABOVE IS YOUR MUST ON A DAILY
+	- IM SETTING THIS RULE RIGHT NOW: IF THIS DOESN'T HAPPEN YOU LOSE 
+		- YOU LOSE CALI
+		- YOU DISSAPOINT YOUR PARENTS
+		- YOU LOSE YOUR GIRLFRIEND
+		- YOU ARE NO LONGER A MAN
+	- From your past self,
+		- I hope you make me proud. I hope you are happy. I pray that you make something of yourself. Regret will eat you up. I can tell you this from experience. I pray you are a better version of me. That you are proud of what you have achieved. Because at this point in time. You are nothing. You are only nothing because I know what "being something" means to you. So i hope you are working hard. Whenever you are down or lazy read this message and remember that you are destined for greatness. You know what your vision is. you know what you want in life. So push to make those things happen. You are more than capable. Do not give up. Write me a letter when you are truly proud of yourself. At this point in your life. You weigh 213lbs. You haven't gone to the gym in 2 weeks. You eat like shit. You haven't done any work in the past 2 days. Lets see what you can accomplish. All the best my future self. make us proud.

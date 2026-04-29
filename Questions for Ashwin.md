@@ -1,0 +1,14 @@
+- Congrats on the position at meta 
+	- You've been there for 4 months now how has the transition and work been so far
+- You started off in engineering at UofT and then did you switch you computer science?
+	- What was the reason for the switch?
+	- Do you think it was the right decision?
+- It's not everyday you get to talk to a YC founder, you're the second one that I've had a personal 1 on 1 conversation with
+	- How was your experience with YC
+	- What was the reason for not continuing with the company?
+	- Do you see yourself starting a company again in the future?
+- I saw you went back to school part time to do a master in computer science and I assume you're still doing that right now?
+	- What was your reasoning for going back to school?
+	- Do you think a Master's in today's day in age is worth it?
+- What would you tell your 21 year old self
+- 

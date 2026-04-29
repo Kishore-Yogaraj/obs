@@ -1,0 +1,2 @@
+- Compiling code means to turn human-readable source code written in programming languages like C++ into machine-readable instructions that a computer's processor can understand and execute
+	- This process is handled by a program called a compiler

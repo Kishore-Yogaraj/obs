@@ -1,0 +1,16 @@
+- Says things are working when they're not
+- Wants recognition for minimal work
+- Doesn't listen to older professors
+- Takes credit for other work by saying we when it was just me by says me when you build something
+- Switches repos constantly and only wants to use their work
+- Wants to use only their work even when its not the best approach
+	- Path planner doesn't even avoid obstacles it just draws a line
+- Says things are done when they are not done
+	- Controller works, but doesn't really work properly
+	- Says localization is working but was never actually finished working
+- Always says "I know" when you clearly don't know something
+	- Afraid to admit when you don't know something
+- Contributed to none of the advanced algorithms that were used
+	- Focused on architecture of code
+	- Useful but not a big contribution
+- Nothing he made has actually worked 

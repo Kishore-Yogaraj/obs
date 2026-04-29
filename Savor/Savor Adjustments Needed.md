@@ -1,0 +1,10 @@
+- Load the deals
+- Need to include splash loading page
+- Buy apple developer account
+- Update deals dynamically
+	- Deals should update without having to relaunch the app
+- **Link to google Form**
+- **Email verification**
+- **Hours of the restaurant should be dynamic**
+- **Top widgets should contrast**
+- **Restaurant Card need to be full visible when you scroll down**

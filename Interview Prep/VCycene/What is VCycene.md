@@ -1,0 +1,1 @@
+VCycene is a startup based in Markham Ontario that deals with the problem of dealing with household waste and its negative impact on the environment. Their system provides a sustainable solution to outsmarting organic food waste at home, with significantly lower energy usage and no air filtration maintenance required.

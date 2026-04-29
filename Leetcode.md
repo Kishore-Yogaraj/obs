@@ -1,0 +1,11 @@
+- My current approach to practicing for this is to look into neetcode
+- It looks like neetcode offers a path to learn about dsa by following a proper road map
+- I think I have to learn a little bit more about oop and how it works before I get deep into leet code problems but I feel that I'll be able to understand that as I solve more problems as for
+- You should look into what blind 75 is I think it might be 75 leetcode questions to master which would actually help a lot
+- After figuring out leetcode you should aim to see what makes  a good developer
+- I think a lot of developing might be just using different methods from libraries or classes you create and then all the programming things you learn as a begginer
+- At the end of the day all the code you see can be broken down into what you learned at the very beginning
+- Theres being a good coder which is getting good at things like code force and leet code but what makes a good coder that actually ships practical code
+- I'm still very confused on how people are able to code off the top of their head and not use chat gpt as much as I do
+- I get that they most likely use resources but how exactly do they do this and how do they do it fast?
+- **Code Signal**

@@ -1,0 +1,5 @@
+**Overfitting** occurs when a machine learning model learns the training data too well, capturing not just the underlying patterns but also the noise and specific details that may not be relevant for generalizing to new, unseen data. Essentially, the model becomes too "tailored" to the training data and performs well on it but struggles to make accurate predictions on new data.
+
+For example, in the behavior cloning project, if the model was only trained on images collected during a sunny day, it might learn to rely too much on specific lighting conditions. When exposed to different lighting, like shadows or cloud cover, it wouldn't perform well because it "overfit" to the specific brightness and conditions of the training data, instead of learning more general features that would work in various scenarios.
+
+To prevent overfitting, techniques like **data augmentation**, which increases the variety of the training data, and **regularization**, which limits the complexity of the model, are commonly used.

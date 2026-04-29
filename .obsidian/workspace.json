@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "0b951e66abadefaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "66b8f10e7cb88afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "920a9fd0fe173da9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github/How to turn a folder into a git repo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "How to turn a folder into a git repo"
+            }
+          },
+          {
+            "id": "f0789214ac66f4e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4th Year Design Project.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "4th Year Design Project"
+            }
+          },
+          {
+            "id": "2ebca696b7530c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subscriptions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Subscriptions"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec7f8af5cc397a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f78e1410db27b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccdfdc2eaa928265",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7e8909131e5ee39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b48ef95238422434",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "right": {
+    "id": "5cf04c83ea9ddc1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc390ce01fba512",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96910b035a7d7a45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ME 380/Computer Vision Approach.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer Vision Approach"
+            }
+          },
+          {
+            "id": "4fdc3cab0832dc1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer Vision - Finding Lane Lines"
+            }
+          },
+          {
+            "id": "8b6d6bbfe96c51c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4a0b10424f281c39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "0cac63145735d729",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer Vision - Finding Lane Lines"
+            }
+          },
+          {
+            "id": "bcb7ef1a739d12d1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2ebca696b7530c67",
+  "lastOpenFiles": [
+    "VCycene/Debugging Project/Displaying Left and Right Pad Heater.md",
+    "Subscriptions.md",
+    "Watonomous Knowledge Base/Github Commands.md",
+    "Git-connection",
+    "RTOS.md",
+    "Technical Documentation.md",
+    "Testing Procedure.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Reflections/2026/April/April 28th.md",
+    "4th Year Design Project.md",
+    "attachments/Pasted image 20260428151122.png",
+    "attachments/Pasted image 20260413111730.png",
+    "attachments/Pasted image 20260412181234.png",
+    "Watonomous/Meeting Notes/Eve Execution Plan (Optimistic 8-Week Sprint).md",
+    "VCycene/VCycene Tasks.md",
+    "VCycene/FoodSAM.md",
+    "VCycene/CAD Work.md",
+    "Quartz.md",
+    "Questions for Ashwin.md",
+    "Questions for Captains Meeting.md",
+    "Plan with Liv.md",
+    "Poker.md",
+    "Coin Calculator.md",
+    "Deliveries.md",
+    "Email to Milne.md",
+    "Leetcode Journey/Data Structures/Data Structures Table of Contents.md",
+    "Cursor Knowledgebase/My Approach to Building with Cursor.md",
+    "ME 380/What to Talk about for Twitter Post.md",
+    "Github/How to turn a folder into a git repo.md",
+    "Reflections/2026/April/April 5th.md",
+    "Reflections/2026/April/April 3rd.md",
+    "Reflections/2026/April",
+    "4th Year/attachments/Pasted image 20260328152919.png",
+    "4th Year/attachments/Pasted image 20260328152917.png",
+    "4th Year/attachments",
+    "4th Year",
+    "ME 380/attachments/Pasted image 20260323161715.png",
+    "ME 380/attachments/Pasted image 20260323130521.png",
+    "ME 380/attachments/Pasted image 20260323125950.png",
+    "ME 380/attachments/Pasted image 20260323125940.png",
+    "ME 380/attachments/Pasted image 20260323124834.png",
+    "Reflections/2026/March",
+    "Solidworks/TUHH/Quay Wall Neural Net/attachments",
+    "Solidworks/TUHH/NeRF Robotics/attachments",
+    "Solidworks/TUHH/Quay Wall Neural Net"
+  ]
+}

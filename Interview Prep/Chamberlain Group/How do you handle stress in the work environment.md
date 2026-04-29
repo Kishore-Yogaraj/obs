@@ -1,0 +1,6 @@
+### How do you handle Stress in the work environment
+I handle stress by staying organized and maintaining a clear focus on priorities. When I’m faced with a challenging workload or tight deadlines, I break tasks down into manageable steps and set clear goals for each. This helps me stay on track and reduces the feeling of being overwhelmed. I also find that taking short breaks to reset, even just a few minutes away from the task, can help me come back with a fresh perspective and renewed focus.
+
+Communication is also key for me. If a project becomes particularly demanding, I ensure to keep the lines of communication open with my team or stakeholders to manage expectations and seek input if needed. This has been especially important in roles like my time at Watonomous, where balancing multiple perception projects required careful time management and collaboration to ensure the team stayed aligned.
+
+I view stress as a signal that something needs attention, and I try to channel it into problem-solving and maintaining a productive mindset. Additionally, I practice mindfulness techniques to keep a clear head and remain calm, even during high-pressure situations.

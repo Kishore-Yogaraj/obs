@@ -1,0 +1,7 @@
+dDeep learning is a subset of machine learning that uses neural networks with multiple layers (hence 'deep') to model and solve complex patterns in data. These networks are inspired by the structure and function of the human brain, with layers of neurons that process and extract features from input data.
+
+In deep learning, data such as images, text, or sound is passed through these layers, with each layer progressively learning more abstract features. For example, in an image recognition model, the first layer might detect edges, the next might recognize shapes, and deeper layers might identify entire objects like faces or cars.
+
+A key difference between deep learning and traditional machine learning is that deep learning models often don’t require manual feature extraction. Instead, they automatically learn the best features from raw data, which makes them incredibly powerful for tasks like image classification, natural language processing, and autonomous driving.
+
+These models are typically trained using a method called **backpropagation**, where the model adjusts its internal weights by calculating errors and gradually minimizing them using an optimization technique like **gradient descent**. This allows deep learning models to continuously improve as they process more data.

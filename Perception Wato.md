@@ -1,0 +1,7 @@
+- Mark
+	- Discuss coming off monocular depth estimation
+- Meshva
+- Lucas
+- Landon
+- Andrew
+- Soyeon ?
