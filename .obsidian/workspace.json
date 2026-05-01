@@ -11,10 +11,15 @@
             "id": "4608514ea02d14c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Github/How to ignore certain folders and files.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to ignore certain folders and files"
             }
           }
         ]
@@ -191,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccdfdc2eaa928265",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
     "Books/Book List.md",
     "Books/Atomic Habits.md",
