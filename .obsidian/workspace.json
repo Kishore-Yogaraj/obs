@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "66b8f10e7cb88afa",
+        "id": "d1fc9245ace9d266",
         "type": "tabs",
         "children": [
           {
-            "id": "920a9fd0fe173da9",
+            "id": "4608514ea02d14c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github/How to turn a folder into a git repo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "How to turn a folder into a git repo"
-            }
-          },
-          {
-            "id": "2ebca696b7530c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Book List.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Book List"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ebca696b7530c67",
+  "active": "ccdfdc2eaa928265",
   "lastOpenFiles": [
-    "Books/Atomic Habits.md",
     "Books/Book List.md",
+    "Books/Atomic Habits.md",
     "Books",
     "Books/Books I would like to read.md",
     "Books/Intro to Books.md",
