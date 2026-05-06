@@ -1,1 +1,10 @@
 ### Tell me About Yourself
+I'm Kishore, a third-year Mechanical Engineering student at the University of Waterloo, and most of my work over the past few years has been in robotics software which is what drew me to NavMobility in the first place.
+
+My deepest experience comes from Watonomous, Waterloo's autonomous vehicle research team, where I'm Co-Captain and lead the autonomy stack across a team of more than 30 engineers. I mainly worked in perception and sensor integration all built in ROS2 with C++ and Python. A couple of projects I'm particularly proud of: I built a Kalman filter–based multi-object tracker that runs as a ROS2 node and tracks up to 20 objects at 30 Hz, and I optimized our computer vision pipelines using TensorRT and Docker, which cut inference latency by about 40% across our multi-camera setup.
+
+I also did a research term at the Technical University of Hamburg, where I worked on camera-based perception and navigation for a differential drive robot. I implemented an autonomy stack that used Neural Radiance Fields for 3D scene representation, and then converted those NeRF-derived maps into 2D costmaps for an A* planner. We hit a 95% navigation success rate across simulated trials, with planning times under 400 milliseconds. Before that, I interned at Eon Media as an ML engineer, where I deployed a YOLOv8 and OpenCV pipeline for brand and logo recognition that improved detection accuracy by 30% across a library of over 500,000 videos.
+
+What excites me about NavMobility specifically is the combination of GNSS/INS, LiDAR, and camera data feeding into HD maps and perception for ITS applications. I've worked extensively with the camera and LiDAR side of autonomous vehicles in perception applications, and I'm eager to deepen my GNSS/INS knowledge fusing absolute positioning with onboard perception is one of the harder and more interesting problems in this space, and it's exactly the kind of work I want to be doing.
+
+### Why do You Want to Work Here
