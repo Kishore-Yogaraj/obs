@@ -51,6 +51,11 @@ The issue was my camera-to-robot calibration. I was using a naive pixel-to-milli
 
 After that, the end-to-end pick accuracy matched the kinematics accuracy, ±5 mm across the full workspace. The lesson I took from it was that the hardest bugs in robotics usually live at the seams between subsystems — each piece can be correct and the whole thing can still fail because of an assumption one module makes about another.
 
+### What is GNSS
+Global Navigation Satellite System
 
 ### Questions
-- 
+- How would you define success in this role? What would be the key indicators to you that you hired the right person?
+- Why did you choose to tackle the problem of generating maps for autonomous vehicle applications? 
+- What does success with this company look like to you?
+- How many people work at this company?
