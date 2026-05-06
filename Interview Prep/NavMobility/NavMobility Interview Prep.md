@@ -18,4 +18,39 @@ The other reason this is well-timed for me personally is my capstone. Starting i
 
 And finally, the startup environment is genuinely something I'm looking for. At Watonomous I've been part of building things from the ground up across a team of 30+ engineers, and I really enjoy the pace and ownership that comes with that.
 
-### Challenge with WATonomous
+### Challenge with Watonomous - Interface Issues
+One of the biggest challenges I faced as Co-Captain was actually less technical and more about coordination across the team.
+
+When I took on the perception lead role, we had around 30 engineers split across perception, planning, controls, and simulation. The issue I kept running into early on was that perception was being developed in relative isolation from the downstream teams that actually consumed our outputs. I'd have engineers on my side build a tracker or a depth estimation node, get it working on their own bag files, and then we'd hand it off to planning — and the planning team would come back saying the output format didn't match what they expected, or the latency was too high for their control loop, or the coordinate frames weren't aligned with what they were assuming. We were burning a lot of cycles re-doing integration work that should have been right the first time.
+
+The specific moment it came to a head was when we were preparing for an internal demo. My team had built the Kalman filter–based multi-object tracker which was working great in isolation. But when we plugged it into the planning stack two days before the demo, the planner was making poor decisions because the tracker was publishing at a slightly different rate than the planner expected, and the velocity estimates were in a different frame. We basically had a working perception module and a working planner that couldn't talk to each other properly.
+
+What I did to solve it was push for what I started calling "interface-first development." Before any new perception node got built, I made the team sit down with whoever was going to consume the output and agree on the message definition, the publishing rate, the frame conventions, and the latency budget _before_ writing any code. For the immediate demo, I paired one of my perception engineers with the planning lead for an afternoon, and we re-aligned the tracker's output to match what the planner needed. We made the demo.
+
+Longer term, I introduced a lightweight integration checkpoint into our development cycle — basically, every two weeks each sub-team had to demonstrate their module running end-to-end with at least one downstream consumer, not just in isolation. It wasn't a heavy process, but it caught integration issues weeks earlier than we used to.
+
+The result was that our integration time before our final demo dropped significantly. We went from spending the last two weeks of a sprint frantically debugging interface mismatches to spending that time actually tuning and improving the stack. And honestly, the bigger win was cultural — engineers started thinking about their nodes as part of a system rather than as standalone projects, which is a mindset I think really matters for any robotics work.
+
+### Challenge with NeRF Robot - Bridging the gap of nerf to nav
+One of the most interesting challenges I worked on at TU Hamburg was bridging Neural Radiance Fields with a classical navigation stack. NeRFs give you a continuous volumetric scene representation, but Nav2 expects a clean 2D occupancy grid — so the core problem was: how do you turn a NeRF into something a planner can actually use?
+
+My first attempt was the obvious one — sample the NeRF at a fixed height, threshold the density, and call anything above the threshold an obstacle. The costmaps came out really noisy though. The NeRF was producing spurious density spikes in free space, so the robot kept getting stuck in places that were obviously open in reality.
+
+What I did was visualize the NeRF output across different heights and density thresholds to actually build intuition for where the network was confident versus hallucinating. From that, I changed two things: I sampled across a range of heights spanning the robot's body and took the maximum density along each vertical column, so nothing the robot would physically collide with got missed. And I added a confidence filter so low-density, high-uncertainty regions got marked as unknown space rather than free space.
+
+After that, the costmaps were clean. We generated them at 0.05 m resolution, the planner was producing trajectories in under 400 ms, and we hit a 95% success rate across 50+ simulated trials.
+
+The bigger takeaway was that bridging novel perception methods with classical robotics stacks isn't just plugging them together — the representations carry assumptions, and you have to really understand both sides before you can connect them. 
+
+### 5 Bar Parallel Scara
+For my mechanical design course, my team built a 5-bar parallel SCARA robot — a two-armed planar manipulator that does autonomous pick-and-place. A camera mounted above the workspace detects objects, and the robot picks them up and places them at target locations across an 800 by 800 mm area. My role was owning the software side end-to-end: the inverse kinematics solver, the OpenCV vision pipeline, and the embedded firmware running on the microcontroller.
+
+The biggest challenge came at integration. Each piece worked great on its own — the kinematics hit ±5 mm accuracy when I commanded the robot directly, and the vision pipeline detected objects reliably at 30 FPS. But when I connected them and asked the robot to pick up an object the camera had detected, it kept missing, and the error got worse near the edges of the workspace.
+
+The issue was my camera-to-robot calibration. I was using a naive pixel-to-millimetre scale factor, which ignored lens distortion and any tilt in the camera mount. The fix was a proper calibration — I used OpenCV to get the camera intrinsics and distortion coefficients, then collected point correspondences by jogging the robot to known positions and solving for the homography between the camera plane and the robot's workspace plane.
+
+After that, the end-to-end pick accuracy matched the kinematics accuracy, ±5 mm across the full workspace. The lesson I took from it was that the hardest bugs in robotics usually live at the seams between subsystems — each piece can be correct and the whole thing can still fail because of an assumption one module makes about another.
+
+
+### Questions
+- 
