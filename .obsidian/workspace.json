@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github/How to ignore certain folders and files.md",
+                "file": "Interview Prep/NavMobility/NavMobility Interview Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "How to ignore certain folders and files"
+              "title": "NavMobility Interview Prep"
             }
           }
         ]
@@ -198,6 +198,11 @@
   },
   "active": "4608514ea02d14c6",
   "lastOpenFiles": [
+    "Technical Documentation.md",
+    "Interview Prep/NavMobility/NavMobility Interview Prep.md",
+    "Interview Prep/NavMobility",
+    "Interview Prep/Untitled.md",
+    "Github/How to ignore certain folders and files.md",
     "Books/Book List.md",
     "Books/Atomic Habits.md",
     "Books",
@@ -214,7 +219,6 @@
     "Watonomous Knowledge Base/Github Commands.md",
     "Git-connection",
     "RTOS.md",
-    "Technical Documentation.md",
     "Testing Procedure.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -228,9 +232,6 @@
     "Quartz.md",
     "Questions for Captains Meeting.md",
     "Plan with Liv.md",
-    "Poker.md",
-    "Coin Calculator.md",
-    "Deliveries.md",
     "Reflections/2026/April",
     "4th Year/attachments/Pasted image 20260328152919.png",
     "4th Year/attachments/Pasted image 20260328152917.png",
@@ -242,7 +243,6 @@
     "ME 380/attachments/Pasted image 20260323125940.png",
     "ME 380/attachments/Pasted image 20260323124834.png",
     "Reflections/2026/March",
-    "Solidworks/TUHH/Quay Wall Neural Net/attachments",
-    "Solidworks/TUHH/NeRF Robotics/attachments"
+    "Solidworks/TUHH/Quay Wall Neural Net/attachments"
   ]
 }
