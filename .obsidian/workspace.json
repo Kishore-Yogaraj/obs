@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
+                "file": "Reflections/Significant/Liv.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Computer Vision - Finding Lane Lines"
+              "title": "Liv"
             }
           }
         ],
@@ -214,8 +214,8 @@
   },
   "active": "61e385fca119849a",
   "lastOpenFiles": [
-    "Reflections/Significant/Liv.md",
     "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
+    "Reflections/Significant/Liv.md",
     "Interview Prep/VCycene/Questions.md",
     "Interview Prep/NavMobility/NavMobility Interview Prep.md",
     "Technical Documentation.md",
