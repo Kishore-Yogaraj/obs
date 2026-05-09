@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99ca5b892d3f93f4",
+  "active": "e214987a143181e7",
   "lastOpenFiles": [
-    "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
     "Investing and Finance/Investing 101 (From a First Principles Approach).md",
+    "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
     "Investing and Finance",
     "Cursor Knowledgebase/My Approach to Building with Cursor.md",
     "Interview Prep/NavMobility/NavMobility Interview Prep.md",
