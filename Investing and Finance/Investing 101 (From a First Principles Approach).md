@@ -30,5 +30,5 @@ When you invest a sum of money, you're doing one of two things:
 
 **Lending.** You give someone money for a defined period, and they promise to pay it back with interest, Bond's GICs, savings accounts are all forms of lending. The upsides is capped (you get your interest and your principal back, that's it), but the downside is also more limited.
 
-**Owning**
+**Owning.** You buy a piece of a business. You're now a partial owner, entitled to a share of whatever profits it generates, forever. This is what a **stock** is. The upsides is uncapped. If the business grows 100x, your stake grows 100x. The downside is also bigger. If the business failes,
 
