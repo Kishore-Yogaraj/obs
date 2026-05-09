@@ -24,3 +24,11 @@ Structure of the scheme:
 - When it's time to pay returns, they use money from new investors
 - As long as new money keeps flowing in, payments can continue
 - Eventually, new investors stop coming in and the scheme collapses
+
+### Where Does the Money You Make From Investing Actually Come from?
+When you invest a sum of money, you're doing one of two things:
+
+**Lending.** You give someone money for a defined period, and they promise to pay it back with interest, Bond's GICs, savings accounts are all forms of lending. The upsides is capped (you get your interest and your principal back, that's it), but the downside is also more limited.
+
+**Owning**
+
