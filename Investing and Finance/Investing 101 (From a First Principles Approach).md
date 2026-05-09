@@ -203,4 +203,18 @@ Every publics company started private. Picture a founder a with an idea building
 
 > [!NOTE] Where did he get 10 million shares and what does it mean? 
 > You have to imagine Steve and the company he created as two different legal "people". On day one of creating the company, the "company" technically owns itself and all the potential stock so Steven has to officially and legally, transfer this over to himself. 
-> When Steve files the paperwork (Articles of Incorporation), he creates 
+> 
+> When Steve files the paperwork (Articles of Incorporation), he creates a legal entity that can now sign contracts, open a new bank account, own property, sue and be sued. In this paper work you also assign an arbitrary value of shares which are just pieces of the company. So now, this company is a legal bucket with 10 million shares but $0 in cash
+> 
+> To comply with laws, a company cannot just give away shares for nothing. So Steve would buy "Founders Stock". Steve would give the company $1000 and return he gets all 10 million shares. Now the company has $1000 in its bank account and Steve has on record that he owns 100% of that bucket. This is shown as a proof of ownership. 
+> 
+> You can also purchase these shares by by using Intellectual Property (IP). For example, you give the company rights to the code of a product and the shares are the payment for that code
+
+Steve needs money to builds his robots. There are a few options to raise capital:
+
+**Bootstrap:** Fund it from his own savings or revenues. Slow, but he owns 100% of the company
+
+**Debt:** Borrow money from a bank. He pays interest, but lenders don't get ownership. Hard for an unproven startup up with no collateral.
+
+**Equity financing:** He sells pieces of the company to investors in exchange for cash. He gives 
+
