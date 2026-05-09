@@ -194,3 +194,8 @@ Raw physical goods: gold, silver, oil, natural gas, agricultural products (wheat
 **Role in a portfolio:** Inflation hedge, crisis hedge (especially gold). Some investors keep 5–10% in commodities for diversification; many keep zero. Reasonable people disagree.
 
 **Key point for you:** Probably skip this entirely as a beginner. It's a niche allocation that requires conviction in a specific macro thesis, and the tax treatment in Canada is unfavorable.
+
+## A Deeper Dive into Stocks Itself and The Stock Market
+
+### How A Company Comes to Have a Stock in the First Place
+Every publics company started private. Picture a founder a with an idea building a company
