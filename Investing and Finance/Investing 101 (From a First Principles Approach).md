@@ -83,6 +83,11 @@ Once this foundation is solid, the natural progression is:
 ### What is an "Asset Class"
 An asset class is a group of investments that share similar economic characteristics and tend to behave similarly, respond to similar forces, and are governed by similar regulations. The reason this categorization matters is because of **diversification**. Different asset classes don't move in **lockstep** (investments moving in perfect synchronization).
 
-
 > [!NOTE] Lockstep
 > If everything in your portfolio moves in lockstep, then when one thing crashes, everything crashes
+
+When stocks crash, bonds often hold up. When inflation spikes, real assets often shine. Mixing asset classes is how you build a portfolio that doesn't blow up when one part of the economy does.
+
+#### Below are the 5 major asset classes that I are worth knowing
+
+### Cash and Cash Equivalents
