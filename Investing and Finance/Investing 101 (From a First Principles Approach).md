@@ -269,4 +269,14 @@ Once the company is profitable and generating its own cash, it has a parallel se
 
 A company's mix of these choices says a lot about where it is in its lifecycle. Growth companies reinvest everything. Mature companies return most profits to shareholders. The shift from one to the other (or the reverse) is often a major signal.
 
+### What Happens When you Buy a Stock on your phone
+When you buy a share on Robinhood or Wealth simple, you're not buying from the company and the company is not creating new shares. You're buying from another investor who currently owns a share an wants to sell it.
+
+The stock market is a **secondary market** , kind of like a used car marketplace. Once Toyota sells a car to a dealer, and the dealer sells it to you, any future resale of that car between private owners doesn't involved Toyota at all. Toyota doesn't get money, doesn't make a new car, doesn't even know what happened to it.
+
+Same with stocks. The original 10 million shares are now floating around. When you buy one on your phone, an exchange like Nasdaq or NYSE matches your buy order with someone else's sell order. The company itself receives zero dollar from this transaction.
+
 ### Why do Share Prices Move
+Price is set by supply and demand at the exchange in real time. At any moment there's an order book:
+- **Bids:** People willing to buy at a certain prices (Buy 100 at $20.00)
+- **Asks:** People willing t
