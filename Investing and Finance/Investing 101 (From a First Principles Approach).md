@@ -235,3 +235,7 @@ An IPO (Initial Public Offering) is the moment a company first sells shares to t
 
 **The mechanics:** The company will hire investment banks (Goldman Sachs, Morgan Stanley, etc.) as **underwriters.** The underwriters do three things. They help the company figure out a fair initial share price (based on revenue, growth, comparable companies and market conditions), they buy the shares from the company themselves, and then they resell those shares to institutional investors and the public at the IPO price.
 
+If Steve's company decides to IPO, and they decide to issue 10 million new shares at $20 each. The underwriters will take a fee, the company will get $190M in cash, and now those 10M shares are owned by thousands of public investors who can trade them on a stock exchange. **The company gets money once, at the IPO, when it sells those new shares for the first time**
+
+### An Important Distinction: Primary vs Secondary Markets
+**Primary Market:** When shares are issued for the first time and sold by the company 
