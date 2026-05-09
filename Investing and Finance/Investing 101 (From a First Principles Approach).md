@@ -223,3 +223,15 @@ Let's say he goes with equity. An angel investor offers $500k for 10% of the com
 **The mechanics:** Steve will issue 1.1 million **new** shares to the investor (so the company now has 11.1M shares total, and the investor's 1.1M is 10% of that). Steve's 10M shares haven't changed in number but they now represent only 90% of the company instead of 100%. He has been **diluted**. The $500k goes into the company's bank account.
 
 ![[Pasted image 20260509173219.png]]
+
+This same pattern will repeat itself through different "rounds" of investing - Series A, Series B, Series C each time issuing new shares, raising more capital and diluting existing owners. 
+
+Venture capital firms will join in. Employees get stock options as part of compensation. The cap table grows
+
+At some point when the company is mature enough, that public investors will trust it, and big enough that the founders and early investors want to cash out, the company will decide to go publics. This is the IPO.
+
+### The IPO: where private becomes public
+An IPO (Initial Public Offering) is the moment a company first sells shares to the general public.
+
+**The mechanics:** The company will hire investment banks (Goldman Sachs, Morgan Stanley, etc.) as **underwriters.** The underwriters do three things. They help the company figure out a fair initial share price (based on revenue, growth, comparable companies and market conditions), they buy the shares from the company themselves, and then they resell those shares to institutional investors and the public at the IPO price.
+
