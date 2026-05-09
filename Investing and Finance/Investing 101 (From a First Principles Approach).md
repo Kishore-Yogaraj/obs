@@ -91,3 +91,4 @@ When stocks crash, bonds often hold up. When inflation spikes, real assets often
 #### Below are the 5 major asset classes that I are worth knowing
 
 ### Cash and Cash Equivalents
+This is the boring foundation. This is the money in chequing accounts, high interest savings accounts (HISAs), money market funds an
