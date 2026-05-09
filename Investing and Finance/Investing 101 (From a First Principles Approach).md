@@ -291,10 +291,6 @@ So now ask: what should that share be worth? If it pays $2/year and you can get 
 
 This is the bedrock. Even if not a single person in the world cared about resale value, a share would still have a real, calculable worth based on the cash it sends you.
 
-#### Mechanism 2: Acquisition/liquidation value
-If a stock price falls way below what the company is "actually worth", someone with enough money will buy up all the shares, take the company private and either run it for the cash flows or sell of its parts. This is what private equity firms do.
-
-This is a hard floor under price. If Apple's stock somehow crashed to $5/share while the company still made $100B/year in profit, Warren Buffet or some PE firm would buy the entire company in a heartbeat and just collect all the profits. So the price can't drift too far from th eu
 
 ### Why would demand increase
 People want to own a share because it represents a claim on the company's future cash flow (dividends and potential resale value). So demand rises when:
