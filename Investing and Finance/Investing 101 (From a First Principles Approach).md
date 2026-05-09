@@ -61,3 +61,28 @@ The lesson here isn't to **save more**. It's to **start now, even if its small**
 
 **Investing is not trading.** Trading is trying to profit from short-term price movements. Buy low this week, sell high next week. The data on this is brutal. The vast majority of active retail traders underperform a simple buy and hold index strategy and a meaningful fraction lose money outright. Investing is a long game measured in decades.
 
+**Investing is not picking winners.** The intuition that you should **find good companies and buy them** is reasonable but harder to execute that it looks, even for full time professionals. **Stock pricing** will come in later in document but most a portfolio's lifetime return will come from being in the market not from which specific things you owned.
+
+**Investing is not (completely) about picking the smartest investment**. It's about being patient, disciplined, and not blowing yourself up. The hardest part isn't analysis. It's sitting and waiting when the market drops 30% and not panic selling.
+
+### Where this is headed
+
+Once this foundation is solid, the natural progression is:
+
+- **Asset classes** — what kinds of things you can actually buy (stocks, bonds, ETFs, REITs, etc.) and how they behave
+- **How markets work** — what a stock price actually represents, what an exchange is, how to buy
+- **Portfolio construction** — diversification, asset allocation, risk tolerance
+- **Account types** — for you in Canada, the TFSA and RRSP are massive; using them right vs. wrong is a five-figure difference over a lifetime
+- **Stock picking** — fundamental vs. technical analysis, valuation, the different "styles" (value, growth, dividend, etc.)
+- **Behavioural traps** — the psychological mistakes that wreck portfolios (this one's especially relevant given your interest in Kahneman)
+
+
+## Asset Classes
+**These are the different categories of things you can put money into, each with its own risk/return profile, behavior, and role in a portfolio**
+
+### What is an "Asset Class"
+An asset class is a group of investments that share similar economic characteristics and tend to behave similarly, respond to similar forces, and are governed by similar regulations. The reason this categorization matters is because of **diversification**. Different asset classes don't move in **lockstep** (investments moving in perfect synchronization).
+
+
+> [!NOTE] Lockstep
+> If everything in your portfolio moves in lockstep, then when one thing crashes, everything crashes
