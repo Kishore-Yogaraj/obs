@@ -137,4 +137,60 @@ A stock is a fractional ownership stake in a business. When you buy a share of a
 
 **Dividends:** Some companies distribute a portion of profits to shareholders directly, usually quarterly. A stock at $100 paying a $4 annual dividend has a 4% dividend yield. Mature and profitable companies (banks, utilities, telecoms) tend to pay dividends while young, growth focuses companies usually don't choosing instead to reinvest profits into expansion.
 
-The total return on a stock is capital appreciation + dividends, and over long horizons, dividends (and reinvested dividends compounding) account for a 
+The total return on a stock is capital appreciation + dividends, and over long horizons, dividends (and reinvested dividends compounding) account for a large fraction of total equity returns (often 30 - 40%)
+
+**Risk:** Highest of the major asset classes, and it shows up in three forms.
+
+_Volatility_ — prices swing hard. Individual years can range from -40% to +40% for the broad market, and individual stocks can do far worse. The S&P 500 has had 10+ year stretches with effectively zero return (e.g., 2000–2010, the "lost decade"), and 10+ year stretches with 15%+ annualized returns. The path is never smooth.
+
+_Permanent loss of capital_ — individual companies can go to zero. Lehman Brothers, Enron, Nortel, Sears — all once-blue-chip names, all wiped out. This is the risk that makes diversification non-negotiable. Owning 30+ stocks across sectors means any single bankruptcy is survivable; owning 3 means you're one earnings miss away from disaster.
+
+_Behavioural risk_ — this is the sneaky one, and arguably the biggest. Stock investors don't just face market risk; they face the risk that _they themselves_ will panic-sell at the bottom or buy euphorically at the top. Studies consistently show the average investor underperforms the funds they're invested in, by 1–3% annually, purely because of bad timing. The market doesn't take your money — your reactions to it do.
+
+**Typical real return:** ~7% annualized over long periods (the U.S. market's century-long average; Canada and global markets are roughly similar). Nominal returns are closer to ~10%, but ~3% gets eaten by inflation, leaving the ~7% real.
+
+Critical caveat: this is _average over decades_, not a reliable annual figure. The standard deviation of annual stock returns is roughly 15–20%, meaning a "normal" year could be anywhere from -13% to +27%. The 7% only shows up reliably when you zoom out to 20+ year windows. Over 1, 3, even 5 years, anything can happen.
+
+**Role in a portfolio:** The growth engine. Stocks are where serious long-term wealth gets built — _because_ they're risky. The volatility you tolerate is the price you pay for the long-term return premium over bonds and cash. There is no path to meaningful real wealth that avoids this asset class, unless you're already rich or have a very modest definition of "wealth."
+
+For someone with your profile — early 20s, stable income, 40+ year horizon, no immediate need for the money — stocks should be the dominant allocation. Conventional rules of thumb (like "100 minus your age in stocks," which would put you at ~78% stocks) are honestly too conservative for someone in your situation. 90%+ in equities is defensible and probably optimal for maximum long-term compounding, _provided_ you can actually stomach the drawdowns without selling.
+
+**Key points:**
+
+_Time horizon is the unlock._ Stocks are the worst short-term asset and the best long-term asset. Over 1 year, you might lose 30%. Over 30 years, you've never lost money in a diversified U.S. equity portfolio (in real terms), and you've usually made a fortune. Your time horizon is your single biggest edge — use it.
+
+_Diversification beats stock-picking, almost always._ The data on individual investors picking stocks is humbling: most underperform a simple index fund. Even most professional fund managers underperform the index _they're trying to beat_, especially after fees. The strongest default for a beginner is to start with broad index funds (we'll cover ETFs in detail later) and only branch into individual stock-picking once you've built a foundation and genuinely want to learn it as a skill — not as a path to riches.
+
+_The biggest risk isn't the market — it's you._ The math of compounding only works if you stay in the market through downturns. Selling during a crash converts a temporary paper loss into a permanent realized loss, and missing even a handful of the market's best days (which often cluster _right after_ the worst days) destroys long-term returns. The discipline to do nothing during scary times is, weirdly, the most valuable skill in investing.
+
+_Past returns don't guarantee future returns._ The 7% real return is a historical average, mostly drawn from a period of unprecedented U.S. economic dominance. Future returns could be lower (some serious researchers project 4–5% real going forward). Plan conservatively. If you assume 5% real returns and get 7%, you're pleasantly surprised. The reverse hurts.
+
+_Stocks are a claim on human productivity._ This is the most important framing. When you own a diversified portfolio of stocks, you own a slice of the global economy's ability to innovate, produce, and grow. The bet that long-term equity returns are positive is fundamentally a bet that human
+
+### Real estate
+Property — either owned directly (you buy a rental) or via securities like REITs (Real Estate Investment Trusts, which trade like stocks but own portfolios of properties).
+
+**What you're doing:** Owning a productive asset that generates rent and (hopefully) appreciates with inflation.
+
+**Direct vs. indirect:**
+- **Direct ownership** — high capital requirement, illiquid, takes work, but you can leverage with a mortgage (which dramatically amplifies returns when prices rise, and amplifies losses when they fall).
+- **REITs** — buy a piece of a portfolio of commercial properties (offices, malls, apartments, warehouses, data centres) on the stock exchange. Liquid, diversified, but behaves more like a stock than a "pure" real estate investment.
+
+**Typical real return:** ~3–5% for direct ownership over long periods (though leverage and individual market dynamics make this highly variable). REITs have returned closer to equities (~7% real), since they're traded as equities.
+
+**Role in a portfolio:** Inflation hedge, income generation, diversification. Real estate has historically had moderate correlation with stocks, so it adds some diversification benefit.
+
+**Key point for you:** Don't fall for the "real estate always goes up" myth, especially in Canada where prices have decoupled from incomes to historically extreme levels. As an investment for someone in their early 20s, REITs are far more practical than direct ownership — you can get exposure with a few hundred dollars instead of a $200k+ down payment.
+
+### Commodities
+Raw physical goods: gold, silver, oil, natural gas, agricultural products (wheat, corn), industrial metals (copper, lithium).
+
+**What you're doing:** Buying something tangible whose price fluctuates with global supply and demand. Unlike stocks or bonds, commodities don't _produce_ anything — gold doesn't pay dividends. Your only return is price appreciation.
+
+**Risk:** Highly volatile, no underlying cash flow, prices driven by macro forces (geopolitics, weather, currency moves) that are notoriously hard to predict.
+
+**Typical real return:** Roughly 0–2% over very long periods. Commodities tend to keep pace with inflation but not much more.
+
+**Role in a portfolio:** Inflation hedge, crisis hedge (especially gold). Some investors keep 5–10% in commodities for diversification; many keep zero. Reasonable people disagree.
+
+**Key point for you:** Probably skip this entirely as a beginner. It's a niche allocation that requires conviction in a specific macro thesis, and the tax treatment in Canada is unfavorable.
