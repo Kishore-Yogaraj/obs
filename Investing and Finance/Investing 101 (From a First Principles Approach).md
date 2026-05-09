@@ -216,5 +216,10 @@ Steve needs money to builds his robots. There are a few options to raise capital
 
 **Debt:** Borrow money from a bank. He pays interest, but lenders don't get ownership. Hard for an unproven startup up with no collateral.
 
-**Equity financing:** He sells pieces of the company to investors in exchange for cash. He gives 
+**Equity financing:** He sells pieces of the company to investors in exchange for cash. He gives up some ownership, but the investors don't have to be paid back. They just become co-owners and share in future success (or failure)
 
+Let's say he goes with equity. An angel investor offers $500k for 10% of the company.
+
+**The mechanics:** Steve will issue 1.1 million **new** shares to the investor (so the company now has 11.1M shares total, and the investor's 1.1M is 10% of that). Steve's 10M shares haven't changed in number but they now represent only 90% of the company instead of 100%. He has been **diluted**. The $500k goes into the company's bank account.
+
+![[Pasted image 20260509173219.png]]
