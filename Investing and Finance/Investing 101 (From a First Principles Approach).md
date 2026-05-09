@@ -119,5 +119,12 @@ A bond is a lon you make to a government or corporation. They borrow from you fo
 **Typical real return:** ~1-3% historically but it varies enormously with the rate environemnt
 
 **Role in a portfolio:** Stability. When stocks crash, high quality government bonds often rise (because investors flee to safety and central banks cut rates). This negative correlation is what makes the classic "60/40 portfolio" (60% stocks and 40% bonds) work. The bonds cushion the equity drawdowns.
+- When stocks crash, investors rush to sell their stocks to use that money to buy **government bonds**. They are considered "risk free" because they can technically print money to pay you back.
+- As thousands of investors rush to buy the same bonds, the demand for those bonds sky rocket
+- When demand goes up and supply is limited, the price of the bond goes up
+- This means the value of your bond increases while your stocks are losing value which cushions the blow to your total net worth
 
 **Key point:** At the age of 21 and time horizon, bonds probably play a small role for now. Their job is to reduce volatility but you don't need less volatility, you need maximum compounding and you have 40+ years to ride out swings. Most age-based guidelines suggest bond allocation should grow as you approach retirement, not earlier.
+
+### Stocks (Equities)
+A stock is a fractional ownership stake in a business. 
