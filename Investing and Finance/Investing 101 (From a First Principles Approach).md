@@ -283,6 +283,19 @@ Price is set by supply and demand at the exchange in real time. At any moment th
 
 The price you see is basically the last price at which a buy and sell order matched. If more people want to buy than sell, buyers have to bid higher to entice sellers, and the price ticks up. If everyone's trying to dump shares, sellers undercut each other and the price drops.
 
+### What Makes Stock Price Connected to Company Performance?
+#### Mechanism 1: Dividends
+When a company makes profits, it can do one of two things. Reinvest them or distribute them to shareholders as dividends. If you own 1 share of a company that pays $2 a year in dividends you get $2 a year in cash deposited into your brokerage account.
+
+So now ask: what should that share be worth? If it pays $2/year and you can get 5% in a savings account, then the share is worth roughly $40 (because $2/$40 = 5%). If the company doubles its earnings and now pays $4/year, the share is suddenly worth $80 by the same math. That's not vibes — that's just "how much would I pay to receive this stream of cash."
+
+This is the bedrock. Even if not a single person in the world cared about resale value, a share would still have a real, calculable worth based on the cash it sends you.
+
+#### Mechanism 2: Acquisition/liquidation value
+If a stock price falls way below what the company is "actually worth", someone with enough money will buy up all the shares, take the company private and either run it for the cash flows or sell of its parts. This is what private equity firms do.
+
+This is a hard floor under price. If Apple's stock somehow crashed to $5/share while the company still made $100B/year in profit, Warren Buffet or some PE firm would buy the entire company in a heartbeat and just collect all the profits. So the price can't drift too far from th eu
+
 ### Why would demand increase
 People want to own a share because it represents a claim on the company's future cash flow (dividends and potential resale value). So demand rises when:
 - Earnings grow or beat expectations
