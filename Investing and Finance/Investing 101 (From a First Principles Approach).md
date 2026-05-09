@@ -56,3 +56,8 @@ r = interest rate
 n = number of years of compounding
 
 The lesson here isn't to **save more**. It's to **start now, even if its small**. Time is the variable that matters most, and its the one variable you can never get back. You're 20 something, this is your single biggest structural advantage. Every dollar you invest today is worth dramatically more than a dollar you'll invest at 35.
+
+### What Investing is Not
+
+**Investing is not trading.** Trading is trying to profit from short-term price movements. Buy low this week, sell high next week. The data on this is brutal. The vast majority of active retail traders underperform a simple buy and hold index strategy and a meaningful fraction lose money outright. Investing is a long game measured in decades.
+
