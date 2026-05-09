@@ -41,3 +41,18 @@ This is the part of investing that makes it feel like "magic" and actually worth
 You invest $500/month starting at age 21, earing 7% real returns. Stop contributing at 30 which is 9 years of saving $54000 total. By 65, the pot is worth almost $760,000 in today's dollars. You contributed $54k. Compounding contributed the other $706k. 
 
 Same scenario but you start at 31 instead, contribute the same $500/month all the way until 65 which is $210,000 in over 35 years. You end up with about $850,000. You put in nearly 4x as much money and ended up with barely more, because you gave compounding 10 fewer years to work.
+
+##### The above examples are ball park estimates. The actual math is shown below:
+
+**Future value of an ordinary annuity:**
+![[Pasted image 20260509152110.png]]
+
+**Compound interest formula**
+![[Pasted image 20260509152200.png]]
+
+A = final value
+P = initial value
+r = interest rate
+n = number of years of compounding
+
+The lesson here isn't to **save more**. It's to **start now, even if its small**. Time is the variable that matters most, and its the one variable you can never get back. You're 20 something, this is your single biggest structural advantage. Every dollar you invest today is worth dramatically more than a dollar you'll invest at 35.
