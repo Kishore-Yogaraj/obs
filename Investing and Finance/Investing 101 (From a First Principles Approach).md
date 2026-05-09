@@ -34,3 +34,10 @@ When you invest a sum of money, you're doing one of two things:
 
 Stocks return more than bonds over long periods specifically because owning is riskier than lending. The U.S. stock market has averaged roughly **10%** nominal over the last century. Government bonds have averaged closer to **4-5%**. This gap is the **"equity risk premium** that the market is paying you to bear the ownership risk.
 
+### The Compounding Engine
+This is the part of investing that makes it feel like "magic" and actually worth it. Your returns earn returns. Then *those* returns earn returns as well. The growth curve is exponential, not linear.
+
+**Here's an example**
+You invest $500/month starting at age 21, earing 7% real returns. Stop contributing at 30 which is 9 years of saving $54000 total. By 65, the pot is worth almost $760,000 in today's dollars. You contributed $54k. Compounding contributed the other $706k. 
+
+Same scenario but you start at 31 instead, contribute the same $500/month all the way until 65 which is $210,000 in over 35 years. You end up with about $850,000. You put in nearly 4x as much money and ended up with barely more, because you gave compounding 10 fewer years to work.
