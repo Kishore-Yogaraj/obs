@@ -127,4 +127,14 @@ A bond is a lon you make to a government or corporation. They borrow from you fo
 **Key point:** At the age of 21 and time horizon, bonds probably play a small role for now. Their job is to reduce volatility but you don't need less volatility, you need maximum compounding and you have 40+ years to ride out swings. Most age-based guidelines suggest bond allocation should grow as you approach retirement, not earlier.
 
 ### Stocks (Equities)
-A stock is a fractional ownership stake in a business. 
+A stock is a fractional ownership stake in a business. When you buy a share of a Apple, you own a (very tiny) slice of Apple, its factories, its cash, its brand, its future profits.
+
+**What you're doing:** Owning. You're entitled to a proportional shar of whatever the business generates forever but only after employees, suppliers, lenders and the tax authority all get paid first. You're last in line, which is exactly why the upside is uncapped. Once everyone else is pad, the rest belongs to shareholders.
+
+**The mechanics:** You make money in two ways from investing in a stock
+
+**Capital appreciation:** The share price rises. If you buy at $100 and sell at $150, you have made $50 in capital gains. **Why does a price rise?** The business itself becomes more valuable (more profits, more assets, etc.) and the market's willingness to pay for those profits changes.
+
+**Dividends:** Some companies distribute a portion of profits to shareholders directly, usually quarterly. A stock at $100 paying a $4 annual dividend has a 4% dividend yield. Mature and profitable companies (banks, utilities, telecoms) tend to pay dividends while young, growth focuses companies usually don't choosing instead to reinvest profits into expansion.
+
+The total return on a stock is capital appreciation + dividends, and over long horizons, dividends (and reinvested dividends compounding) account for a 
