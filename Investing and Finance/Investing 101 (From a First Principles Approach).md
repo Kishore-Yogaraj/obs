@@ -198,4 +198,9 @@ Raw physical goods: gold, silver, oil, natural gas, agricultural products (wheat
 ## A Deeper Dive into Stocks Itself and The Stock Market
 
 ### How A Company Comes to Have a Stock in the First Place
-Every publics company started private. Picture a founder a with an idea building a company
+Every publics company started private. Picture a founder a with an idea building a company. On day one, Steve owns 100% of the company. He is technically the sole shareholder. There's already "stock" its just that all of it belongs to her. The company has, say 10 million shares authorized, all held by Maya. 
+
+
+> [!NOTE] Where did he get 10 million shares and what does it mean? 
+> You have to imagine Steve and the company he created as two different legal "people". On day one of creating the company, the "company" technically owns itself and all the potential stock so Steven has to officially and legally, transfer this over to himself. 
+> When Steve files the paperwork (Articles of Incorporation), he creates 
