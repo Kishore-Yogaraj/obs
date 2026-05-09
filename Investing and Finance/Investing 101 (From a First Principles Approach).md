@@ -238,4 +238,35 @@ An IPO (Initial Public Offering) is the moment a company first sells shares to t
 If Steve's company decides to IPO, and they decide to issue 10 million new shares at $20 each. The underwriters will take a fee, the company will get $190M in cash, and now those 10M shares are owned by thousands of public investors who can trade them on a stock exchange. **The company gets money once, at the IPO, when it sells those new shares for the first time**
 
 ### An Important Distinction: Primary vs Secondary Markets
-**Primary Market:** When shares are issued for the first time and sold by the company 
+**Primary Market:** When shares are issued for the first time and sold by the company to investors. The company gets the cash.
+
+**Secondary Market:** When existing shares are bought and sold between investors. The company gets nothing. The shares just change hands. This is what's happening 99.99% of the time when you "buy a stock" on your brokerage app.
+
+When you buy 10 shares of Apple on your phone, Apple does not get your money. Apple sold those shares to someone, years or decades ago, and they've been changing hands ever since. Your money goes to whoever was selling those 10 shares at the moment you bought. Apple in uninvolved in the transaction entirely, they just keep a record that you're a shareholder.
+
+The stock market is a market of investors trading with each other, not a market of investors funding companies. Companies fund themselves through the primary market (rare, big events) and then their shares trade in the secondary market afterward
+
+### What companies actually do with the money
+**Growth investments** — building new factories, opening new markets, hiring engineers, expanding capacity. This is what investors hope companies do, because it (theoretically) generates more future profits.
+
+**R&D** — developing new products. Especially heavy in tech and pharma.
+
+**Acquisitions** — buying other companies. Sometimes brilliant, sometimes catastrophically wasteful.
+
+**Debt repayment** — using the cash to pay off existing loans, reducing interest expense.
+
+**Working capital** — funding day-to-day operations (inventory, accounts receivable) while the business scales.
+
+Once the company is profitable and generating its own cash, it has a parallel set of choices about what to do with _those_ profits, which is worth knowing because it directly affects you as a shareholder:
+
+**Reinvest in the business** — same options as above, but funded by operations rather than new equity.
+
+**Pay dividends** — distribute cash directly to shareholders. Mature companies with limited reinvestment opportunities (banks, utilities, big consumer brands) tend to do this.
+
+**Buy back shares** — the company uses its cash to repurchase its own shares from the open market and retire them. This reduces the total share count, which makes each remaining share represent a slightly larger slice of the company. It's effectively a way of returning cash to shareholders without paying a dividend, and it's become the dominant capital return mechanism for U.S. companies over the last two decades.
+
+**Hold cash** — sit on it for future opportunities or as a safety buffer. Apple famously sat on ~$200B+ in cash for years.
+
+A company's mix of these choices says a lot about where it is in its lifecycle. Growth companies reinvest everything. Mature companies return most profits to shareholders. The shift from one to the other (or the reverse) is often a major signal.
+
+### Why do Share Prices Move
