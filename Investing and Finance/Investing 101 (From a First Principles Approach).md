@@ -365,3 +365,27 @@ People want to own a share because it represents a claim on the company's future
 - Sentiment improves (memes)
 
 If a company's profits double, each share now represents a claim on twice as much earnings so investors are willing to pay more for it.
+
+
+### Bottom Line of Why A Stock Price Grows
+You’ve hit on the two main "gears" that drive a stock price: **Fundamental Value** and **Market Sentiment**.
+
+Think of it as the difference between what a house is "worth" based on its square footage and what people are actually willing to pay for it during a bidding war.
+
+---
+### 1. The "Value" Gear (Fundamentals)
+
+This is the math you mentioned earlier. If the company takes its profits and buys more factories, hires more people, or doubles its bank account, the **intrinsic value** of the company has literally increased.
+- **Action:** The company earns $\$500,000$ in profit and keeps it in the bank.
+- **Result:** The company is now worth $\$1,500,000$ instead of $\$1,000,000$.
+- **Share Price:** Even if nobody "speculates," each share is now backed by more "stuff" (assets). The price _should_ naturally adjust to **$15.00** to reflect that new reality.
+---
+
+### 2. The "Expectation" Gear (Speculation)
+
+This is where the $10 price moves to $25 even if the company hasn't made an extra dime yet.
+
+If the company announces they’ve discovered a way to make infinite clean energy, the company is still "worth" $\$1,000,000$ today based on their current bank account. However, because everyone **expects** it to be worth $\$100,000,000$ in five years:
+- **Demand Skyrockets:** Everyone wants to buy now while it’s "cheap."
+- **Supply Vanishes:** Nobody wants to sell their $10 share if they think it'll be worth $1,000 later.
+- **The Price Jump:** To convince someone to sell, you have to offer them way more than $10. The price jumps to $50, $100, or $200 instantly based purely on **future potential.**
