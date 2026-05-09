@@ -291,6 +291,71 @@ So now ask: what should that share be worth? If it pays $2/year and you can get 
 
 This is the bedrock. Even if not a single person in the world cared about resale value, a share would still have a real, calculable worth based on the cash it sends you.
 
+### The buyback reality check
+
+Amazon specifically isn't the best example because they've been in heavy reinvestment mode, but let's look at the broader picture:
+
+- **Apple**: ~$90B/year in buybacks (vs $15B dividends)
+- **Google/Alphabet**: ~$60B/year in buybacks, started small dividend in 2024
+- **Meta**: ~$50B/year in buybacks, recently started a dividend
+- **Microsoft**: ~$30B/year in buybacks plus $20B in dividends
+
+For S&P 500 companies in aggregate, buybacks have exceeded dividends most years since the late 1990s. Combined, S&P 500 companies return roughly $1.5 trillion/year to shareholders through dividends + buybacks. That's not speculative future cash — that's cash leaving company balance sheets and going to shareholders, _right now_.
+
+So the framing of "buybacks are unlikely, dividends are the real thing" is backwards from how big US companies actually operate today.
+
+### But let's steelman your point with Amazon specifically
+
+You picked a genuinely interesting case. Amazon has never paid a dividend and does minimal buybacks. So an Amazon shareholder's return is almost entirely from the stock price going up. This _does_ look more speculative on the surface. Let me address it directly.
+
+When you buy Amazon stock, you own a fractional piece of a company that generated ~$60B in operating cash flow last year. That cash is real. It exists. Amazon is choosing to spend it on AWS data centers, logistics infrastructure, etc., because management believes those investments will generate even more cash later.
+
+Here's the key question: **is the value of your Amazon share dependent on someone else paying more for it later, or on Amazon's underlying cash generation?**
+
+Test it the way I suggested before: imagine you could never sell your Amazon share. Just hold it forever. Would it be worth anything?
+
+Yes, because eventually one of these will happen:
+
+1. Amazon will run out of profitable reinvestment opportunities (every company does, eventually — there are only so many warehouses to build) and will start returning cash. This is exactly what happened to Microsoft (started dividends in 2003 after 17 years), Apple (2012), Meta (2024), and Google (2024). All of these "growth, no dividend" companies eventually became cash-return companies.
+2. Amazon could get acquired, broken up, or liquidated — unlikely at its size, agreed, but not zero.
+3. Amazon could be valued by a future buyer (a private equity firm, a sovereign wealth fund) who wants the cash flows.
+
+So even Amazon's value rests on real future cash, not pure speculation. The cash is just deferred further into the future than for, say, Coca-Cola.
+
+### Where you're partly right, though
+
+Here's the nuance I want to acknowledge: **the further into the future the cash payout is, the more speculative the stock becomes in practice.**
+
+A utility company paying 5% dividends is mostly a cash-flow play. The price barely moves and the return comes from the dividends.
+
+A mature company doing big buybacks (Apple) is also mostly a cash-flow play, just channeled differently.
+
+A growth company like Amazon is a _bet_ that management will eventually convert today's reinvestment into tomorrow's cash returns. There's genuine uncertainty in that bet. And yes, in the meantime, the stock price moves around based on people's changing estimates of how that bet will play out — which involves a lot of guessing about what other people will guess.
+
+So for a growth stock, you're correct that day-to-day, week-to-week, even year-to-year price movements are heavily speculative. The stock might trade at $200 because people think future cash flows justify it, then drop to $100 because expectations changed, then rise to $300, all without any actual cash ever leaving the company. That speculation is real.
+
+### But here's why it's not _purely_ speculation
+
+Two reasons:
+
+**First, the speculation is anchored.** Even if Amazon's price bounces around based on sentiment, it bounces around a _fundamental value_ set by realistic estimates of future cash. It doesn't trade at $5 (too low — someone would buy the whole company) or $50,000 (too high — no one believes the future cash supports it). The anchor is loose, but it exists.
+
+**Second, the eventual payout reliably arrives for successful companies.** Look at the Microsoft pattern. From 1986 to 2003, Microsoft paid no dividends. Anyone holding Microsoft during that period was, by your framing, "speculating that someone would pay more later." But what actually happened? The company kept growing earnings, eventually started paying massive dividends and doing massive buybacks, and now returns ~$50B/year in cash to shareholders. Anyone who held from 1986 to today got real cash, eventually — it just took 17 years for the spigot to turn on.
+
+The same will likely happen to Amazon. Maybe in 5 years, maybe in 15. But the cash mountain accumulating on their balance sheet has to come out eventually, because that's the only way for shareholders to ultimately benefit from owning the business.
+
+### The clearest way to state it
+
+For dividend stocks: returns come mostly from dividends, with some price appreciation.
+
+For buyback-heavy stocks: returns come from your shares becoming a bigger slice of the pie as the company shrinks share count, plus price appreciation reflecting that.
+
+For growth stocks like Amazon: returns come almost entirely from price appreciation today, but that appreciation is justified (when it is justified) by the expectation of _future_ cash returns once the company matures. You're getting paid for waiting and for taking the risk that the future cash might not materialize.
+
+So your read is half right: yes, growth stock returns _today_ depend on someone paying more later. But that someone is willing to pay more because the company is closer to the eventual cash payout phase, and the cash payout phase is real, not imaginary. Microsoft's 1990s shareholders weren't deluded — they were correctly anticipating the cash machine that exists today.
+
+The stocks where your skepticism is _fully_ correct are the ones that promise future cash but never deliver. Lots of dot-com companies. Lots of recent SPACs. WeWork. These trade purely on speculation, and they crash when the speculation breaks. The skill in investing is distinguishing "deferred real cash" (Amazon, probably) from "speculation that will never deliver" (WeWork, definitely).
+
 
 ### Why would demand increase
 People want to own a share because it represents a claim on the company's future cash flow (dividends and potential resale value). So demand rises when:
