@@ -278,5 +278,16 @@ Same with stocks. The original 10 million shares are now floating around. When y
 
 ### Why do Share Prices Move
 Price is set by supply and demand at the exchange in real time. At any moment there's an order book:
-- **Bids:** People willing to buy at a certain prices (Buy 100 at $20.00)
-- **Asks:** People willing t
+- **Bids:** People willing to buy at certain prices (Buy 100 at $20.00)
+- **Asks:** People willing to sell at certain prices (I'll sell 100 shares at $20.05)
+
+The price you see is basically the last price at which a buy and sell order matched. If more people want to buy than sell, buyers have to bid higher to entice sellers, and the price ticks up. If everyone's trying to dump shares, sellers undercut each other and the price drops.
+
+### Why would demand increase
+People want to own a share because it represents a claim on the company's future cash flow (dividends and potential resale value). So demand rises when:
+- Earnings grow or beat expectations
+- The company expands into new markets
+- Interest rates fall (making stocks more attractive)
+- Sentiment improves (memes)
+
+If a company's profits double, each share now represents a claim on twice as much earnings so investors are willing to pay more for it.
