@@ -91,4 +91,23 @@ When stocks crash, bonds often hold up. When inflation spikes, real assets often
 #### Below are the 5 major asset classes that I are worth knowing
 
 ### Cash and Cash Equivalents
-This is the boring foundation. This is the money in chequing accounts, high interest savings accounts (HISAs), money market funds an
+This is the boring foundation. This is the money in chequing accounts, high interest savings accounts (HISAs), money market funds, and short-term GICs.
+
+**What you're doing:** Lending your money to a bank or government for a very short period in exchange for a small interest payment
+
+**Risk:** Essentially zero in nominal terms. CDIC in Canada insures bank deposits up to $100k per institution.
+
+**The catch:** Cash loses purchasing power to inflation every year. If your HISA pays 3% and inflation is 3%, your real return is zero. If inflation is 5%, you're actually getting poorer in real terms.
+
+**Typical real return:** ~0% over long periods. Sometimes slightly positive, sometimes slightly negative
+
+**Role in a portfolio:** Emergency fund (3-6 months of expenses), short-term savings goals (down payment in 1-2 years), and "dry powder" (money you want available to deploy if markets crash)
+
+**Key point:** Cash is not an investment. It's a parking lot. The mistake is treating it like one and watching inflation quietly drain it for decades. That said, you absolutely need an emergency fund in cash before you start investing. Otherwise an unexpected expense forces you to sell investments at the worst possible time.
+
+### Bonds (Fixed Income)
+A bond is a lon you make to a government or corporation. They borrow from you for a defined term (say, 10 years), pay you interest periodically (the coupon) and return your principal at maturity (expiration date of the investment).
+
+**What you're doing:** Lending. You're a creditor, not an owner.
+
+**The mechanics:** A $1000 bond with a 4% coupon and a 10 year maturity pays you 
