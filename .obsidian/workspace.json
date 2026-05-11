@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99ca5b892d3f93f4",
+  "active": "e214987a143181e7",
   "lastOpenFiles": [
-    "Investing and Finance/Investing 101 (From a First Principles Approach).md",
     "Investing and Finance/Getting Started With Investing.md",
+    "Investing and Finance/Investing 101 (From a First Principles Approach).md",
     "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
     "Investing and Finance/attachments/Pasted image 20260510221048.png",
     "Investing and Finance/attachments/Pasted image 20260510220843.png",
