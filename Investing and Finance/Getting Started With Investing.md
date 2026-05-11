@@ -89,3 +89,67 @@ _Tradeoff:_ You get price protection (won't overpay) but might not fill at all i
 ![[Pasted image 20260510220843.png]]
 ### How to Set Up Automatic Investment
 ![[Pasted image 20260510221048.png]]
+
+
+### What a mutual fund is
+
+A mutual fund is a pooled investment vehicle where many investors' money is combined and a professional fund manager buys stocks, bonds, or other assets on behalf of everyone. You own "units" of the fund proportional to your investment. When the underlying holdings go up, your units go up.
+
+Structurally, this is very similar to an ETF. Both pool money, both hold baskets of assets, both let you buy diversified exposure in one purchase. The differences are in **how they're bought/sold, who manages them, and — critically — how much they cost.**
+
+### Mutual funds vs ETFs — the key differences
+
+**1. How they trade**
+
+- ETFs trade on the stock exchange like a regular stock. You can buy XEQT at 10:47 AM at the live price.
+- Mutual funds price once per day, after market close. You place an order, and it fills at end-of-day NAV (net asset value).
+
+**2. Management style**
+
+- Most ETFs (XEQT, VEQT, VFV) are **passively managed** — they just track an index. No one's "picking" stocks.
+- Most bank mutual funds are **actively managed** — a manager tries to beat the market by selecting investments.
+
+**3. Fees (this is the big one)**
+
+- ETFs like XEQT/VEQT charge ~0.20-0.24% MER (Management Expense Ratio).
+- TD's actively managed mutual funds typically charge **1.5% to 2.5% MER**.
+
+That fee difference is enormous. We'll get to why in a moment.
+
+### TD's mutual funds specifically
+
+TD offers two main flavors:
+
+**TD Managed Portfolios / TD Mutual Funds (actively managed)** — MERs around 1.8-2.3%. These are what a TD advisor will pitch you at a branch appointment. They have names like "TD Comfort Balanced Growth Portfolio" or "TD Canadian Equity Fund."
+
+**TD e-Series Funds** — TD's low-cost index mutual funds. MERs around 0.28-0.45%. These are passively managed and actually competitive with ETFs. They were popular before commission-free ETFs existed because you could buy them with no transaction fees and in fractional amounts.
+
+These two categories are night and day. The first is overpriced. The second is genuinely reasonable.
+
+### Why fees matter so much (the math)
+
+Let's say you contribute $200/month for 40 years and earn 7% annual returns before fees. Here's what each fee level does to your final balance:
+
+- **0.20% MER (XEQT):** ~$507,000
+- **0.40% MER (TD e-Series):** ~$483,000
+- **2.0% MER (typical TD mutual fund):** ~$340,000
+
+**The 2% mutual fund costs you roughly $167,000 over 40 years compared to the ETF.** Not because the investments are different — they often hold very similar things — but because that 1.8% extra fee compounds against you every single year.
+
+This is why the financial industry pushes mutual funds so hard: the high fees fund advisor commissions, branch operations, and bank profits. Index ETFs are unprofitable for banks by comparison, which is why your TD advisor will never proactively recommend XEQT even though it's almost certainly better for you.
+
+### Would I recommend TD mutual funds to you?
+
+**Actively managed TD mutual funds (1.5-2.5% MER): No.** You're at Wealthsimple now buying commission-free ETFs. There is no scenario where paying 2% to a TD fund manager makes sense for you when XEQT exists at 0.20%. The vast majority of actively managed funds underperform their benchmark index over 10+ year periods, especially after fees — this is one of the most consistent findings in investing research.
+
+**TD e-Series (0.28-0.45% MER): Reasonable but unnecessary for you.** These are good funds and historically were the go-to recommendation for young Canadians starting out. But they only made sense when ETF commissions existed and you needed a way to buy in $200 increments without paying $9.99 each time. Now that Wealthsimple offers commission-free ETFs and fractional shares, e-Series doesn't really have an advantage anymore.
+
+### The pitch you'll probably hear
+
+If you ever sit down with a TD advisor (free appointments are a common touchpoint), they'll likely:
+
+- Run you through a "risk tolerance questionnaire"
+- Recommend a "TD Comfort Portfolio" or "TD Managed Portfolio" matched to your risk score
+- Frame it as professional management, peace of mind, "let the experts handle it"
+
+The pitch sounds reasonable. The fees are not.
