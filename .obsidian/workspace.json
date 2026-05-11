@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investing and Finance/Investing 101 (From a First Principles Approach).md",
+                "file": "Investing and Finance/Getting Started With Investing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Investing 101 (From a First Principles Approach)"
+              "title": "Getting Started With Investing"
             }
           }
         ],
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5,
-    "collapsed": true
+    "width": 359.5
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -230,12 +229,13 @@
   },
   "active": "99ca5b892d3f93f4",
   "lastOpenFiles": [
+    "Investing and Finance/Investing 101 (From a First Principles Approach).md",
+    "Investing and Finance/Getting Started With Investing.md",
     "Investing and Finance/attachments/Pasted image 20260509173219.png",
     "Investing and Finance/attachments/Pasted image 20260509152200.png",
     "Investing and Finance/attachments/Pasted image 20260509152110.png",
     "Investing and Finance/attachments",
     "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
-    "Investing and Finance/Investing 101 (From a First Principles Approach).md",
     "Investing and Finance",
     "Cursor Knowledgebase/My Approach to Building with Cursor.md",
     "Interview Prep/NavMobility/NavMobility Interview Prep.md",
@@ -274,7 +274,6 @@
     "4th Year/attachments",
     "4th Year",
     "ME 380/attachments/Pasted image 20260323161715.png",
-    "ME 380/attachments/Pasted image 20260323130521.png",
-    "ME 380/attachments/Pasted image 20260323125950.png"
+    "ME 380/attachments/Pasted image 20260323130521.png"
   ]
 }
