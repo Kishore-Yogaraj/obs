@@ -22,4 +22,9 @@ In a TFSA all compounding is untouched. Over decades the difference is enormous.
 
 #### Wealthsimple is the best choice for the following:
 - **$0 commissions on stocks and ETFs.** Wealthsimple's self directed TFSA charges $0 commissions on every stock and ETF trade, $0 annual maintenance fees, and $0 in transfer-out fees. TD charges $9.99 per trade for stocks and ETFs. If you contribute $200/month and buy an ETF each time, that's $9.99 × 12 = $120/year in commissions at TD versus $0 at Wealthsimple. On a $3,000 starting balance, $120 is a 4% drag right off the top.
-- 
+- **No maintenance fees.** TD Direct Investing waives the $25 quarterly fee only if the client's aggregate household balance exceeds $15,000. With a $3,000 account, you'd get hit with $100/year just for having the account open — another 3.3% drag
+- **The interface is built for beginners.** Wealthsimple's app is clean, simple, and won't overwhelm you with order types and analytics you don't need yet. TD's platform is more powerful but built for the active trader
+
+**Where TD has an edge** (but doesn't matter for you yet): more account types, mutual funds, bonds, options, international exchanges, and more research tools. None of this is relevant for a 21-year-old starting with ETFs in a TFSA.
+
+**One thing to know about Wealthsimple:** it relies on foreign currency conversion fees... around 1.5% fees for every US stock and ETF you trade. Easy to avoid — just buy Canadian-listed ETFs (which give you global exposure anyway). VEQT, XEQT, and VGRO are Canadian-listed ETFs that hold thousands of global stocks under the hood, with no FX conversion needed.
