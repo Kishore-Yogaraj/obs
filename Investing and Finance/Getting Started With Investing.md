@@ -84,3 +84,8 @@ _Tradeoff:_ You get price protection (won't overpay) but might not fill at all i
 ![[Pasted image 20260510215556.png]]
 
 **Just use Market Buy. Not too serious**
+
+### How to Set Up Automatic Transfers
+![[Pasted image 20260510220843.png]]
+### How to Set Up Automatic Investment
+![[Pasted image 20260510221048.png]]
