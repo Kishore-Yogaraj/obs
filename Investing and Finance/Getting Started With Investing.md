@@ -28,3 +28,59 @@ In a TFSA all compounding is untouched. Over decades the difference is enormous.
 **Where TD has an edge** (but doesn't matter for you yet): more account types, mutual funds, bonds, options, international exchanges, and more research tools. None of this is relevant for a 21-year-old starting with ETFs in a TFSA.
 
 **One thing to know about Wealthsimple:** it relies on foreign currency conversion fees... around 1.5% fees for every US stock and ETF you trade. Easy to avoid — just buy Canadian-listed ETFs (which give you global exposure anyway). VEQT, XEQT, and VGRO are Canadian-listed ETFs that hold thousands of global stocks under the hood, with no FX conversion needed.
+
+### Some Terminology
+#### The two dimensions
+
+Order types vary along two axes:
+
+1. **Price control** — do you accept whatever price the market gives you, or do you specify a price?
+2. **Trigger** — does the order execute immediately, or does it wait for a condition?
+
+The four order types you asked about combine these differently.
+
+##### Market Buy
+
+You're telling the broker: "Buy this now, at whatever the current price is."
+
+The order fills almost instantly at the **best available ask price** (the lowest price someone is currently willing to sell at). You get certainty of execution but not certainty of price.
+
+_When to use:_ High-volume ETFs (XEQT, VEQT, VFV) during market hours. The bid-ask spread on these is usually a penny or two, so "whatever price" is basically the price you saw.
+
+_When NOT to use:_ Low-volume stocks, after-hours, or during volatile moments. A market order on a thinly-traded stock can fill at a much worse price than you expected because there aren't enough sellers near the displayed price.
+
+##### Limit Buy
+
+You're telling the broker: "Buy this, but only if you can get it for $X or less."
+
+You set a maximum price. The order fills only if the market reaches your price. If it doesn't, the order sits open (until end of day, or until you cancel, depending on settings).
+
+_Example:_ XEQT is trading at $36.50. You place a limit buy at $36.00. Order sits unfilled. If XEQT drops to $36.00, your order fills. If it never drops, you don't buy anything.
+
+_When to use:_ When you have a specific price in mind, or when buying low-volume securities where a market order could fill badly. Also useful for setting "I'll only buy on a dip" rules.
+
+_Tradeoff:_ You might never get filled. The stock could keep climbing and you miss it entirely.
+
+### Stop Market Buy (also called "Stop-Loss Buy" or just "Stop Buy")
+
+You're telling the broker: "Watch this stock. If it rises to $X, then place a market buy."
+
+The stop price is a **trigger**, not an execution price. Once the trigger hits, it becomes a market order and fills at whatever price is available.
+
+_Example:_ A stock is at $100. You set a stop buy at $110. Nothing happens until the stock touches $110. Then it converts to a market buy and you buy at whatever the next available price is (could be $110.05, could be $112 in a fast-moving market).
+
+_When to use:_ This is mostly used for **breakout trading** — "I'll buy if it breaks above resistance" — or for short-sellers covering their position. Honestly, for a long-term ETF investor, you'll basically never use this.
+
+_Risk:_ In a fast-moving market, the actual fill price can be significantly worse than the trigger. If the stock gaps from $108 to $115 overnight, your stop at $110 fills at $115.
+
+### Stop Limit Buy
+
+Combines the two: a trigger price AND a price ceiling. "When the stock hits $X, place a limit order at $Y."
+
+_Example:_ Stock at $100. Stop limit buy with stop = $110, limit = $111. When the stock touches $110, a limit buy at $111 gets placed. It fills only if the price stays at $111 or below.
+
+_Tradeoff:_ You get price protection (won't overpay) but might not fill at all if the stock blows past your limit. If the stock jumps from $108 to $115 instantly, your trigger fires but your $111 limit never gets a chance to execute.
+
+![[Pasted image 20260510215556.png]]
+
+**Just use Market Buy. Not too serious**
