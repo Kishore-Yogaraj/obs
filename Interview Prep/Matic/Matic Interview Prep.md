@@ -184,4 +184,12 @@ This leadership experience has pushed me to grow not just as an engineer, but as
 
 ### Robert Scoble Interview
 
+### Problem with Current Indoor Robots
+- Algorithmically behind with a lot of sensors so no brain with a bunch of eyes
+- If the robot can see like us then we can solve the robot from a first principles point of view
+- Roomba's got stuck too much
+- Loses its way a lot
+- Wheels cant go over any rugs
+- Things fall out when its full
+- Very small bin
 ## **Questions I Have**
