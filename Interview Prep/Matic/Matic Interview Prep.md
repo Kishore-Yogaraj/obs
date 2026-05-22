@@ -192,4 +192,8 @@ This leadership experience has pushed me to grow not just as an engineer, but as
 - Wheels cant go over any rugs
 - Things fall out when its full
 - Very small bin
+
+
+## Organized Questions
+
 ## **Questions I Have**
