@@ -151,89 +151,11 @@ This adjustment significantly improved the accuracy of the tracking system. It t
 - Very small bin
 
 
-## Organized Questions
-### Talk About Your Experience with Watonomous
-My experience with Watonomous has been incredibly rewarding, especially in my current role as **Co-Captain**, where I lead and manage a multidisciplinary team building cutting-edge autonomous systems — including self-driving cars, humanoid robots, and autonomous RC vehicles. This position has given me the opportunity to contribute both technically and organizationally across several subsystems, while driving the strategic direction of our projects.
-
-One of the major technical initiatives I led was the development of a **3D object tracking system** using the **Kalman Filter** and **Hungarian Algorithm**, which enabled real-time tracking of vehicles and pedestrians. I also built a **YOLOv8-based object detection node** for recognizing traffic signs and cars, integrating it into our perception stack. This required tight collaboration with our hardware subteam to ensure sensor and compute system integration worked reliably on the vehicle.
-
-As Co-Captain, I’ve worked across perception, planning, and systems teams to ensure seamless integration of components. I’m also heavily involved in project management—coordinating timelines, facilitating cross-functional syncs, and aligning our technical direction with the competition goals. A big part of my role involves mentoring junior members, onboarding new recruits, and ensuring that knowledge transfer and documentation are prioritized so that progress is sustainable.
-
-This leadership experience has pushed me to grow not just as an engineer, but as a systems thinker and team builder. It’s strengthened my ability to take ownership of complex problems, communicate across disciplines, and deliver real-world solutions in the autonomous vehicle space.
-
-### What is a challenge you had at Watonomous and how did you overcome it
-Yeah, so probably the biggest challenge I had at Watonomous was less technical and more about leadership. When I stepped into the co-captain role, I went from being a perception engineer — heads down writing code, debugging my own nodes — to suddenly being responsible for 30+ engineers across the perception team. And I really struggled with it at first.
-
-The specific problem was that we had a lot of really talented people, but our progress was slow. People would pick up tickets, disappear for two weeks, and come back with either nothing or work that didn't integrate with what someone else had built in parallel. We were duplicating effort, our ROS2 nodes weren't talking to each other cleanly, and we'd hit integration weeks where nothing worked together. As the person responsible for shipping the perception stack, that was on me.
-
-My first instinct was to just do more of the work myself — if I wrote the tricky pieces, at least I knew they'd get done. That made things worse. I became a bottleneck, my engineers felt like I didn't trust them, and I was burning out trying to code and lead at the same time.
-
-What actually fixed it was changing how I ran the team. A few specific things:
-
-First, I started doing weekly one-on-ones with my sub-leads instead of just relying on group standups. Group standups are great for status, but people don't tell you they're stuck or confused in front of 15 other people. In one-on-ones I'd actually find out that someone had been blocked for a week on a TensorRT issue and was too embarrassed to ask for help.
-
-Second, I started writing much clearer technical specs before work began — what the node's inputs and outputs should be, what the message types looked like, what the acceptance criteria were. Before, we'd say "build the tracker" and three people would build three incompatible things. After, integration got way smoother.
-
-Third, and this is the one I had to learn the hard way — I had to actually trust people to own their pieces, even when I would have done it differently. There were times I watched someone take an approach I wouldn't have, and instead of jumping in I'd ask questions, let them try, and only intervene if it was clearly going off the rails. Most of the time they'd either make it work or learn something better than I would have taught them.
-
-By the end of my term, we were shipping pipelines that genuinely worked together — the Kalman filter tracker was running stably at 30 Hz feeding into downstream nodes, our TensorRT optimizations actually got deployed, and integration weeks went from chaos to mostly boring. Which is what you want.
-
-The biggest thing I took away from it — and I think this applies directly to a support role too — is that most problems on a team aren't technical. They're communication problems. People being stuck and not asking. Unclear ownership. Assumptions that didn't get written down. If you fix the communication, the technical stuff usually sorts itself out.
-
-### Talk about your experience at TU Hamburg
-
-Yeah, so this past winter — January through May — I did a research term at TU Hamburg in Germany. I was working in a robotics lab on camera-based perception and navigation for a differential drive robot, all in simulation.
-
-The core research question was: can you use Neural Radiance Fields — NeRFs — as the foundation for a robot's understanding of its environment, instead of traditional approaches like LiDAR point clouds or occupancy grids? NeRFs are usually used for novel view synthesis — basically rendering photorealistic 3D scenes from a handful of 2D images — but my project was about taking those 3D representations and turning them into something a robot can actually navigate on.
-
-So the pipeline I built went something like this: we'd capture RGB images of the environment, train a NeRF to build a 3D representation, and then I wrote code to convert that NeRF-derived 3D map into a 2D costmap at 0.05 meter resolution — which is what ROS2's Nav2 stack actually uses for planning. From there I implemented A* pathfinding on top of the costmap and a trajectory generator that produced smooth paths for the robot to follow. End-to-end, the planner was generating trajectories in under 400 milliseconds, and across about 50 simulated trials we hit a 95% navigation success rate.
-
-The hardest part honestly wasn't the algorithms — it was the integration. NeRFs and ROS2 don't naturally play well together. NeRFs are a deep learning research thing, mostly used in Python with PyTorch in Jupyter notebooks. ROS2 is a real-time robotics framework with strict messaging and timing constraints. So a lot of my time was spent on the unglamorous middleware — getting tensors out of the NeRF model, into the right coordinate frames, packaged as ROS2 messages, at a rate the planner could actually consume without choking.
-
-A couple of things I took away from the experience that I think are relevant here:
-
-First, working in a research lab in a foreign country — I went to Germany not knowing anyone, and had to figure out how to be productive in a new environment, with a new advisor, on a topic I'd never worked on before. That stretched me a lot in terms of just being comfortable in ambiguity and asking for help when I needed it.
-
-Second, the technical takeaway: I spent five months learning that the gap between "this works in a paper" and "this works on a robot" is enormous. Most of the published work on NeRFs for robotics gives you a beautiful render and skips over the fact that you still need to feed a real planner real data at real rates. That gap — between something working in theory and working in the messy real world — is the same gap that exists between a robot working in the lab and a robot working in someone's actual home. Which is the problem Matic is solving.
-
-
-### What is a challenge you had at TU Hamburg and How did You Overcome it
-
-Yeah, so the biggest challenge at TU Hamburg was honestly a scoping problem, and it took me too long to recognize it.
-
-When I got there, my advisor gave me a pretty open-ended research question: can NeRFs be used as the foundation for robot navigation? That's exciting — it's the kind of ambiguity you sign up for in research — but it's also dangerous, because there's no clear definition of done. I could spend five months on it, or five years.
-
-My first instinct was to go deep on the NeRF side. I figured: the navigation stack is well-understood, A* and Nav2 are off-the-shelf, the hard novel thing is the perception piece, so let me really nail that first. I spent probably the first six weeks trying to train better NeRFs, tuning hyperparameters, reading papers on NeRF variants, trying to get sharper 3D representations. And the results were genuinely better — my renders looked great.
-
-The problem was, when I finally turned to the navigation side, I realized I'd built something the robot couldn't actually use. The NeRF output was high-fidelity but slow to query, the coordinate frames didn't line up with what ROS2 expected, and there was no clean way to get from "beautiful 3D model" to "2D costmap a planner can read at runtime." I'd optimized one piece of the pipeline in isolation without thinking about what the next piece needed from it. Classic mistake.
-
-So I had to back up. My advisor and I had a pretty honest conversation where I basically said, I've been chasing the wrong thing. We re-scoped the project — instead of "build the best NeRF possible," it became "build the simplest end-to-end pipeline that works, then improve the weakest link." I rewrote the timeline. I picked a NeRF implementation that was good enough rather than state-of-the-art, and I spent the next two months on the integration glue — the coordinate transforms, the costmap conversion, the message timing — that I'd been avoiding because it wasn't the interesting part.
-
-And once I had the full pipeline working end-to-end, even crudely, everything got easier. I could see exactly where the bottlenecks were. The 400 ms planning time, the 95% success rate — those numbers only existed because I'd built the full loop and could actually measure it. None of that would have happened if I'd kept polishing the NeRF in isolation.
-
-The lesson I took away — and I think about this a lot now — is that when you're working on a system, the right move is almost always to build the whole thing end-to-end as fast as you can, even if it's ugly, and then improve the weakest link. Otherwise you're optimizing things in a vacuum and you don't know what actually matters. That applies to research, it applies to product work, and I think it applies to support too — you want to see the full customer journey end-to-end before you go deep on optimizing any one part.
-
-
-### What is a Challenge you had with a customer and how did you overcome it?
-Yeah, so at VCycene we built autonomous composters that went out to commercial customers — restaurants, office buildings, that kind of thing. One of the harder customer situations I dealt with was a unit that kept throwing a sensor fault at a customer's site about two weeks after install. They'd call in, we'd walk them through a reset, it'd work for a few days, then the same fault would come back.
-
-The customer was getting really frustrated by the third call. From their perspective, they'd bought an expensive piece of equipment that kept breaking, and the support team kept asking them to do the same reset that obviously wasn't fixing anything. They were starting to ask about a refund.
-
-The easy thing to do would've been to just ship them a replacement unit and close the ticket. But that bothered me, because if there was an actual root cause, we'd just be shipping the same problem to the next customer. So I asked the customer if they'd be willing to let me dig in a bit before we swapped the unit.
-
-I pulled the logs from their machine and noticed the fault was always firing around the same time of day — late afternoon. I cross-referenced that with two other tickets I'd seen recently with similar symptoms, and all three customers were in commercial kitchens. My hypothesis was that the sensor was triggering when ambient humidity spiked — probably from the dinner prep rush filling the kitchen with steam — and the firmware wasn't handling it gracefully.
-
-I escalated that to our firmware team with the log evidence and the pattern across customers. They confirmed the sensor calibration had a tighter humidity tolerance than the spec suggested, and they pushed a firmware update that widened it. I flashed the update on the customer's unit remotely, followed up with them a week later, and the fault didn't come back.
-
-The customer ended up being one of our happier ones afterwards — not because nothing went wrong, but because we'd actually listened and fixed the root cause instead of papering over it. And the fix went out to every other unit in the field, so customers we hadn't even heard from yet got a better product.
-
-What I took away from it is that the most frustrated customers are usually frustrated because they feel like nobody's actually listening to them. The reset script is fine for known issues, but if the same customer is calling three times with the same problem, the script is the wrong tool. The job at that point is to slow down, take their problem seriously, and find the actual cause — even if it means more work in the short term.
-
 ## **Questions I Have**
 
 **Understanding the role**
 - How would you define success in this role? What would be the key indicators to you that you hired the right person?
-- What aspects of working here excite you the most?
+- **What aspects of working here excite you the most?**
 - Is this a roll for the summer or for the winter
 	- How would visas work for this and would we get it in time?
 - What would the day to day look like for a customer support intern 
@@ -242,10 +164,10 @@ What I took away from it is that the most frustrated customers are usually frust
 
 **Thought about Matic Specifically**
 - When customers run into edge cases — weird home layouts, unusual flooring, pets — how does the team approach those? Is it mostly real-time debugging, or do you build up a playbook over time?
-- Privacy-first and on-device processing is a core part of the product. Does that ever create unique support challenges — like, you can't just pull logs from the cloud the way other companies can?
+- **Privacy-first and on-device processing is a core part of the product. Does that ever create unique support challenges — like, you can't just pull logs from the cloud the way other companies can?**
 
 **Care about growth and the team**
-- What does success look like for an intern in this role at the three-month mark? If we're sitting down at the end and you're telling me it went really well, what did I do?
+- **What does success look like for an intern in this role at the three-month mark? If we're sitting down at the end and you're telling me it went really well, what did I do?**
 - What's the part of the job you find hardest, even now?
 
 **Bold**
