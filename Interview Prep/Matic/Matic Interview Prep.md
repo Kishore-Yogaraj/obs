@@ -89,6 +89,35 @@ And once I had the full pipeline working end-to-end, even crudely, everything go
 
 The lesson I took away — and I think about this a lot now — is that when you're working on a system, the right move is almost always to build the whole thing end-to-end as fast as you can, even if it's ugly, and then improve the weakest link. Otherwise you're optimizing things in a vacuum and you don't know what actually matters. That applies to research, it applies to product work, and I think it applies to support too — you want to see the full customer journey end-to-end before you go deep on optimizing any one part.
 
+### Talk about your experience with Eon Media
+Yeah, so Eon Media was my first co-op, back in fall of 2023 into early 2024. They're a Toronto-based media intelligence company — basically, they ingest huge volumes of video content from TV broadcasts, streaming, social media, and they extract structured data from it. Things like: which brands appeared in which shows, for how long, in what context. That data gets sold to advertisers and brand teams who want to understand where their logos are actually showing up.
+
+I was a machine learning engineer intern, and my main project was building out their brand and logo recognition pipeline. The existing system was missing a lot of detections — partially occluded logos, weird angles, low-resolution clips — so I rebuilt the detection layer using YOLOv8 and added OpenCV-based pre-processing to handle the messier video inputs. The result was about a 30% improvement in detection accuracy, and we ran it across a back catalog of over 500,000 videos.
+
+The other piece I worked on was the workflow side. Their training and evaluation processes were pretty manual — someone would kick off a training run, wait for it to finish, manually pull metrics, manually start the next one. I built out Python-based automation that let us run 10+ training experiments per week without someone babysitting them. That sounds boring but it actually mattered a lot — it meant the team could iterate way faster on model improvements.
+
+A couple of things I took away from that experience that feel relevant here:
+
+First, that was my first real exposure to deploying ML systems at scale — not toy datasets, not academic benchmarks, but actual production video pipelines processing hundreds of thousands of real-world inputs. And the lesson there is that real-world data is messy in ways you don't anticipate. The model that works on your validation set will hit edge cases in production that you've never seen — videos with logos partially obscured by lower-thirds, weird aspect ratios, broadcast compression artifacts. You only find those by actually shipping and watching what breaks.
+
+Second, it was a small company — maybe 20-30 people at the time — so I got to see how a startup actually operates. I sat next to the engineers whose pipelines I was modifying, I'd hear customer feedback come in directly, I'd see when a model regression actually caused a problem for a paying customer. That experience of working close to the customer, even in an engineering role, is part of what's pulled me toward a support role at Matic — you see the full loop, not just your slice of it.
+
+### What is a challenge you ran into at eon media and how did you overcome it?
+Yeah, so the biggest challenge at Eon Media was actually about model evaluation, and it taught me a lesson I still think about.
+
+When I first deployed the new YOLOv8 brand detection model, the metrics looked great. On our validation set we were hitting really strong precision and recall — better than the previous system across the board. I was feeling pretty good about it. We pushed it into the production pipeline that processes the back catalog of videos.
+
+And within a week, the team started flagging issues. Customers were getting reports where major brands were missing — like, a Coca-Cola logo would be on screen for ten seconds and the system wouldn't catch it. Other times we'd get false positives — the model would label a random red shape as a brand logo because it kind of looked like one in the training distribution. The metrics said the model was better. The customers were saying it was worse. That's a really uncomfortable place to be when you're the person who shipped it.
+
+So I had to back up and figure out what was actually going on. What I found, after digging into the failure cases, was that my validation set was biased. Most of the labeled training and validation data was on relatively clean footage — high-resolution, well-lit, logos roughly centered. But real broadcast video has all kinds of stuff going on — logos behind lower-third graphics, logos in motion blur during sports highlights, logos partially occluded by people moving in front of them, broadcast compression artifacts. My validation set just didn't represent the actual distribution of what the model was going to see in production.
+
+Once I understood that, the fix was more about process than about the model itself. I worked with the team to put together a harder evaluation set — we deliberately sampled difficult cases from production: occluded logos, low-light scenes, broadcast graphics overlaying brands, motion blur. Anything that was breaking in the real world went into the eval set. Then I retrained with augmentation specifically targeting those failure modes — adding occlusion, brightness variation, compression artifacts during training so the model would see those cases before it hit them in production.
+
+The model that came out of that second iteration was the one that actually got the 30% improvement number, and more importantly, it held up in production. The complaints from the team mostly went away.
+
+The lesson I took from it — and this is the one I still think about — is that your evaluation is only as good as how well it represents reality. A model that crushes a clean test set but falls apart on real data is worse than useless, because it gives you false confidence. You have to go look at where it's actually breaking and feed that back into how you measure it. And honestly, the only way I learned that was by shipping something that broke and having to own it. You can read about distribution shift in a paper a hundred times, but it doesn't land until you're the one explaining to the team why production looks bad.
+
+I think that applies pretty directly to a support role too. You can have a great triage process on paper, but it's only as good as how well it handles the actual cases coming in. The customers tell you where your process is wrong. Your job is to listen.
 
 ## **Technical**
 
