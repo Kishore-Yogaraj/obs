@@ -213,10 +213,28 @@ And once I had the full pipeline working end-to-end, even crudely, everything go
 
 The lesson I took away — and I think about this a lot now — is that when you're working on a system, the right move is almost always to build the whole thing end-to-end as fast as you can, even if it's ugly, and then improve the weakest link. Otherwise you're optimizing things in a vacuum and you don't know what actually matters. That applies to research, it applies to product work, and I think it applies to support too — you want to see the full customer journey end-to-end before you go deep on optimizing any one part.
 
+
+### What is a Challenge you had with a customer and how did you overcome it?
+
+
 ## **Questions I Have**
+
+**Understanding the role**
 - How would you define success in this role? What would be the key indicators to you that you hired the right person?
 - What aspects of working here excite you the most?
 - Is this a roll for the summer or for the winter
 	- How would visas work for this and would we get it in time?
 - What would the day to day look like for a customer support intern 
-- 
+- How do you and the team decide when an issue is a one-off vs when it's a pattern worth flagging to engineering? Is there a formal process or is it more pattern-recognition over time?
+- The job description talks about being the voice of the customer. Can you give me an example of a time customer feedback actually changed the product or a process?
+
+**Thought about Matic Specifically**
+- When customers run into edge cases — weird home layouts, unusual flooring, pets — how does the team approach those? Is it mostly real-time debugging, or do you build up a playbook over time?
+- Privacy-first and on-device processing is a core part of the product. Does that ever create unique support challenges — like, you can't just pull logs from the cloud the way other companies can?
+
+**Care about growth and the team**
+- What does success look like for an intern in this role at the three-month mark? If we're sitting down at the end and you're telling me it went really well, what did I do?
+- What's the part of the job you find hardest, even now?
+
+**Bold**
+- Mehul and Navneet have talked about wanting to build single-purpose robots first and add complexity over time. From a support perspective, do you think about your role as supporting Matic the vacuum, or supporting customers through Matic's broader robotics journey? Because those feel like pretty different jobs over a five-year horizon.
