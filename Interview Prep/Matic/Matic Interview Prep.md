@@ -215,7 +215,19 @@ The lesson I took away — and I think about this a lot now — is that when you
 
 
 ### What is a Challenge you had with a customer and how did you overcome it?
+Yeah, so at VCycene we built autonomous composters that went out to commercial customers — restaurants, office buildings, that kind of thing. One of the harder customer situations I dealt with was a unit that kept throwing a sensor fault at a customer's site about two weeks after install. They'd call in, we'd walk them through a reset, it'd work for a few days, then the same fault would come back.
 
+The customer was getting really frustrated by the third call. From their perspective, they'd bought an expensive piece of equipment that kept breaking, and the support team kept asking them to do the same reset that obviously wasn't fixing anything. They were starting to ask about a refund.
+
+The easy thing to do would've been to just ship them a replacement unit and close the ticket. But that bothered me, because if there was an actual root cause, we'd just be shipping the same problem to the next customer. So I asked the customer if they'd be willing to let me dig in a bit before we swapped the unit.
+
+I pulled the logs from their machine and noticed the fault was always firing around the same time of day — late afternoon. I cross-referenced that with two other tickets I'd seen recently with similar symptoms, and all three customers were in commercial kitchens. My hypothesis was that the sensor was triggering when ambient humidity spiked — probably from the dinner prep rush filling the kitchen with steam — and the firmware wasn't handling it gracefully.
+
+I escalated that to our firmware team with the log evidence and the pattern across customers. They confirmed the sensor calibration had a tighter humidity tolerance than the spec suggested, and they pushed a firmware update that widened it. I flashed the update on the customer's unit remotely, followed up with them a week later, and the fault didn't come back.
+
+The customer ended up being one of our happier ones afterwards — not because nothing went wrong, but because we'd actually listened and fixed the root cause instead of papering over it. And the fix went out to every other unit in the field, so customers we hadn't even heard from yet got a better product.
+
+What I took away from it is that the most frustrated customers are usually frustrated because they feel like nobody's actually listening to them. The reset script is fine for known issues, but if the same customer is calling three times with the same problem, the script is the wrong tool. The job at that point is to slow down, take their problem seriously, and find the actual cause — even if it means more work in the short term.
 
 ## **Questions I Have**
 
