@@ -182,4 +182,6 @@ This leadership experience has pushed me to grow not just as an engineer, but as
 - WIRED gave it 10/10 — a rare perfect score
 - Reviewer called it "game-changing" and the best robot vacuum she's ever tested
 
+### Robert Scoble Interview
+
 ## **Questions I Have**
