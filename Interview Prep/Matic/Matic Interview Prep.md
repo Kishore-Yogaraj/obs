@@ -108,6 +108,78 @@ This leadership experience has pushed me to grow not just as an engineer, but as
 - Dave said he couldn't get back to the team because his father was sick
 - Matic sent him flowers
 
+### How Great Mehul is
+![[Pasted image 20260521223029.png]]
 
+### Matic Functions and Generalization
+
+**Company & Origin**
+
+- Founded by Mehul Nariyawala and Navneet Dalal
+- Core insight: people don't want powerful, noisy, complicated vacuums with huge docking stations — they want one that's quiet and easy to operate
+- Priced at $1,095 — roughly one-third the cost of other top-of-the-line robot vacuums
+
+**Hardware**
+
+- 8 inches tall, white and square with rounded corners
+- Six RGB infrared cameras on the front, top, and back — sees in color and in darkness, so it doesn't need lights on (unlike vacuums with basic optical sensors)
+- Runs on the NVIDIA Jetson Orin chip, which enables on-device learning of the home
+- Suction power of 3,200 Pa — much lower than competitors (cheapest options exceed this; high-end models hit 20,000 Pa), but the reviewer says it doesn't matter in practice
+- Small water tank built in
+- Comes with a little plumber's snake accessory for clearing clogs in the tube
+- Comes with stickers so you can give it a face (Wall-E vibe)
+
+**Waste Bag (a standout design choice)**
+
+- Contains diaper salts so it holds both wet and dry materials in one bag — no dirty water tank to empty
+- Clear, so you can see how full it is
+- HEPA filter is built into the bag itself, so you don't have to remember to replace filters separately on the vacuum
+
+**Navigation & Mapping (the key differentiator)**
+
+- Uses "long-term SLAM" / absolute mapping — builds a real mental map of the home, like a person would
+- Most competitor vacuums use relative mapping (placing walls/obstacles relative to each other with various sensors)
+- Because of absolute mapping, you can pick it up and place it anywhere in the house and it knows where it is and how to get back to the dock
+- Initial mapping takes a few minutes
+- Easy to add new rooms/spaces seamlessly — no need to remap the whole house
+- Identifies floor surfaces on its own
+- Identified a "stair" (a fireplace ledge) on its own — where other vacuums get trapped
+- Learns how to navigate obstacles over time and fails gracefully instead of getting stuck and crying for help
+
+**Cleaning Behavior**
+
+- Three-step cleaning process: general area pass → edging pass → toe-kicks pass (under sinks, ovens)
+- Cleans toe-kicks thoroughly — reviewer says no other vacuum has done this well
+- Cleaning times: ~1 hour for a 12×15 ft living room; ~2 hours to vacuum + mop a 24×28 ft kitchen, bathroom, and laundry area
+- Quiet enough to run while kids are watching TV
+
+**App**
+
+- Renders a weirdly accurate 3D model of the home — differentiates floor surfaces, furniture, and items several feet up
+- Toggleable rendering styles to reduce visual clutter
+- Joystick for manual control (reviewer says it's not as responsive as a gaming joystick — she prefers tapping/drawing on the map)
+- "Airplane mode" lets you fly through the house at eye level instead of floor level
+- Video recording feature for sending error footage to Matic's support team
+- "Clean Area" + Mop: draw on the map and the vacuum goes straight there (reviewer used this for a Campari spill)
+- "Go Here" feature: tap an opening on the map and Matic figures out how to get there
+- Multi-user support — "Add Another User" in settings lets family members control the vacuum
+- App is easy to use and shareable
+
+**Privacy**
+
+- All mapping data and analysis is processed locally between app and vacuum
+- Data stays on your devices — no cloud processing
+
+**Limitations the Article Calls Out**
+
+- Will vacuum up Lego blocks (recognizes obstacles larger than 1 inch, but Lego is small enough to be sucked up)
+- You have to tidy the house a bit before running it
+- Reviewer fills a waste bag in ~3 days instead of the projected week (blamed on her dogs and kids)
+- Missing some basic features at time of review: dirt detection, gesture controls, voice controls — Nariyawala said these are coming in software updates
+
+**Overall Reception**
+
+- WIRED gave it 10/10 — a rare perfect score
+- Reviewer called it "game-changing" and the best robot vacuum she's ever tested
 
 ## **Questions I Have**
