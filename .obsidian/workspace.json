@@ -13,62 +13,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/NavMobility/NavMobility Interview Prep.md",
+                "file": "Interview Prep/Matic/Matic Interview Prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NavMobility Interview Prep"
+              "title": "Matic Interview Prep"
             }
           },
           {
-            "id": "e214987a143181e7",
+            "id": "9850b955b2eec6ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
+                "file": "Interview Prep/Chamberlain Group/3D Tracking.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Computer Vision - Finding Lane Lines"
+              "title": "3D Tracking"
             }
           },
           {
-            "id": "99ca5b892d3f93f4",
+            "id": "051d46badabec191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investing and Finance/Getting Started With Investing.md",
+                "file": "Interview Prep/Chamberlain Group/Behavior Cloning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Getting Started With Investing"
+              "title": "Behavior Cloning"
             }
           },
           {
-            "id": "cf921ee75ac2b8c9",
+            "id": "b3adf8dbb46c7c5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Investing and Finance/Investing 101 (From a First Principles Approach).md",
+                "file": "Interview Prep/Chamberlain Group/How do you handle stress in the work environment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Investing 101 (From a First Principles Approach)"
+              "title": "How do you handle stress in the work environment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,11 +241,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e214987a143181e7",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
+    "Interview Prep/Chamberlain Group/3D Tracking.md",
+    "Interview Prep/Chamberlain Group/How do you handle stress in the work environment.md",
+    "Interview Prep/Chamberlain Group/Chamberlain Group Prep.md",
+    "Interview Prep/Chamberlain Group/Behavior Cloning.md",
+    "Interview Prep/Matic/Matic Interview Prep.md",
+    "Interview Prep/NavMobility/NavMobility Interview Prep.md",
+    "Interview Prep/Untitled",
+    "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
     "Investing and Finance/Getting Started With Investing.md",
     "Investing and Finance/Investing 101 (From a First Principles Approach).md",
-    "Deep Learning Fundamentals/Computer Vision - Finding Lane Lines.md",
     "Investing and Finance/attachments/Pasted image 20260510221048.png",
     "Investing and Finance/attachments/Pasted image 20260510220843.png",
     "Investing and Finance/attachments/Pasted image 20260510215556.png",
@@ -256,7 +262,6 @@
     "Investing and Finance/attachments",
     "Investing and Finance",
     "Cursor Knowledgebase/My Approach to Building with Cursor.md",
-    "Interview Prep/NavMobility/NavMobility Interview Prep.md",
     "Reflections/Significant/Liv.md",
     "Interview Prep/VCycene/Questions.md",
     "Technical Documentation.md",
@@ -275,11 +280,7 @@
     "Hello from laptop 1.md",
     "Hello from second laptop.md",
     "Subscriptions.md",
-    "VCycene/Debugging Project/Displaying Left and Right Pad Heater.md",
-    "Watonomous Knowledge Base/Github Commands.md",
     "Git-connection",
-    "RTOS.md",
-    "Testing Procedure.md",
     "Untitled 1.base",
     "Untitled.base",
     "attachments/Pasted image 20260428151122.png",
@@ -287,7 +288,6 @@
     "attachments/Pasted image 20260412181234.png",
     "Reflections/2026/April",
     "4th Year/attachments/Pasted image 20260328152919.png",
-    "4th Year/attachments",
-    "4th Year"
+    "4th Year/attachments"
   ]
 }
