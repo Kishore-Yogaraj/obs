@@ -1,3 +1,6 @@
+
+
+## **Behavioral**
 ### Tell me About Yourself
 I'm a 3B mechanical engineering student at the University of Waterloo, with most of my focus the last three years going into robotics and autonomy.
 
@@ -20,6 +23,23 @@ What I learned from this project is how crucial **data association** is when tra
 
 Additionally, I learned about the importance of real-time performance optimization. While the theory behind these algorithms is powerful, implementing them efficiently, so they run in real-time on self-driving cars, was a challenge that required a lot of testing and tuning.
 
+### How do you handle Stress in the work environment
+I handle stress by staying organized and maintaining a clear focus on priorities. When I’m faced with a challenging workload or tight deadlines, I break tasks down into manageable steps and set clear goals for each. This helps me stay on track and reduces the feeling of being overwhelmed. I also find that taking short breaks to reset, even just a few minutes away from the task, can help me come back with a fresh perspective and renewed focus.
+
+Communication is also key for me. If a project becomes particularly demanding, I ensure to keep the lines of communication open with my team or stakeholders to manage expectations and seek input if needed. This has been especially important in roles like my time at Watonomous, where balancing multiple perception projects required careful time management and collaboration to ensure the team stayed aligned.
+
+I view stress as a signal that something needs attention, and I try to channel it into problem-solving and maintaining a productive mindset. Additionally, I practice mindfulness techniques to keep a clear head and remain calm, even during high-pressure situations.
+
+### How do you deal with conflict in a team and what is an example of you resolving a conflict
+I believe the key to handling conflict on a team is open communication, active listening, and finding common ground. When conflicts arise, I focus on understanding the perspectives of everyone involved and working collaboratively to find a solution that benefits the project and the team. It’s important to address conflicts early before they escalate, and I strive to create a positive environment where team members feel comfortable expressing their views.
+
+For example, while working at Watonomous as the perception lead, there was a disagreement between two team members over the best approach for implementing a 3D object tracking algorithm. One member wanted to stick with a Kalman Filter-based solution, while the other was advocating for trying a newer, more complex algorithm that they believed could provide better performance but required more development time. This disagreement was creating delays in moving forward with the project.
+
+To resolve the conflict, I brought both team members together for a discussion where we could openly explore the pros and cons of each approach. We walked through the requirements, timelines, and the potential risks and benefits of each option. After facilitating this conversation, we decided to implement a test for both approaches on a smaller dataset to compare their performance. In the end, the Kalman Filter approach proved to be sufficient for the current phase of the project, while we noted the alternative method for future improvements.
+
+By taking a collaborative, data-driven approach to resolving the conflict, we were able to move forward quickly, and both team members felt that their perspectives had been heard and respected.
+
+## **Technical**
 ### How did the Kalman Filter and Hungarian Algorithm work in your 3D tracking node?
 In my 3D tracking node, I used the Kalman Filter and Hungarian Algorithm to track objects like cars and pedestrians from sensor data in real-time. These two algorithms work together to maintain accurate tracking, even when objects temporarily disappear from the sensor’s view or overlap.
 
@@ -44,3 +64,50 @@ The root of the problem was that the **Hungarian Algorithm**, which I was using 
 To solve this, I fine-tuned the **cost function** in the Hungarian Algorithm, which determines how the detections are matched to the tracked objects. Instead of just relying on the distance between predicted and detected positions, I incorporated additional information like the size and velocity of the objects into the cost function. This gave the algorithm more context when making its matching decisions, making it less likely to switch object identities when they were close together.
 
 This adjustment significantly improved the accuracy of the tracking system. It taught me that even small changes in how you handle data association can make a big difference, and that combining multiple features—not just position—can help make the system more robust.
+
+### Talk About Your Experience with Eon Media
+During my time at Eon Media, I worked as an AI/ML developer, primarily focusing on integrating machine learning models into their media platform. One of the key projects I worked on was building a **facial recognition system** using **FaceNet**. This involved training the model to recognize and verify faces with high accuracy. I was responsible for the full pipeline—everything from preprocessing the images and training the model, to deploying it within the platform.
+
+In addition to facial recognition, I worked on optimizing and fine-tuning other AI models to improve the platform’s ability to analyze and categorize large amounts of media content. This experience not only sharpened my skills in machine learning but also exposed me to the challenges of integrating AI models into real-world, production-level systems.
+
+One of the key things I learned from my experience at Eon Media was the importance of balancing model performance with scalability. Working in a fast-paced media environment required our models to run efficiently on large datasets without sacrificing accuracy. It was a great learning experience in applying machine learning in a real-world setting, and I gained valuable insights into building models that can be scaled and deployed in production.
+
+### How Does FaceNet Work
+FaceNet is a deep learning model used for facial recognition and verification, but it works differently from traditional classification models. Instead of simply classifying faces, FaceNet maps each face into a **high-dimensional embedding space**, where the distance between embeddings represents the similarity between faces.
+
+Here’s how it works:
+
+- **Embedding Generation**: When an image of a face is passed through FaceNet, it doesn’t just classify the face; instead, it generates a 128-dimensional vector called an **embedding**. This embedding captures the unique features of the face.
+    
+- **Distance-Based Comparison**: Once the embeddings are created, the similarity between two faces is measured by calculating the **Euclidean distance** between their embeddings. If the distance is small, the faces are similar (i.e., the same person); if the distance is large, they belong to different people.
+    
+- **Training with Triplet Loss**: FaceNet is trained using a technique called **triplet loss**. During training, the model is given three types of images:
+    
+    1. **Anchor**: the reference face.
+    2. **Positive**: a face of the same person as the anchor.
+    3. **Negative**: a face of a different person.
+    
+    The goal is to minimize the distance between the anchor and positive embeddings while maximizing the distance between the anchor and negative embeddings. This helps the model learn to cluster faces of the same person closely together in the embedding space and push faces of different people further apart.
+    
+
+By using this embedding-based approach, FaceNet is not only great for recognizing who a person is but also for verifying whether two faces belong to the same person. This makes it highly effective for tasks like facial verification, clustering, and identification
+
+### Talk About Your Experience with Watonomous
+My experience with Watonomous has been incredibly rewarding, especially in my current role as **Co-Captain**, where I lead and manage a multidisciplinary team building cutting-edge autonomous systems — including self-driving cars, humanoid robots, and autonomous RC vehicles. This position has given me the opportunity to contribute both technically and organizationally across several subsystems, while driving the strategic direction of our projects.
+
+One of the major technical initiatives I led was the development of a **3D object tracking system** using the **Kalman Filter** and **Hungarian Algorithm**, which enabled real-time tracking of vehicles and pedestrians. I also built a **YOLOv8-based object detection node** for recognizing traffic signs and cars, integrating it into our perception stack. This required tight collaboration with our hardware subteam to ensure sensor and compute system integration worked reliably on the vehicle.
+
+As Co-Captain, I’ve worked across perception, planning, and systems teams to ensure seamless integration of components. I’m also heavily involved in project management—coordinating timelines, facilitating cross-functional syncs, and aligning our technical direction with the competition goals. A big part of my role involves mentoring junior members, onboarding new recruits, and ensuring that knowledge transfer and documentation are prioritized so that progress is sustainable.
+
+This leadership experience has pushed me to grow not just as an engineer, but as a systems thinker and team builder. It’s strengthened my ability to take ownership of complex problems, communicate across disciplines, and deliver real-world solutions in the autonomous vehicle space.
+
+## **Cool Things About the Company**
+
+### Story with Dave
+- Dealing with a wheel squeaking issue 
+- Dave said he couldn't get back to the team because his father was sick
+- Matic sent him flowers
+
+
+
+## **Questions I Have**
