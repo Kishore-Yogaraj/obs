@@ -157,7 +157,45 @@ To solve this, I fine-tuned the **cost function** in the Hungarian Algorithm, wh
 This adjustment significantly improved the accuracy of the tracking system. It taught me that even small changes in how you handle data association can make a big difference, and that combining multiple features—not just position—can help make the system more robust.
 
 ### 5 Bar Parallel Scara Project
+Yeah, the project I'd want to talk about is my ME380 capstone — a 5-bar parallel SCARA pick-and-place robot. ME380 is the mechanical engineering design workshop at Waterloo, and the project ran through winter 2026. The goal was to build a robot arm that could autonomously identify colour-coded 3D-printed objects with an overhead camera, figure out where they were in the real world, pick them up, and sort them into the right drop zone — all within ±5 mm positional accuracy.
 
+I was on a small team, and I owned the entire software stack. So that meant four pieces working together: the inverse kinematics solver, the computer vision pipeline, the simulation tools we used to validate the design, and the embedded control integration over UART to the ESP32.
+
+The inverse kinematics side was a closed-form solution for the 5-bar parallel linkage — given an (x, y) target, the solver figures out the angles for both motors using the law of cosines, and I added a singularity guard that rejects any configuration where the linkage is within 15 degrees of fully extending or folding. That matters because near singularities the mechanical advantage collapses — small motor errors produce huge end-effector errors — so you want to eliminate that whole region from the workspace.
+
+The computer vision pipeline was the piece I spent the most time on. It takes a frame from an overhead webcam, removes lens distortion using the camera's intrinsic calibration, segments objects by colour in HSV space — red is actually tricky because in HSV red wraps around both ends of the hue wheel, so you need two separate ranges combined with a bitwise OR — filters contours by area and shape solidity to throw out noise and partial detections, extracts the orientation of each object, and then transforms everything from pixel coordinates into real-world millimetres using a homography.
+
+The reason I'm proud of this project specifically — there are a few reasons.
+
+First, it actually worked. We hit the ±5 mm accuracy target, the robot successfully sorted both red and blue objects during the final demo, and the singularity guard meant the arm never tried a move that would have damaged the hardware. That's not always how capstone projects go.
+
+Second, I owned the full software stack end-to-end. There was nowhere to hide — if vision was failing, that was mine; if the IK math was wrong, that was mine; if the serial protocol was glitching, that was mine. I had to be fluent across all of it, and I had to make architectural decisions about how those pieces talked to each other. The protocol I designed between the Python host and the ESP32 was deliberately minimal — just two comma-separated motor commands per line over UART — because it had to be easy to debug at three in the morning the week before the demo. Simple choices made under that kind of pressure are choices I'm proud of.
+
+Third — and this is the one I keep coming back to — the biggest accuracy problem we ran into wasn't software at all. The camera was mounted too low, which introduced parallax error: because the objects had real height, the camera saw their tops displaced from where their bases actually sat on the workspace. And the error was direction-dependent — objects farther from directly under the camera deviated more. I could partially correct it in software, but the real fix would have been mounting the camera higher in the first place. That taught me that sensor geometry isn't a software problem you can paper over — it's a first-order design decision that has to be part of the mechanical conversation from day one. I think that lesson about the hardware-software boundary is something I'll carry into every robotics project I work on after this.
+
+### What is an issue you faced with the project and how did you overcome it?
+Yeah, the biggest issue I ran into on the SCARA project actually wasn't a software bug — it was a problem that exposed a flaw in how we'd thought about the design as a whole.
+
+When we started doing pick tests on the assembled robot, the accuracy was off. Not catastrophically — the robot was getting close — but consistently off by enough that we were missing picks, especially toward the edges of the workspace. And the error wasn't random. It had a direction to it. Objects in the corners of the camera frame were always being targeted at a position offset _toward_ the centre of the workspace. The closer to the camera's centerline, the smaller the error.
+
+My first instinct was that it had to be a software problem. I'd done the homography calibration, I'd done the camera intrinsic calibration to remove lens distortion, I'd built the orientation extraction with the Jacobian correction — everything on the software side felt like it should be right. So I spent maybe a day and a half re-checking the math, re-running calibrations, adding more debug visualizations, trying to find where my pipeline was wrong.
+
+And I couldn't find it. The pipeline was right.
+
+What finally clicked was when I actually put a ruler on the workspace and started measuring the error by hand. The pattern looked exactly like parallax — the kind of effect where if you look at a tall coffee cup from an angle, the rim looks displaced from where the base actually sits on the table. And the benchys we were picking had real height — maybe 40 millimetres tall. The overhead camera wasn't directly above the workspace, it was mounted at a height where there was a meaningful viewing angle from the centre out to the corners. So the camera was seeing the _top_ of each benchy, but the IK solver was being told to go to the position of the top, when it actually needed to go to the position of the base.
+
+That's a problem you can't fully fix in software without knowing the exact height of every object in the frame on a per-pixel basis. The real solution was mechanical — the camera needed to be mounted significantly higher to shrink the viewing angle and make the parallax negligible.
+
+So I had to go to my teammates with this. And the conversation was tricky because the camera mount had been designed and built weeks earlier — at the time, we'd treated camera placement as a "wherever fits" decision, not a precision-critical one. Asking them to redesign and reprint the mount that late in the project was a real ask. I tried to make it easy on them: I pulled my measurements, showed them the error pattern visually, and demonstrated with a simple geometric sketch why no amount of software work was going to fix this completely. I also offered a fallback — I could implement a per-pixel parallax correction in software using the object's known height and the camera's known geometry, which would get us most of the way there if mounting changes weren't feasible. That gave them a real choice rather than just a complaint.
+
+In the end they were able to raise the camera enough to bring the worst-case error down into the range where the software correction could close the rest of the gap. And the system hit its ±5 mm accuracy target during the final demo.
+
+The lesson I took from this is that when something's going wrong, your first instinct is to look in your own domain — for me as the software person, that meant assuming the bug was in my pipeline. But sometimes the problem is at the interface between domains, and the only way to find it is to actually go put your hands on the physical system, take measurements, and be willing to say "this isn't a software problem." The other lesson is about how you bring issues to teammates — coming in with data and a fallback option instead of just a problem makes it a much easier conversation.
+
+I think both of those translate pretty directly to support work too. When a customer says something's broken, the easy thing is to assume it's the thing you know best — the firmware, or the app, or whatever. But sometimes the real issue is at the interface — between the robot and a weird floor surface, between the app and someone's WiFi setup, between user expectations and what the product actually does. The job is to be open to that, and when you find the answer, to bring it to engineering in a way that makes the fix easy to act on.
+
+
+## Customer Support Role Interview Prep
 
 
 ## **Cool Things About the Company**
