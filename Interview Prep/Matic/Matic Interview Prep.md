@@ -156,6 +156,8 @@ To solve this, I fine-tuned the **cost function** in the Hungarian Algorithm, wh
 
 This adjustment significantly improved the accuracy of the tracking system. It taught me that even small changes in how you handle data association can make a big difference, and that combining multiple features—not just position—can help make the system more robust.
 
+### 5 Bar Parallel Scara Project
+
 
 
 ## **Cool Things About the Company**
