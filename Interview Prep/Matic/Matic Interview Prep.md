@@ -416,6 +416,11 @@ And throughout all of this, the customer in front of me still needs an answer. S
 
 The thing I'd never do is throw engineering under the bus to the customer — 'yeah engineering says it's working as designed' is the worst possible thing to say. That tells the customer the company doesn't have their back. The framing should always be 'this is how the product works today, here's why, here's what I'm doing about it on your behalf
 
+### Machine has Smell
+
+
+
+
 ### Kalman Filter Customer Breakdown
 
 Sure — I'd start with what a Kalman filter actually is in everyday terms, then connect it to what I built.
@@ -439,6 +444,67 @@ The project I used it on was at TU Hamburg. We had a small wheeled robot in simu
 The reason this matters for the Matic conversation is the underlying bet is the same. The Matic uses cameras only — no LIDAR, no special sensors. Whether or not it uses NeRF specifically, the _idea_ is the same family: building a rich 3D understanding of a home from partial 2D views, and using that understanding to navigate intelligently. The work I did was an early version of the same problem Matic is solving in real homes today.
 
 Shortest version: it's how a robot builds a complete picture of a space from incomplete glimpses.
+
+### Generalist Customer Service Questions
+### 1. How do you handle difficult customers?
+
+> "The frame I'd start with: difficult customers are almost never difficult for no reason. Usually they're frustrated because something stopped working, or they've been bounced around, or they feel unheard. So my first move is always to figure out which of those it is.
+> 
+> Practically — I'd start by genuinely acknowledging the frustration without making it sound scripted. Then I'd let them talk. A lot of 'difficult' customers de-escalate themselves if they actually feel heard for the first thirty seconds. Then I'd take ownership and tell them what I'm going to do, with a clear timeline. The two things I'd never do are get defensive or over-promise — both make it worse.
+> 
+> And honestly, the customers who are hardest in the moment are often the most loyal afterwards, because they remember the company that actually fixed it."
+
+
+### 2. How do you prioritize multiple customer requests?
+
+> "I'd think about three axes: severity, customer impact, and time-sensitivity.
+> 
+> Severity is about whether the robot is broken or merely annoying — a robot that won't run at all is a higher priority than one that's missing a corner. Customer impact is who's affected — one customer or a pattern across many. Time-sensitivity is whether there's a deadline or escalation risk — someone threatening a chargeback or about to leave a public review is different from someone patiently waiting.
+> 
+> In practice, I'd triage incoming tickets quickly into something like 'fire,' 'urgent,' and 'standard,' and work fires first. But I'd also batch similar issues — if I have five tickets about the same furniture issue, I'd handle them together because the diagnostic work is shared.
+> 
+> The thing I'd protect against is letting the loudest customer always win. Sometimes the quiet customer with a more serious issue is the one who actually needs attention first."
+
+
+### 3. How would you handle a situation where a customer is not satisfied with your solution?
+
+> "First thing — I'd take it seriously and not get defensive about the solution. If the customer isn't satisfied, the solution didn't work for them, even if technically it 'should' have. That's information, not pushback.
+> 
+> Then I'd actually ask them what would make it right. A lot of the time people don't expect the actual problem to be solved perfectly — they want acknowledgment, a workaround, or some sign the company cares. Sometimes what they want is reasonable and easy. Sometimes it's not, and I'd be honest about what's possible and what isn't, but I'd never just say 'sorry, that's our policy.'
+> 
+> If we genuinely can't give them what they want, I'd escalate — both to make sure the right person weighs in, and so the customer feels they've been heard at a higher level than just me. And I'd document what didn't work, so next time we know the original solution wasn't sufficient for that class of issue."
+
+### What would you do if you didn't know the answer to a customer's question?
+
+> "Tell them I don't know.
+> 
+> Honestly — the worst thing I could do is make something up or stall with vague language. Customers can tell, and it destroys trust faster than the original question ever could. So I'd just say 'I don't know off the top of my head, but I'll find out and get back to you by [specific time].'
+> 
+> Then I'd actually figure it out — first by checking internal documentation or past tickets, then by asking the right teammate or engineer. And when I came back to the customer, I'd give them the answer plus a bit of context about _why_ it's that way, not just the bare answer.
+> 
+> The one thing I'd watch for is patterns. If three customers in a week ask me the same question I didn't know the answer to, that's a sign our documentation has a gap, and I'd flag it. 'I don't know' is fine once; it shouldn't be 'I don't know' five times for the same thing."
+
+
+### Questions for Vivek
+#### Vivek's Transition and Perspective
+- You've been here two months. What's surprised you most about how Matic operates compared to TerraClear?
+- You've now done this twice — TerraClear and Matic — deploying autonomous hardware into real-world environments your team doesn't control. What's the pattern in what breaks first when customers actually get the product?
+- At TerraClear and at Bain, you've operated in roles where success looks completely different — building something from scratch versus advising. What's the part of your operating style that's been most transferable across those different contexts?
+
+#### Questions about the role and what success looks like
+- What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?
+- How does the feedback loop from support tickets back into engineering actually work today? Is it formalized, or is it still figuring itself out?
+- What's the hardest part of this role that isn't obvious from the job description?
+
+#### Company Bets and Strategy
+- Matic made a real bet on RGB-only, on-device, no LIDAR. From an operations perspective, what does that bet _cost_ you that customers don't see? Like, what's the operational tax of that engineering choice?
+- As Matic scales and ticket volume grows, what do you think breaks first about how support works today?
+- Matic talks about being a flat, no-politics organization. Two months in, what's been the reality of that? What does it look like in practice when there's actual disagreement?
+- How do you think about the line between 'this customer issue is a one-off' and 'this is a product problem that needs to escalate'? Who actually owns that judgment day-to-day?
+
+
+
+
 
 ## **Cool Things About the Company**
 
