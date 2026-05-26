@@ -223,8 +223,41 @@ But the more interesting thing to me is what those choices _mean_ for customers.
 
 The trade-off I find honest is the height. At 7.8 inches, it doesn't fit under most beds or low sofas. That's a real limitation, and the fact that Matic ships the product with that constraint instead of compromising the camera stack to fix it tells me a lot about how the team makes decisions. They optimized for the thing that matters most — actually mapping the home well — and accepted a known cost. That's the kind of trade-off I'd want to be able to explain clearly to a customer who asks about it.
 
-### Issues with the Matic Robot
+### Pros and Cons of Matic Robots
 
+### Pros
+
+**Raw cleaning is class-leading.** 8.11 kPa suction on max power — the highest score Vacuum Wars has ever recorded out of nearly 200 robot vacuums tested, roughly eight times the 0.86 kPa average. Airflow of 35 CFM, more than double the 17 CFM average and the second-highest ever recorded. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Pet hair pickup is perfect.** A perfect 100% score on the 2½-inch flattened pet hair pickup test, compared to the 81% average. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Mopping is above average and water-efficient.** Scored 147 points on dried-on stain testing while using only 0.8 g of water, for a combined score of 263 vs. the 184 average. Uses its camera system to recognize and avoid carpets during mopping, allowing it to vacuum and mop mixed flooring in a single run without wetting carpets. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)[Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Hair tangle resistance is excellent.** In the 7-inch hair test, only about 7% of hair wrapped around its brush, compared to a 28% average. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Massive dust capacity.** 1,000 ml disposable bag vs. the 400 ml average — technically the largest onboard dustbin capacity Vacuum Wars has tested. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Quiet operation.** Around 55 dB, noticeably quieter than many competitors. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Privacy + on-device intelligence.** Five RGB-IR cameras with SLAM creating photorealistic 3D maps stored entirely on-device — nothing uploaded to the cloud. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Graceful movement.** Two large independently driven wheels give it a smart, deliberate, and unusually graceful movement pattern. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+### Cons
+
+**No multifunctional dock.** Nearly all premium robot vacuums now include a base station that empties the internal dustbin, washes and dries mop pads, manages water tanks, and reduces required maintenance. The Matic simply does not offer it. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Tall — can't fit under furniture.** At 7.8 inches, it is the tallest robot vacuum Vacuum Wars has tested, compared to an average height of 3.7 inches. In many homes, the Matic simply cannot reach under most beds or couches. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Moisture + odor in the bag.** The roller-style mop pad squeezes out dirty water that collects in the same bag that stores dirt and debris. After about a week of typical use, the smell became noticeable. Owners will need to replace the bag more frequently than with other systems. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Slow navigation.** In navigation efficiency testing, the Matic covered only 0.52 square meters per minute, significantly below the 0.75 average. A floor plan that typically took other robot vacuums about an hour took the Matic 227 minutes to complete. Even partial cleanings routinely ran two hours. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Below-average obstacle avoidance in the lab.** In standardized avoidance testing, it avoided 14 of 24 objects, slightly below the average of 17 — although during real-world use, obstacle avoidance felt noticeably better than the test score suggests. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)[Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Limited coverage per charge.** Estimated coverage is about 755 square feet per charge — slow navigation severely limits the square footage it can clean on a single charge. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
+
+**Didn't make the Top 20 list.** After compiling all testing data, the Matic did not qualify for the Vacuum Wars Top 20 Robot Vacuums list. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
 
 
 
