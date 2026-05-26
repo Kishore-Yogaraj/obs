@@ -309,35 +309,55 @@ Scenario questions like this aren't tests of whether you know the right "answer"
 Five steps. Always in order. Every customer complaint runs through this.
 
 #### 1. Acknowledge
-
 - Respond quickly. Even a holding message within the hour matters.
 - Use their name. Make it clearly human, not templated.
 - Own the problem on behalf of Matic — don't deflect.
 
 #### 2. Validate
-
 - Acknowledge the _specific_ frustration, not a generic "sorry that's frustrating."
 - Match the emotional weight of the issue. Angry customer = warmer, slower response. Confused customer = patient, explanatory response.
 - _Then pause._ Let them feel heard before you barrel into solving.
 
 #### 3. Diagnose
-
 - Ask the right questions before guessing. Better one good diagnostic question than three solution attempts.
 - For Matic, the key diagnostic axes are usually: _what specifically is happening_, _when did it start_, _every time or intermittent_, _what changed recently_, and _can you share the cleaning log or app screenshot_.
 - Distinguish between: a real bug, a known product trade-off, a setup/onboarding issue, or a customer-expectation mismatch. Each gets a different response.
 
 #### 4. Resolve
-
 - Offer an immediate workaround alongside any longer-term fix. Customer feels helped _now_, not just "we'll look into it."
 - Set realistic expectations with specific timelines. "I'll get back to you by Friday" beats "soon."
 - If you can't fix it yourself, escalate cleanly — and stay the point of contact for the customer so they're not bounced around.
 - Never over-promise. "I don't know yet" beats a vague guarantee every time.
 
 #### 5. Feed back
-
 - Tag the ticket carefully so patterns are visible later.
 - One ticket is data. Three is a signal. Ten is a roadmap item.
 - The flywheel is real: support is the conduit between customers and product. If you don't close this loop, customers experience the same issue again next month.
+
+
+### Two overlays that modify the framework
+
+These are the moves that turn a _good_ answer into a _great_ one. Apply them on top of AVDR-F when relevant.
+
+#### Overlay 1: Is this a bug, a trade-off, an expectation gap, or user error?
+
+This is the single most important diagnostic question you should ask yourself before responding to any complaint. Each category requires a different conversation:
+
+- **A real bug:** "We're going to fix this. Here's the workaround in the meantime."
+- **A known product trade-off:** "This is a deliberate design choice — here's why it exists, here's what we do to mitigate it, here's a workaround." (The smell complaint is this category.)
+- **An expectation gap:** "The product doesn't do exactly what you expected. Here's what it actually does, and here's how to get the outcome you want." (Customer expecting Matic to fit under low furniture is this.)
+- **User error / setup issue:** "I think I know what happened — let's walk through it together." Never frame as their fault, even if it technically is. Frame as a product or onboarding opportunity instead.
+
+#### Overlay 2: Internal vs. external response
+
+For any meaningful complaint, you're doing _two things in parallel_:
+
+- **Externally:** what you say and do for the customer
+- **Internally:** what you do behind the scenes — escalation, tagging, pattern-tracking, looping in product or engineering
+
+A great support person runs both tracks deliberately. A junior one only does the external track and forgets the internal one.
+
+When Vivek's question explicitly says "...and what do you do internally," he's testing whether you naturally think this way. But you should think this way for _every_ scenario, even when he doesn't ask explicitly.
 
 
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
