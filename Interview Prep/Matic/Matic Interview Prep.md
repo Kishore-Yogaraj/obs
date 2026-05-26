@@ -565,6 +565,15 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 
 #### Questions about the role and what success looks like
 - **What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?**
+	- Taking that reputation for having good customer service
+	- Understanding customers very well 
+	- Hitting out of the park
+		- Someone who takes a systems approach
+		- So many tickets of this and breaking them down
+		- They're all around this type of issue
+		- Looking at tools and systems to actually scale the team
+		- Building out internal tools to help the team 
+		- Really scaled the customser
 - How does the feedback loop from support tickets back into engineering actually work today? Is it formalized, or is it still figuring itself out?
 - **What's the hardest part of this role that isn't obvious from the job description?**
 - How closely does support work with engineering?
