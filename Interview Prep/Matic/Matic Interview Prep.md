@@ -197,6 +197,21 @@ I think both of those translate pretty directly to support work too. When a cust
 
 ## Customer Support Role Interview Prep
 
+### Why Customer Support
+
+
+
+
+### Why Matic Specifically
+### What do you know about the product
+
+### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
+
+### You notice three different customers this week reporting the robot getting stuck under the same type of low-clearance furniture. What do you do?
+
+### A customer is angry — they say the robot mapped their house wrong and missed a whole room. How do you respond, and what do you do internally?
+
+### You suspect a bug, engineering says it's working as designed. How do you handle it?
 
 ## **Cool Things About the Company**
 
