@@ -259,8 +259,38 @@ The trade-off I find honest is the height. At 7.8 inches, it doesn't fit under m
 
 **Didn't make the Top 20 list.** After compiling all testing data, the Matic did not qualify for the Vacuum Wars Top 20 Robot Vacuums list. [Vacuum Wars](https://vacuumwars.com/matic-robot-vacuum-review/)
 
+### Matic vs Dreame X60 Ultra Max
+Honestly, I'd start by validating that the Dreame X60 is a genuinely great robot — it just topped the Vacuum Wars list, and pretending otherwise would lose the customer's trust immediately. What I'd then explain is that they're solving different problems.
 
+Dreame is the best-refined version of the existing robot vacuum paradigm. They've spent years iterating on LiDAR-based navigation with cloud-assisted intelligence and increasingly elaborate docks. If what you want is a polished version of what a robot vacuum has been for the last five years, with maximum convenience and minimal maintenance, the X60 is a fantastic choice.
 
+Matic is a different bet. We rebuilt from scratch around three constraints: the robot should actually understand your home in 3D, all the intelligence should run on-device so your data never leaves the house, and the product should keep getting better through software because the autonomy is the product. The 1,000 mL bag, the on-device compute, the camera-only navigation — those choices come with trade-offs the customer should know about: it's taller, it's slower today, and we don't have an auto-empty dock yet. But the architecture is the one that gets better over time, and a customer's Matic today won't be the same Matic in 12 months.
+
+The honest framing is: if convenience-first matters more than anything, Dreame is probably the right call right now. If you care about owning a robot that learns your home and gets smarter, and you care about your data staying private, Matic is the bet.
+
+![[Pasted image 20260525212422.png]]
+
+### The honest read
+
+**Where the Dreame X60 wins decisively:**
+- Auto-empty dock and overall convenience (huge — this is the dominant trend in the premium market)
+- Obstacle avoidance (22/24 vs. 14/24)
+- Height — fits under furniture (3.13" vs. 7.8")
+- Threshold climbing
+- Speed of cleaning / coverage per charge
+- Mature app ecosystem, Matter, voice assistants
+- Overall "polish" and feature breadth — it's a refined 5th-gen flagship from a giant that ships millions of robots
+
+**Where Matic wins decisively:**
+- Raw suction (the highest VW has ever recorded)
+- Pet hair pickup (perfect — but so is Dreame)
+- Dustbin capacity (4x larger)
+- Privacy (on-device, no cloud — Dreame is cloud-connected)
+- Quiet operation (55 dB)
+- Vacuum-and-mop in a single pass without soaking carpets
+- Software-improvable architecture — the navigation will get faster over time, the LiDAR-based architecture is more locked in
+- It's $500 cheaper
+- It's made by an independent US company, not a Chinese consumer electronics giant
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
 
 ### You notice three different customers this week reporting the robot getting stuck under the same type of low-clearance furniture. What do you do?
