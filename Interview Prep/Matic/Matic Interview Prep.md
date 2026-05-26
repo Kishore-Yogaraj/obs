@@ -302,6 +302,44 @@ Scenario questions like this aren't tests of whether you know the right "answer"
 4. **Cross-functional instinct.** Do you know when and how to involve engineering / product?
 5. **Closing the loop.** Do you follow up with the customer _and_ feed insight back into the product?
 
+### The Framework: **AVDR-F**
+
+**Acknowledge → Validate → Diagnose → Resolve → Feed back**
+
+Five steps. Always in order. Every customer complaint runs through this.
+
+#### 1. Acknowledge
+
+- Respond quickly. Even a holding message within the hour matters.
+- Use their name. Make it clearly human, not templated.
+- Own the problem on behalf of Matic — don't deflect.
+
+#### 2. Validate
+
+- Acknowledge the _specific_ frustration, not a generic "sorry that's frustrating."
+- Match the emotional weight of the issue. Angry customer = warmer, slower response. Confused customer = patient, explanatory response.
+- _Then pause._ Let them feel heard before you barrel into solving.
+
+#### 3. Diagnose
+
+- Ask the right questions before guessing. Better one good diagnostic question than three solution attempts.
+- For Matic, the key diagnostic axes are usually: _what specifically is happening_, _when did it start_, _every time or intermittent_, _what changed recently_, and _can you share the cleaning log or app screenshot_.
+- Distinguish between: a real bug, a known product trade-off, a setup/onboarding issue, or a customer-expectation mismatch. Each gets a different response.
+
+#### 4. Resolve
+
+- Offer an immediate workaround alongside any longer-term fix. Customer feels helped _now_, not just "we'll look into it."
+- Set realistic expectations with specific timelines. "I'll get back to you by Friday" beats "soon."
+- If you can't fix it yourself, escalate cleanly — and stay the point of contact for the customer so they're not bounced around.
+- Never over-promise. "I don't know yet" beats a vague guarantee every time.
+
+#### 5. Feed back
+
+- Tag the ticket carefully so patterns are visible later.
+- One ticket is data. Three is a signal. Ten is a roadmap item.
+- The flywheel is real: support is the conduit between customers and product. If you don't close this loop, customers experience the same issue again next month.
+
+
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
 
 **1. Acknowledge (first hour)**
@@ -359,6 +397,8 @@ Track two: before I take this to engineering, I do my homework. I want to bring 
 One thing I'd flag here specifically — the Matic is the tallest robot vacuum on the market at 7.8 inches. That's a deliberate trade-off, and 'getting stuck under low furniture' might not be a bug — it might be the mapping system letting the robot enter a space that's borderline navigable. Which means the fix might be at the mapping level, not the planner level. That's a much more interesting conversation with engineering.
 
 Then — and this is the part most people would miss — if three customers hit this in a week, more customers will hit it next week. So I'd also: prep a workaround response for the rest of the support team so we're consistent, work with product on whether we update the in-app messaging or onboarding to flag clearance limits, and ask whether we can proactively notify customers whose mapped homes have similar clearance characteristics. That's the move from reactive to proactive, and it's the only kind of support that scales as Matic grows."
+
+
 
 ### A customer is angry — they say the robot mapped their house wrong and missed a whole room. How do you respond, and what do you do internally?
 
@@ -507,6 +547,7 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 - What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?
 - How does the feedback loop from support tickets back into engineering actually work today? Is it formalized, or is it still figuring itself out?
 - What's the hardest part of this role that isn't obvious from the job description?
+- How closely does support work with engineering?
 
 #### Company Bets and Strategy
 - Matic made a real bet on RGB-only, on-device, no LIDAR. From an operations perspective, what does that bet _cost_ you that customers don't see? Like, what's the operational tax of that engineering choice?
