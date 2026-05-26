@@ -221,8 +221,12 @@ At the basic level — RGB-only, on-device autonomy, no LIDAR, no cloud. Five to
 
 But the more interesting thing to me is what those choices _mean_ for customers. The on-device compute means privacy is structural, not a policy — a customer's home data physically never leaves the robot. The long-term SLAM means if someone picks the robot up and moves it to a different room, it relocalizes instead of breaking — which removes a huge class of support tickets. The infrared cameras mean it works in the dark, so customers can run it overnight without thinking about lighting.
 
+The trade-off I find honest is the height. At 7.8 inches, it doesn't fit under most beds or low sofas. That's a real limitation, and the fact that Matic ships the product with that constraint instead of compromising the camera stack to fix it tells me a lot about how the team makes decisions. They optimized for the thing that matters most — actually mapping the home well — and accepted a known cost. That's the kind of trade-off I'd want to be able to explain clearly to a customer who asks about it.
 
-[Optional spot for video observation: 'One thing that stood out to me in the MKBHD review was X...']
+### Issues with the Matic Robot
+
+
+
 
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
 
