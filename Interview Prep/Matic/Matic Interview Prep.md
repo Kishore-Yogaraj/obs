@@ -351,17 +351,94 @@ Last — closing the loop. I'd follow up with the customer a week after fixing i
 
 ### You notice three different customers this week reporting the robot getting stuck under the same type of low-clearance furniture. What do you do?
 
+The first thing I'd notice is that three reports of the same thing in one week isn't three tickets — it's a signal. So I'd actually run two things in parallel.
 
+Track one: each of those three customers needs a real response today, not next week when engineering has a fix. I'd acknowledge each one individually, offer an immediate workaround — a no-go zone around the furniture, or lifting the robot manually until we resolve it — and tell them honestly that we've seen this pattern, we're escalating, and I'll come back with an update.
 
+Track two: before I take this to engineering, I do my homework. I want to bring them a cluster, not a panic. What's the furniture exactly — same type, same clearance height? Same firmware version on all three robots? Same map characteristics? Are there more cases in the queue I haven't been tagged on? Once I have that, I bring it to perception with the data: 'three customers this week, all sub-8-inch clearance, all firmware X, all logs attached, here's my hypothesis — what's yours?' That's how I earn the engineering team's trust over time, by bringing them signal rather than noise.
+One thing I'd flag here specifically — the Matic is the tallest robot vacuum on the market at 7.8 inches. That's a deliberate trade-off, and 'getting stuck under low furniture' might not be a bug — it might be the mapping system letting the robot enter a space that's borderline navigable. Which means the fix might be at the mapping level, not the planner level. That's a much more interesting conversation with engineering.
 
-
-
-
-
+Then — and this is the part most people would miss — if three customers hit this in a week, more customers will hit it next week. So I'd also: prep a workaround response for the rest of the support team so we're consistent, work with product on whether we update the in-app messaging or onboarding to flag clearance limits, and ask whether we can proactively notify customers whose mapped homes have similar clearance characteristics. That's the move from reactive to proactive, and it's the only kind of support that scales as Matic grows."
 
 ### A customer is angry — they say the robot mapped their house wrong and missed a whole room. How do you respond, and what do you do internally?
 
+### The structure
+
+Three things, in this order, separated cleanly:
+
+**1. Validate (genuinely, briefly).** Acknowledge the experience and the frustration without being saccharine about it. "That's a fair frustration — when you buy a robot to clean your house and it misses a room, that's the basic promise of the product not being met." Then _pause_ and let them respond. Don't barrel into diagnostics.
+
+**2. Own it.** Don't blame the customer ("did you re-map after moving the furniture?"), don't blame engineering ("yeah this is a known issue"), don't deflect to the product ("well technically..."). Just take ownership. "I want to figure this out with you and make it right."
+
+**3. Then diagnose.** Now you can ask the technical questions. Now the customer is _with_ you, not _against_ you.
+
+For the **internal** action, the moves are the same as the previous scenarios — diagnose, escalate if needed, document — but with one extra: **flag this as a churn risk**, because angry customers are the ones who leave reviews, cancel orders, or tell their friends. That deserves a different level of internal attention than a customer who's just confused.
+
+I'd separate the response into two parts, because I think the question itself has two parts.
+
+Externally, before anything technical, I'd lead with validation — not scripted empathy, but genuine. Something like, 'I'm sorry, that's a real frustration. You bought a robot to clean your house and it skipped a whole room — that's the basic promise of the product not being met, and I'd be annoyed too.' Then I'd pause. The biggest mistake people make with angry customers is barreling straight into diagnostics. The customer needs to feel heard before they can hear me.
+
+Then I'd own it. Not blame the customer for not re-mapping, not throw engineering under the bus, not get defensive about the product. Just: 'I want to figure this out with you and make it right.'
+
+Then — and only then — I'd diagnose. For a missing room specifically, I'd ask the practical questions: was the door open or closed during the initial mapping pass? Is the room darker than the rest of the house — basement, closet, blackout-curtain situation? Has it always been missing, or did it disappear after a recent re-map? Those three questions cover the most likely causes, and 'door was closed during mapping' is the most common one — which is reassuring for the customer because it means the robot works, it just needs a fresh map.
+
+Internally, I'd run the same playbook as any other ticket — diagnose, escalate to perception if I can't resolve it, document with logs. But I'd also flag this as a churn risk. An angry customer who feels unheard leaves reviews, cancels, and tells their friends. So I'd be more proactive than usual: follow up the same day with a fix or a timeline, follow up again after resolution, and if it turns out to be a real bug rather than a re-map issue, I'd want to involve someone more senior to make sure we make it right — whether that's a personal note from someone on the team, a small gesture, whatever's appropriate. The Dave-and-the-flowers story is the standard, not the exception.
+
+The one thing I wouldn't do — and I think this is the biggest trap — is over-promise. If I don't know yet, I say I don't know yet, but I'm on it and they'll hear from me by [time]. Angry customers respect honesty way more than vague reassurance.
+
 ### You suspect a bug, engineering says it's working as designed. How do you handle it?
+
+### The structure
+
+Four moves:
+
+**1. Take engineering's verdict seriously.** Don't dismiss "working as designed." Understand _why_ they're saying it. Maybe there's a performance trade-off you didn't see. Maybe the behavior is intentional for a good reason. Ask them to explain it, genuinely.
+
+**2. Reframe the question.** If engineering is right that it's working as designed, the question isn't "is this a bug" — it's "does the design match customer expectations?" That's a different question, with a different owner (product / leadership), and a different decision-making process.
+
+**3. Bring data to the reframe.** Not "one customer is unhappy" — but "here are five tickets in two weeks, here's the impact on customer satisfaction, here's what they expected, here's what the product does, here's the gap." Make it impossible for product or leadership to dismiss the pattern.
+
+**4. Take care of the customer in the meantime.** While you're working the systemic issue, the customer in front of you still needs an answer. Be honest with them: explain why the product does what it does, offer a workaround if there is one, set realistic expectations, and let them know you're advocating for the change.
+
+There's also a **fifth move** for the truly great answer: **acknowledge engineering might be right about the customer.** Maybe the customer's expectation actually _is_ unreasonable. Maybe they want the robot to do something it was never designed to do. In that case, your job is to help the customer understand the product's actual capabilities, gracefully — and feed back to product whether the marketing or onboarding is over-promising.
+
+I think this is one of the most interesting situations in support, because 'bug' and 'working as designed' aren't actually opposites — and treating them as opposites is the first mistake.
+
+My first move would be to take engineering's verdict seriously. Not 'okay sure, I'll tell the customer,' but actually understanding _why_ they're saying it. Maybe there's a performance trade-off I didn't see. Maybe the behavior is intentional for a reason that's defensible. Engineers are closest to the system; their perspective deserves real weight. So I'd ask them to walk me through it — what's the design intent, what's the trade-off, why is this the chosen behavior?
+
+If after that conversation I still think there's a gap, I'd reframe the question. The question isn't 'is this a bug' — it's 'does the design match what customers actually need?' Because engineering might be completely right that the system is doing what the spec says, _and_ the spec might still be wrong. That's a product question, not a bug question, and it has a different owner.
+
+Then I'd bring data to the reframe. Not 'this customer is upset' — but 'here are five tickets in two weeks where customers had the same expectation, here's the impact on satisfaction or churn, here's the gap between what they expected and what we deliver.' That's the kind of signal product and engineering can act on together. Without data, I'm just one person's opinion against engineering's; with data, I'm bringing forward what customers are telling us.
+
+The other thing I'd hold open is that engineering might be right about the customer too. Maybe the customer's expectation actually is unreasonable, or based on something they saw in a competitor that Matic doesn't promise. In that case my job is to help the customer understand the product gracefully, _and_ feed back to product whether our marketing or onboarding is setting up the wrong expectation. That's still a fix — it's just a different kind of fix.
+
+And throughout all of this, the customer in front of me still needs an answer. So I'd be honest with them: explain why the product behaves the way it does, offer any workaround that exists, set realistic expectations, and tell them I'm advocating for the change internally without over-promising that it'll happen.
+
+The thing I'd never do is throw engineering under the bus to the customer — 'yeah engineering says it's working as designed' is the worst possible thing to say. That tells the customer the company doesn't have their back. The framing should always be 'this is how the product works today, here's why, here's what I'm doing about it on your behalf
+
+### Kalman Filter Customer Breakdown
+
+Sure — I'd start with what a Kalman filter actually is in everyday terms, then connect it to what I built.
+
+Imagine you're driving down a highway. Your speedometer says 60, but you can also look out the window and see how fast you're passing cars. Your brain combines those two imperfect signals into a better estimate than either one alone gives you. That's the core of what a Kalman filter does — it combines multiple noisy pieces of information into one confident answer, continuously, many times a second.
+
+The project I used it on was for the autonomous car team at Waterloo. The car has multiple cameras, and at any given moment it's seeing other cars, pedestrians, cyclists — up to twenty objects at once. The challenge is that a camera frame is just one snapshot, and each snapshot is noisy. A pedestrian might be partially blocked behind a sign for a moment, or a car might be hard to see in glare. What I built was a system that took all those imperfect camera readings and stitched them into a _consistent track_ of each object — so the car knew not just 'there's a pedestrian there right now' but 'this is the same pedestrian I saw two seconds ago, this is where they're heading.'
+
+The reason I'd bring it up in the Matic context is that the underlying problem is really similar. Your Matic has five cameras. At any moment, some of them see your couch clearly, and some don't. The robot's job is to combine those imperfect views into one confident picture of where everything in your home is. Same kind of math, different application.
+
+The shortest version: it's how robots take imperfect sensor data and turn it into reliable decisions.
+### Nerf Breakdown
+Sure. Same approach — let me explain the idea first, then how I used it.
+
+The concept: imagine walking into a friend's living room for the first time. You only see it from wherever you happen to be standing — a few angles, never the whole room at once. But after a couple of minutes, you have a complete mental picture. You could close your eyes and point to where the couch is, or imagine what it looks like from the other chair, even though you never literally stood there. Your brain combined the partial views you _did_ see into a full 3D understanding.
+
+A NeRF — Neural Radiance Field — is a way of getting a computer to do that same thing. You give it photos of a space from a bunch of different angles, and it learns a complete 3D model of the space. You can then 'look at' the space from any angle, including ones you never photographed.
+
+The project I used it on was at TU Hamburg. We had a small wheeled robot in simulation that needed to navigate a 3D environment using only its cameras — no LIDAR. What I built took the 3D model the NeRF produced and converted it into the simpler kind of map a navigation system needs to plan a path. So the robot was essentially using the same trick your brain uses — building a 3D understanding from a series of 2D glimpses — to figure out how to get from one side of a room to the other safely.
+
+The reason this matters for the Matic conversation is the underlying bet is the same. The Matic uses cameras only — no LIDAR, no special sensors. Whether or not it uses NeRF specifically, the _idea_ is the same family: building a rich 3D understanding of a home from partial 2D views, and using that understanding to navigate intelligently. The work I did was an early version of the same problem Matic is solving in real homes today.
+
+Shortest version: it's how a robot builds a complete picture of a space from incomplete glimpses.
 
 ## **Cool Things About the Company**
 
