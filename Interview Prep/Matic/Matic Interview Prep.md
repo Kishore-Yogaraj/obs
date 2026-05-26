@@ -291,9 +291,73 @@ The honest framing is: if convenience-first matters more than anything, Dreame i
 - Software-improvable architecture — the navigation will get faster over time, the LiDAR-based architecture is more locked in
 - It's $500 cheaper
 - It's made by an independent US company, not a Chinese consumer electronics giant
+
+
+
+### Framework for Situational Questions
+Scenario questions like this aren't tests of whether you know the right "answer" — they're tests of whether you have a **mental model for how to do support**. He's listening for five things:
+1. **Customer-first reflex.** Do you acknowledge the human before diving into diagnostics?
+2. **Diagnostic discipline.** Do you actually try to understand the problem, or do you guess?
+3. **Pattern thinking.** Do you ask "is this just this customer, or is this a class of issue?"
+4. **Cross-functional instinct.** Do you know when and how to involve engineering / product?
+5. **Closing the loop.** Do you follow up with the customer _and_ feed insight back into the product?
+
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
 
+**1. Acknowledge (first hour)**
+
+- Reply quickly. Even a holding response within an hour matters. "Hey [name], thanks for flagging this — sorry it's been frustrating. I want to dig into this with you. Can you send me a few details so I can figure out what's going on?"
+- Tone matters: warm, owns the problem, doesn't make excuses.
+
+**2. Diagnose (gather info before acting)** This is where your technical background actually shines. You don't guess — you ask the right questions. For a "bumps into chair leg" issue, things to figure out:
+
+- _Which chair?_ Is it metal, glass, transparent, thin-legged? Cameras can struggle with reflective, transparent, or very thin objects.
+- _Lighting conditions?_ The cameras are RGB-IR, so they should work in the dark — but is the chair near a backlit window where the cameras might be glare-affected?
+- _When did it start?_ Was it always like this, or did it start after a software update / after they moved the chair / after a new rug?
+- _Every time or sometimes?_ Consistent failure is different from intermittent.
+- _Can they share the cleaning log or video?_ Matic's app shows the path — the visual evidence is gold.
+- _Is the chair in the 3D map correctly?_ Sometimes the map is fine but the planner is wrong; sometimes the map itself is wrong.
+
+This is where you _show_ technical credibility without flexing. You're not impressing them with jargon — you're asking diagnostic questions that demonstrate you understand the product.
+
+**3. Resolve (act on the diagnosis)**
+
+- Easy cases: clean cameras, re-map, software update, move the chair temporarily.
+- Medium cases: walk them through a re-mapping flow with you on the phone/email, escalate to engineering for log analysis.
+- Hard cases: this is a real bug → loop in the perception team with the customer's logs, give the customer a clear timeline ("Engineering is looking at your logs; I'll have an update by Friday"), maybe offer a workaround in the meantime (no-go zone around the chair).
+- **Never leave them hanging.** Even if the answer is "we're investigating," they should hear from you on a clear cadence.
+
+**4. Document and tag the ticket properly**
+
+- The JD specifically mentions: "Ensure that tickets are accurately tagged to enable the gathering of meaningful insights." This is the part where you mention it.
+- Tag: obstacle avoidance, furniture type, room type, software version. So that next month when someone says "we keep getting tickets about chairs," you can pull the data.
+
+**5. Feed back to the product / engineering team**
+
+- One ticket about a chair leg is data. Three is a signal. Ten is a roadmap item.
+- "If I see this pattern repeating, I want to bring it to perception with the cluster of examples, not just one — that's how it turns into a product fix rather than a one-off support resolution."
+
+Sure. I'd think about it in five stages: acknowledge, diagnose, resolve, document, and feed back.
+
+First thing — within an hour, even if I don't have an answer, the customer hears from me. Just a 'thanks for flagging this, sorry it's been frustrating, I want to dig in — can you share a few details?' Tone matters here: I own the problem, I don't make excuses.
+
+Then I diagnose before I act. For 'bumping into the same chair leg' specifically, I'm asking: what kind of chair is it — metal, glass, thin legs? Because camera-based systems can struggle with reflective and transparent objects, and Matic is camera-only. Is it backlit by a window? Did this start after a software update or after they moved furniture? Is it every cleaning or intermittent? And can they share the cleaning log or a video — the app's 3D map will tell me whether the chair is mapped correctly, or whether the map is fine and the planner is failing. That's two very different bugs, and the fix is different.
+
+Then I resolve. If it's something simple — dirty cameras, an outdated firmware, a re-mapping needed — I walk them through it directly. If it's a real edge case for perception, I escalate to the engineering team with the customer's logs, and I always give the customer a clear timeline so they're not wondering. And critically — I always offer an immediate workaround. In this case, that's setting a no-go zone around the chair in the app. They feel helped now, not just 'we'll look into it.'
+
+Then documentation. The JD specifically mentions tagging tickets accurately, and I think that's where this gets interesting. I'd tag this with the furniture type, the room context, the software version — so that next month when ten more customers report chair-leg issues, we can pull the cluster and bring it to perception as a pattern, not just ten individual tickets.
+
+Last — closing the loop. I'd follow up with the customer a week after fixing it, not just at resolution. 'Hey, just checking — has it been clean since?' That last touch is what turns a customer who tolerated the bug into a customer who tells their friends about Matic.
+
 ### You notice three different customers this week reporting the robot getting stuck under the same type of low-clearance furniture. What do you do?
+
+
+
+
+
+
+
+
 
 ### A customer is angry — they say the robot mapped their house wrong and missed a whole room. How do you respond, and what do you do internally?
 
