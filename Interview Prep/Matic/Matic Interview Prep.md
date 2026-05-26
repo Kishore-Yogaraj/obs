@@ -525,6 +525,8 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 - Dave said he couldn't get back to the team because his father was sick
 - Matic sent him flowers
 
+
+
 ### How Great Mehul is
 ![[Pasted image 20260521223029.png]]
 
