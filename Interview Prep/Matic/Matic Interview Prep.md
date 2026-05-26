@@ -559,21 +559,21 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 
 ### Questions for Vivek
 #### Vivek's Transition and Perspective
-- You've been here two months. What's surprised you most about how Matic operates compared to TerraClear?
+- **You've been here two months. What's surprised you most about how Matic operates compared to TerraClear? What was the reason for the switch?**
 - You've now done this twice — TerraClear and Matic — deploying autonomous hardware into real-world environments your team doesn't control. What's the pattern in what breaks first when customers actually get the product?
 - At TerraClear and at Bain, you've operated in roles where success looks completely different — building something from scratch versus advising. What's the part of your operating style that's been most transferable across those different contexts?
 
 #### Questions about the role and what success looks like
-- What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?
+- **What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?**
 - How does the feedback loop from support tickets back into engineering actually work today? Is it formalized, or is it still figuring itself out?
-- What's the hardest part of this role that isn't obvious from the job description?
+- **What's the hardest part of this role that isn't obvious from the job description?**
 - How closely does support work with engineering?
 
 #### Company Bets and Strategy
-- Matic made a real bet on RGB-only, on-device, no LIDAR. From an operations perspective, what does that bet _cost_ you that customers don't see? Like, what's the operational tax of that engineering choice?
+- **Matic made a real bet on RGB-only, on-device, no LIDAR. From an operations perspective, what does that bet _cost_ you that customers don't see? Like, what's the operational tax of that engineering choice?**
 - As Matic scales and ticket volume grows, what do you think breaks first about how support works today?
 - Matic talks about being a flat, no-politics organization. Two months in, what's been the reality of that? What does it look like in practice when there's actual disagreement?
-- How do you think about the line between 'this customer issue is a one-off' and 'this is a product problem that needs to escalate'? Who actually owns that judgment day-to-day?
+- **How do you think about the line between 'this customer issue is a one-off' and 'this is a product problem that needs to escalate'? Who actually owns that judgment day-to-day?**
 
 
 
