@@ -417,9 +417,21 @@ And throughout all of this, the customer in front of me still needs an answer. S
 The thing I'd never do is throw engineering under the bus to the customer — 'yeah engineering says it's working as designed' is the worst possible thing to say. That tells the customer the company doesn't have their back. The framing should always be 'this is how the product works today, here's why, here's what I'm doing about it on your behalf
 
 ### Machine has Smell
+This one's interesting because it's not a bug — it's a real, known characteristic of the product. So my approach is different from a 'something broke' ticket.
 
+First, I'd acknowledge the specific experience. Not just 'sorry that's frustrating' — but 'yeah, the smell is real, you're not imagining it, and I've heard this from other customers too.' Customers can tell when an acknowledgment is generic versus when it's specifically validating what they're experiencing.
 
+Then I'd be honest about the cause. Most premium robot vacuums avoid this issue because they have a big multifunction dock that auto-empties the dustbin and stores wet and dry separately. Matic made a different architectural choice — everything is onboard, which is what lets the robot vacuum and mop in a single pass and skip the giant dock. The trade-off is that the same bag stores wet mop residue and dry debris together, and over a week or two that combination starts to smell. The team has tried to mitigate it — there's a gelling salt to solidify liquid waste, antibacterial agents, and the robot applies a drying cycle after each run — but those measures reduce the problem, they don't eliminate it.
 
+Then I'd offer what I actually can. The most practical answer is changing the bag more frequently — every week or so for high-usage households, rather than waiting until it's full. If they're doing a lot of mopping, even more frequent. I'd also make sure they know about the drying cycle and that running it consistently helps. None of that is a perfect fix, but it's a real workaround that meaningfully reduces the issue.
+
+And I'd be honest about the bigger picture. I'd tell them this is something the company is aware of and actively thinking about, but I wouldn't promise a specific fix on a specific timeline, because I don't actually know that and promising it would just create another problem later. What I _would_ commit to is making sure their feedback gets logged with the pattern, so when product is making decisions about future versions or about reformulating the bag, customer feedback like theirs is part of that decision.
+
+Internally, this is exactly the kind of issue I'd want to be tracking carefully. One ticket about smell is one customer. Twenty tickets is a product roadmap item. So I'd be tagging these consistently and making sure the pattern is visible to product — because the right fix here is probably at the design level, not at the support level. Support can give workarounds; only product can give a real solution.
+
+*"I'd take that seriously and not get defensive about it. If they bought the product expecting it to not have smell issues — which is reasonable, because most premium robot vacuums don't have this problem — then we set the wrong expectation, not them. I'd want to understand whether their issue is fundamentally with the smell, in which case a refund might be the right answer, or whether it's that they want it fixed and don't think we're moving fast enough, in which case the conversation is about urgency and timeline.*
+
+*Either way, I'd loop in whoever owns refund decisions — I don't think that's my call to make unilaterally as an intern — but I'd come to that conversation with a clear recommendation, because the person who actually talked to the customer is the one with the best read on what they need."*
 
 ### Kalman Filter Customer Breakdown
 
