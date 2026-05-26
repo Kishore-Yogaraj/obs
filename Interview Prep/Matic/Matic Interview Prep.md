@@ -199,10 +199,22 @@ I think both of those translate pretty directly to support work too. When a cust
 
 ### Why Customer Support
 
+Honestly, two things. The first is that I've spent the last two years on the engineering side of autonomy — leading the perception team at Watonomous, doing NeRF research at TU Hamburg, deploying CV pipelines at Eon — and the loop I haven't lived in is the one where a real user's environment breaks your assumptions and that feedback makes it back into the code. I've built the stack. I want to see what happens when it meets a real living room. That's the part of robotics I'm most curious about right now.
 
-
+The second is Matic specifically. I've followed the company since you came out of stealth in 2023, and I think you're doing something most robotics companies aren't — building actual trust between people and machines in their homes. That trust is the unlock for the whole industry. And the thing that convinced me Matic takes that seriously isn't the tech, it's stuff like Mehul sending flowers to Dave when his dad got sick mid-support-ticket. That's a company I want to learn how to do support at and see dominate the industry.
 
 ### Why Matic Specifically
+
+Three things, but they all point at the same thing for me.
+
+First, the technical bet. Most robotics companies attacking the home throw more sensors at the problem — LIDAR, ToF, structured light. Matic went the other direction: RGB-only, on-device neural networks, no cloud. That's a much harder bet to make and a much harder bet to execute, and the fact that Navneet — whose HOG paper is one of the most-cited papers in computer vision — is the one making it tells me they're not guessing. They're playing a game most companies can't play.
+
+Second, the stage. There's a line from your LinkedIn post about joining Matic that stuck with me — that the flywheel is already turning and gaining momentum by the day. That's exactly it. You're past stealth, past v1, deploying in real homes, and the loop from customer data back into autonomy is the engine. That moment only happens once in a hardware company's life, and it's the moment where support has the most leverage on the product. I want to be in the room for that.
+
+Third, the team. The Flutter exit, the investor list — Collison (Stripe Cofounders), Friedman (Former CEO of Github), Dorsey (Founder of twitter and block), Rogers (Co founder of Nest) — those aren't people who back robotics companies casually. And then there's the Dave story, which to me is the proof that the customer obsession isn't a slide in a pitch deck.
+
+The common thread is that Matic is one of the very few home robotics companies actually positioned to win. I want to learn from a team that's winning.
+
 ### What do you know about the product
 
 ### A customer emails saying their Matic 'keeps bumping into the same chair leg.' Walk me through how you'd handle the ticket from open to close.
