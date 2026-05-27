@@ -493,6 +493,12 @@ Internally, this is exactly the kind of issue I'd want to be tracking carefully.
 
 *Either way, I'd loop in whoever owns refund decisions — I don't think that's my call to make unilaterally as an intern — but I'd come to that conversation with a clear recommendation, because the person who actually talked to the customer is the one with the best read on what they need."*
 
+### Matic Can't Go Underneath Furniture Seems like a Real Downside
+
+
+
+
+
 ### Kalman Filter Customer Breakdown
 
 Sure — I'd start with what a Kalman filter actually is in everyday terms, then connect it to what I built.
