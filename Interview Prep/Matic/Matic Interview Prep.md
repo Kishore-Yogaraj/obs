@@ -506,8 +506,51 @@ And honestly — if under-furniture cleaning is a really high priority for you, 
 
 Internally — this is exactly the kind of feedback I'd want to make sure product hears, because how customers feel about this trade-off is genuinely important data for future product decisions. So thanks for being upfront about it.
 
+### What are the drawbacks of only using cameras?
+Good question, and it's one I think customers genuinely care about because cameras-only is one of the most distinctive choices Matic made. Let me be honest about the trade-offs.
 
+There are three real drawbacks compared to LIDAR-based systems.
 
+The first is that cameras struggle in low light. Matic addresses this by using RGB-IR cameras, which can see in the dark — but extreme darkness or weird lighting situations like heavy backlighting from a window can still affect what the robot sees. LIDAR doesn't care about lighting at all.
+
+The second is that certain objects are genuinely hard for cameras. Reflective surfaces, glass, very thin objects like chair legs — anything that doesn't give the cameras much to lock onto. LIDAR handles these better because it measures distance directly with light pulses.
+
+The third — and this is the most honest one — is that camera-based navigation is computationally more expensive than LIDAR. LIDAR gives you a clean point cloud almost for free. Cameras give you images, and you have to use neural networks running on the robot to turn those images into a 3D understanding of the world. That's part of why Matic's navigation is currently slower than competitors — it's doing more thinking per step.
+
+The reason Matic made this trade is that cameras give you something LIDAR can't: a _semantic_ understanding of what things are. LIDAR tells you there's an object 30 centimeters away. Cameras tell you that object is a shoe, or a power cord, or a dog toy. That's the foundation for the robot getting smarter over time and treating different objects differently — which is the whole bet of the product.
+
+So the short version: cameras are harder, slower, and have some edge cases LIDAR wouldn't. But they unlock capabilities that LIDAR fundamentally can't, and the team made the bet that those capabilities are worth the trade-offs.
+
+### Angry Customer Who Wants  a Refund
+
+First thing — I'd take a breath and not match their energy. Angry customers escalate when they feel pushed back on. The whole goal of the first two minutes is to get the temperature down, and that starts with me not adding to it.
+
+So my opening would be something like: 'I hear you. I'm sorry it's been this bad of an experience — that's not what you signed up for, and I want to make this right. Give me a few minutes to actually understand what happened, and then we'll figure out the right path forward, refund included if that's where this lands.'
+
+The 'refund included if that's where this lands' part matters. I'm not refusing the refund or making them fight for it — but I'm also not handing it over before I understand what's going on. That's not me protecting Matic, it's me making sure the right outcome happens for them. Sometimes the issue is fixable in five minutes and they go from angry to happy. Sometimes it's not, and the refund is genuinely the right answer. I don't know yet which one this is.
+
+Then I'd actually listen. Let them tell me what happened, what they expected, what the robot did or didn't do. Most angry customers calm down measurably just by being heard for the first few minutes. I wouldn't try to defend the product or explain anything yet — I'd just listen and ask follow-up questions.
+
+Once I have the full picture, I'd be honest with them. If it's a fixable issue — a re-map, a setup problem, a known workaround — I'd offer that, but I'd also say: 'I want to fix this for you, but I also want to be clear that you can return it if you'd rather. There's no pressure to keep it.' That respects their right to leave without me trying to talk them out of it.
+
+If it's not fixable, or if they've already made up their mind, I wouldn't fight it. I'd help them through the refund process as smoothly as possible, because the worst version of this is a customer who tried to return the product, hit friction, and now goes online to complain about both the product _and_ the support experience.
+
+Internally, I'd flag this as a churn case and make sure whoever owns refund decisions is looped in early. I'd also document carefully what went wrong so product can see the pattern. An angry refund is a much louder signal than a quiet ticket — it deserves a real post-mortem, not just a transaction.
+
+The one thing I'd never do is make them feel like the company doesn't care, or that they have to escalate or threaten to be taken seriously. They've already done the hard part by telling us. Now it's my job to actually deliver.
+
+### Matic is too tall
+Yeah, this comes up a lot, and it's a fair point — I want to be upfront with you about it.
+
+The Matic is 7.8 inches tall, which is taller than basically every other robot vacuum on the market. That's not an oversight — it's because everything competitors put in a giant dock, Matic puts inside the robot itself. The 1-liter bag, the clean water tank, the on-device compute that runs the navigation — all onboard. That's what lets the Matic vacuum and mop in a single pass without needing a big multifunction dock taking up space in your home, and it's also what keeps all your data on the device instead of in the cloud.
+
+The trade-off is real, though: it can't fit under low beds or couches the way a 3-inch robot can. There's no way around that physically with the current design.
+
+Here's what I can offer. First — depending on your furniture, there's sometimes more clearance than people expect. I'd be happy to help you figure out which spots in your home it can actually reach. Second, for the spots it really can't reach, the honest expectation is that you'll occasionally still need to pull furniture out to clean those areas yourself, which I know isn't ideal.
+
+And if under-furniture cleaning is a top priority for you, I'd rather tell you that now than have you frustrated later. There are competitors that handle that specific thing better. What you're getting in return with Matic is a robot that genuinely understands your home in 3D, keeps your data private, vacuums and mops in one pass, and gets smarter over time. That's the trade.
+
+Internally, I'd make sure this feedback gets logged. How customers feel about the height trade-off is real data, and product should be seeing it consistently so future versions can take it into account.
 
 
 ### Kalman Filter Customer Breakdown
@@ -600,6 +643,13 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 - As Matic scales and ticket volume grows, what do you think breaks first about how support works today?
 - Matic talks about being a flat, no-politics organization. Two months in, what's been the reality of that? What does it look like in practice when there's actual disagreement?
 - **How do you think about the line between 'this customer issue is a one-off' and 'this is a product problem that needs to escalate'? Who actually owns that judgment day-to-day?**
+
+#### For Shafaq
+- **What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?**
+- **Where do you see the biggest operational unlock in the next year — is it tooling, headcount, process, or something more structural?**
+- **What's been the hardest operational lesson from scaling deployments so far?**
+- 
+
 
 
 
