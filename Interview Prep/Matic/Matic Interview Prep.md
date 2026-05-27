@@ -648,7 +648,7 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 - **What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?**
 - **Where do you see the biggest operational unlock in the next year — is it tooling, headcount, process, or something more structural?**
 - **What's been the hardest operational lesson from scaling deployments so far?**
-- 
+- **I noticed you've had a pretty varied career — research science, financial advising, EMT work — before landing at Matic. I'd love to hear what made Matic the place you decided to plant roots, especially coming in without a traditional tech operations background. What did you see in it early on?**
 
 
 
