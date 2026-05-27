@@ -494,7 +494,17 @@ Internally, this is exactly the kind of issue I'd want to be tracking carefully.
 *Either way, I'd loop in whoever owns refund decisions — I don't think that's my call to make unilaterally as an intern — but I'd come to that conversation with a clear recommendation, because the person who actually talked to the customer is the one with the best read on what they need."*
 
 ### Matic Can't Go Underneath Furniture Seems like a Real Downside
+Yeah, this is one of the most common pieces of feedback on the product, and it's a fair point — I want to be honest with you about it rather than spin it.
 
+Here's what's going on. The Matic is 7.8 inches tall, which is taller than basically every other robot vacuum on the market. That's not an accident or an oversight — it's because everything that competitors put in a giant dock, Matic puts inside the robot itself. The 1-liter bag, the clean water tank, the on-device compute that runs the navigation — it's all onboard. That's what makes the Matic able to vacuum and mop in a single pass without a big multifunction dock taking up space in your home.
+
+The trade-off is real, though: it can't fit under beds or low couches the way a 3-inch robot can. There's no way around that physically given the current design.
+
+What I can offer is a few things. First, depending on your furniture, sometimes there's more clearance than you'd expect — I'd be happy to help you figure out which spots in your home it can actually reach. Second, for the spots it can't reach, the realistic expectation is that you'll still need to occasionally pull furniture out to clean those areas the old-fashioned way, which I know isn't what you signed up for.
+
+And honestly — if under-furniture cleaning is a really high priority for you, I'd rather tell you that now than have you frustrated three months from now. There are competitors that are better at that specific thing. What Matic gives you in return is a robot that genuinely understands your home in 3D, keeps all your data private, vacuums and mops in one pass, and gets smarter over time as the software improves. That's the trade you're making.
+
+Internally — this is exactly the kind of feedback I'd want to make sure product hears, because how customers feel about this trade-off is genuinely important data for future product decisions. So thanks for being upfront about it.
 
 
 
