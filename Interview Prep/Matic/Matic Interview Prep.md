@@ -509,6 +509,7 @@ Internally — this is exactly the kind of feedback I'd want to make sure produc
 
 
 
+
 ### Kalman Filter Customer Breakdown
 
 Sure — I'd start with what a Kalman filter actually is in everyday terms, then connect it to what I built.
