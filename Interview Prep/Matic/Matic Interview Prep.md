@@ -647,6 +647,22 @@ Shortest version: it's how a robot builds a complete picture of a space from inc
 #### For Shafaq
 - **What does a great intern look like three months in? What would make you say at the end, 'we should've hired this person full-time'?**
 - **Where do you see the biggest operational unlock in the next year — is it tooling, headcount, process, or something more structural?**
+	- Connecting the dots 
+	- Extreme ownership 
+	- What does that mean
+		- People come and take the burden off of you
+	- Being able to work with very ambigious requirements 
+	- Going to the drawing board and being able to propose a solution
+	- Make it launch 
+	- High agency 
+	- Connecting the dots
+		- You're getting feedback from customers from so many different people
+		- Getting on a call with a customer 
+		- Being able to really understand this issue
+		- This is what the engineering team 
+		- This is the same issue
+		- Three weeks later
+		- Of course you have to response to ticket 
 - **What's been the hardest operational lesson from scaling deployments so far?**
 - **I noticed you've had a pretty varied career — research science, financial advising, EMT work — before landing at Matic. I'd love to hear what made Matic the place you decided to plant roots, especially coming in without a traditional tech operations background. What did you see in it early on?**
 
