@@ -11,7 +11,18 @@
 - ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter)
 - ME 597 - Machine Learning for Mechanical Engineers - **List 1** (Fall)
 - SYDE 522 - Foundations of Artificial Intelligence - **List 2** (Fall)
-- 
+- ECE 406 - Algorithm Design and Analysis - **List 2** (Winter)
 
+**Fall**
+- HRM 200 - Fall
+- MTE 544 - Autonomous Mobile Robots - **List 1** (Fall)
+- ME 597 - Machine Learning for Mechanical Engineers - **List 1** (Fall)
+- SYDE 522 - Foundations of Artificial Intelligence - **List 2** (Fall)
+
+**Winter**
+- STV 100 - Winter
+- MTE 546 - Multi Sensor Data Fusion - **List 1** (Winter)
+- ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter)
+- ECE 406 - Algorithm Design and Analysis - **List 2** (Winter)
 
 MTE 481/482 - Mechatronics Engineering Design Project
