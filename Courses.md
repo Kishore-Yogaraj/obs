@@ -11,6 +11,7 @@
 - ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter)
 - ME 597 - Machine Learning for Mechanical Engineers - **List 1** (Fall)
 - SYDE 522 - Foundations of Artificial Intelligence - **List 2** (Fall)
+- 
 
 
 MTE 481/482 - Mechatronics Engineering Design Project
