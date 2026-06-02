@@ -113,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -287,10 +287,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "9850b955b2eec6ee",
   "lastOpenFiles": [
-    "Courses.md",
     "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
+    "Courses.md",
     "Reflections/Significant/Who do you want to be.md",
     "Subscriptions.md",
     "Reflections/Significant/The Truth.md",
