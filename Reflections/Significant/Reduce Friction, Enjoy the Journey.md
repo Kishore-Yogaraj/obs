@@ -116,23 +116,55 @@ The last thing is to zoom out briefly and reconnect with why. Not in a motivatio
 You won't always feel like it. That's normal and permanent. The goal isn't to always feel like it — it's to have a reliable system for showing up anyway.
 
 ### My Whys
-**Robotics Engineering**
 
+**Robotics Engineering**
 I want to build robots because there is something almost magical about giving a physical thing the ability to think and act. That feeling of watching something I built actually work — I can't manufacture that feeling anywhere else. This isn't just a career path, it's the thing that makes me feel most alive intellectually. I want to fall in love with the process of learning — the hard problems, the late nights, the breakthroughs — because the journey itself is the point. Robotics is also my path to financial freedom, and financial freedom means I get to keep doing what I love on my own terms, forever.
 
 ---
 
 **Training**
-
 I train because I want to be someone who shows up for their body the same way I show up for my goals. I want to move well, feel strong, and be healthy enough to actually enjoy the life I'm building. But more than that — I want to be someone my parents, my girlfriend, and my future self can look at and feel proud of. Not because of how I look, but because of the discipline and self-respect that training represents. Every session is an act of gratitude for having a body that works. I don't train to earn anything. I train because bettering myself is one of the most genuine things I can give to the people I love.
 
 ---
 
 **Presence and Warmth**
-
 I want to be someone people feel genuinely good around. Not because I'm performing happiness, but because I've chosen to show up with real curiosity and openness toward people. Energy is contagious — and I want to be the kind of person that raises the temperature in a room rather than cooling it. Being magnetic isn't about being impressive, it's about making people feel seen and heard. That opens doors, builds real connections, and makes life richer in ways that ambition alone never can. I want to smile more, judge less, and be genuinely interested in the people in front of me — because people are actually fascinating when you let them be.
 
 
 The through line across all three is that none of them are about proving anything to anyone. They're about becoming someone you actually respect and enjoy being. That's the healthiest possible foundation for all of it.
 
 
+**When you don't feel like coding**
+
+You don't have to feel like it. The version of you that decided this was your path already made this decision — today you're just honoring it. Every problem you sit with, even badly, even slowly, is building the engineer you said you wanted to be. The robots you want to build don't care that you weren't in the mood. Show up anyway, open the problem, and let momentum do the rest. Five minutes in is almost always enough. You're not grinding through suffering — you're just being consistent with someone you already decided to be.
+
+**When you don't feel like going to the gym**
+
+Your parents, your girlfriend, and the version of you twenty years from now don't need you to be perfect — they need you to show up. A bad session still counts. A short session still counts. You're not going because you have to earn something — you're going because your body is the one thing that carries you through everything else you want to do in life. Take care of it today so it takes care of you later. Walk in, start moving, and remember that the feeling after never lies.
+
+**When you don't feel like being warm or present with people**
+
+You don't have to be on. But remember that the person in front of you has no idea what's going on in your head — they just feel whether you're there or not. Being cold costs you more than it saves you. One genuine question, one real smile, one moment of actual curiosity is enough to shift the entire interaction. You're not performing — you're just choosing to give someone a fraction of your attention instead of your walls. That costs nothing and compounds over time into the kind of life and relationships that make everything else feel worth it.
+
+**When you want to say no to living because you feel like you haven't earned it yet**
+Life is not a reward you receive after you finish working. It is the thing that is happening right now, while you're working, while you're resting, while you're sitting across from someone you care about. The memories you're avoiding making are not distractions from your goals — they are the whole point of having goals in the first place. What exactly are you building toward if not a life worth living?
+
+The people inviting you out are not obstacles to your success. They are part of what makes success mean anything. The version of you that achieves everything but skipped every dinner, every trip, every moment of connection — that person is not rich. That person is just busy and alone.
+
+You are allowed to exist fully right now. Not the future version of you with the title and the money and the achievements. You, today, as you are, are worthy of enjoying your life. Discipline that costs you your relationships and your joy is not discipline — it's fear wearing a mask.
+
+Go. Be present. Let yourself laugh. You can pick the work back up tomorrow and it will still be there. The moment you're being invited into right now will not.
+
+**Ego Getting in The Way of Living**
+The ego in this case is telling you a story — that you are not yet the version of yourself that deserves to enjoy life. It's keeping score. It's withholding. And it feels like discipline but it's actually just fear of being ordinary, fear of being caught relaxing, fear that if you let go even for a night you'll lose your edge or reveal that you haven't actually arrived yet.
+
+The core truth to internalize is this: **your worth is not a scoreboard.** You are not behind. There is no race where enjoyment is the penalty for being slow.
+
+**What to tell yourself when the ego flares up:**
+The ego wants me to believe that who I am right now is not enough to deserve this moment. But that's not discipline talking — that's fear. Real confidence doesn't need to be earned through suffering. It's built by someone who works hard AND lives fully, not instead of it.
+
+Letting myself enjoy this doesn't make me soft. It makes me human. The most successful people I admire didn't starve themselves of life — they lived it deeply while building something meaningful alongside it.
+
+My ego is not protecting me right now. It's isolating me. And isolation dressed up as ambition is still isolation.
+
+I am allowed to be here. Fully. Right now.
