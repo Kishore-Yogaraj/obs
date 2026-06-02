@@ -48,4 +48,6 @@ Because of your ego you're miserable. Because of you're ego you don't smile a lo
 
 Your ego is why you don't smile. Once you align more with your goals and enjoy the journey than you find that things start coming towards you. You become magnetic. 
 
-**I have an am**
+**I have an ample supply of ambition, but a lack of output.** I'm afraid that the people who told me I was meant to be great were wrong and I avoid the real work needed because I don't want to find out.
+
+You do this when you workout too. When you have to take some time off, you're scared to get back to 
