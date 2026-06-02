@@ -68,3 +68,14 @@ The real problem with being chronically in your head isn't the thinking itself, 
 
 The conflict you feel probably isn't a values problem — it sounds like you actually want both things genuinely. It's more a switching problem. You haven't found the off switch yet, so the achievement brain just runs 24/7 and slowly makes everything else harder.
 
+The most common root is early experiences where performance was the basis for approval — academically, athletically, or at home. When you grow up in an environment where doing well earns praise and falling short earns criticism or disappointment, your brain learns that partial effort has no value. Only the result matters. That wiring runs deep and follows people well into adulthood without them realizing where it came from.
+
+Perfectionism is the psychological mechanism that keeps it alive. And perfectionism at its core isn't really about high standards — it's about fear. Specifically the fear that if you do something imperfectly, it reflects something fundamentally wrong with you as a person. So the all-or-nothing thinking is actually a protection strategy. If I only attempt things I can do fully and correctly, I never have to face what an imperfect attempt says about me.
+
+Social comparison accelerates it. Especially now with how curated everything looks online — you're constantly seeing people's highlight reels and unconsciously measuring your behind-the-scenes against them. That makes "good enough" feel inadequate by default.
+
+There's also a control element. All-or-nothing thinking gives you a clean binary to operate in — either I did it right or I failed. Ambiguity is uncomfortable. The grey zone where you tried but it was messy and incomplete requires you to sit with uncertainty, which is harder than just calling it a failure and moving on.
+
+The cruel irony is that all-or-nothing thinking produces less output than flexible thinking, not more. Because the moment something isn't perfect, the whole thing gets abandoned. So the very standard meant to drive excellence ends up being the thing that stops you from finishing anything.
+
+**Figuring Out My Identity Once and For All**
