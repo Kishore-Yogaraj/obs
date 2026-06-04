@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Reduce Friction, Enjoy the Journey"
+              "title": "Courses"
             }
           },
           {
@@ -166,7 +166,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,8 +290,8 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
-    "Interview Prep/Chamberlain Group/3D Tracking.md",
     "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
+    "Interview Prep/Chamberlain Group/3D Tracking.md",
     "Courses.md",
     "Reflections/Significant/Who do you want to be.md",
     "Subscriptions.md",
