@@ -26,8 +26,12 @@
 - STV 100 - Winter
 - MTE 546 - Multi Sensor Data Fusion - **List 1** (Winter)
 - ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter)
-
-
 - ECE 406 - Algorithm Design and Analysis - **List 2** (Winter) - **Need to request**
+
+**Fall**
+- HRM 200 - List A
+- ME 572
+- ME 597
+- ME 545
 
 MTE 481/482 - Mechatronics Engineering Design Project

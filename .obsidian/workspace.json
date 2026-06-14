@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Prep/Matic/Matic Interview Prep.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Matic Interview Prep"
+              "title": "Courses"
             }
           },
           {
@@ -112,8 +112,7 @@
               "title": "Questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -287,8 +287,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
+    "Interview Prep/Matic/Matic Interview Prep.md",
+    "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
     "Reflections/Significant/Taking A Step Back to Take A Step Forward.md",
     "Reflections/Significant/Lost.md",
     "Reflections/Significant/Lock In.md",
@@ -300,7 +302,6 @@
     "Cameras/Camera Calibration.md",
     "Watonomous/How to Build A Self Driving Car.md",
     "Courses.md",
-    "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
     "Interview Prep/Chamberlain Group/3D Tracking.md",
     "Reflections/Significant/Who do you want to be.md",
     "Subscriptions.md",
@@ -314,7 +315,6 @@
     "Reflections/2026/January/January 24th.md",
     "Reflections/2026/January/January 22nd.md",
     "Reflections/2026/January/January 20th.md",
-    "Reflections/2026/April/April 5th.md",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
     "Interview Prep/Matic/attachments",
