@@ -25,13 +25,21 @@
 **Winter**
 - STV 100 - Winter
 - MTE 546 - Multi Sensor Data Fusion - **List 1** (Winter)
-- ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter)
+- ME 597 - Autonomous Mobile Robots - **List 1**
+- ME 547 - Robot Manipulators: Kinematics, Dynamics, Control **List 1** (Winter) (Probably Not)
 - ECE 406 - Algorithm Design and Analysis - **List 2** (Winter) - **Need to request**
 
 **Fall**
 - HRM 200 - List A
-- ME 572
-- ME 597
-- ME 545
+- ME 572 - List 1 (Building Energy Analysis)
+- ME 597 - List 1 (Machine Learning for Mechanical Engineers)
+- MTE 545 - List 1 (Introduction to MEMS Fabrication)
+- ME - 599 (Special Topics) - List 1
+
+Courses I want if I done get what I want
+- SYDE 575 - Image Processing
+
+
+
 
 MTE 481/482 - Mechatronics Engineering Design Project
