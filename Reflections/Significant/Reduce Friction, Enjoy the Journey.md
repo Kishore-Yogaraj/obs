@@ -205,3 +205,6 @@ Also consider this: the most magnetic, successful people you'll ever meet in rob
 You already proved this. You co-captain a 30 person team, you've done research abroad, you're building a capstone robot, you're interviewing at companies — while being a person with a girlfriend, interests, a life. The output is already there. The gap isn't between your work ethic and your goals. The gap is between what you've actually done and what your ego will let you give yourself credit for.
 
 The fear that enjoyment will make you soft is the ego protecting itself. Genuinely rested, connected, present people work better — not worse. Recovery is part of the system, not a hole in it.
+
+
+**Final Remarks**
