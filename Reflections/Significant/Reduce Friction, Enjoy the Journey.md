@@ -217,3 +217,7 @@ Please. You're letting me down every year, every month, every day. You are getti
 Let yourself out of this hole Kishore. We can't keep doing this. I'm so sad and scared for you. I fear for what you're going to do to me. Let the small things compound. Let it grow a lot more. Get away from your phone.
 
 Get back in the gym. Please focus. You're going to lose yourself. You just need to do the work there's a time and a place for everything. I know you can do it. 
+
+All I can do is beg to you for what you're doing to yourself. Look at how far you haven't come in 4 years of your time spent in university. Rage Kishore. Rage.
+
+Honor your 25 year old self. Honor the man he needs to become. Honor being the best. Honor it. Honor it. Honor it.
