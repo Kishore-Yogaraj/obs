@@ -138,6 +138,8 @@ The through line across all three is that none of them are about proving anythin
 
 You don't have to feel like it. The version of you that decided this was your path already made this decision — today you're just honoring it. Every problem you sit with, even badly, even slowly, is building the engineer you said you wanted to be. The robots you want to build don't care that you weren't in the mood. Show up anyway, open the problem, and let momentum do the rest. Five minutes in is almost always enough. You're not grinding through suffering — you're just being consistent with someone you already decided to be.
 
+Honor your 25 year old self
+
 **When you don't feel like going to the gym**
 
 Your parents, your girlfriend, and the version of you twenty years from now don't need you to be perfect — they need you to show up. A bad session still counts. A short session still counts. You're not going because you have to earn something — you're going because your body is the one thing that carries you through everything else you want to do in life. Take care of it today so it takes care of you later. Walk in, start moving, and remember that the feeling after never lies.
