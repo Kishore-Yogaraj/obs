@@ -208,3 +208,12 @@ The fear that enjoyment will make you soft is the ego protecting itself. Genuine
 
 
 **Final Remarks**
+You have failed your 10 year old self. You have failed your 15 year old self. You have failed your 18 year old self. You have failed your 20 year old self. Do you want to fail your 25 year old self too?
+
+You have completely lost it. Please pull yourself together. You are trapped. You're so far gone. I need you to save me. I need you to help me out. For your well being. For everything you want in life I need you to be better.
+
+Please. You're letting me down every year, every month, every day. You are getting 1% worse every single day. I hate this. I hate who you are right now. Please pull yourself together. 
+
+Let yourself out of this hole Kishore. We can't keep doing this. I'm so sad and scared for you. I fear for what you're going to do to me. Let the small things compound. Let it grow a lot more. Get away from your phone.
+
+Get back in the gym. Please focus. You're going to lose yourself. You just need to do the work there's a time and a place for everything. I know you can do it. 
