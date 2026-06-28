@@ -25,3 +25,5 @@ Get up and do it.
 Don't feel like doing it?
 
 Do it.
+
+Do it for the guy waiting for you when you turn 25
