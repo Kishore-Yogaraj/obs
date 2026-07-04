@@ -1,0 +1,12 @@
+- Make a website for pantheon
+	- Blog section
+	- About us section
+	- Update the website with information we have so far
+- Initial sketches
+- Mechanical Design
+- Electrical Task Brief
+- Source parts
+- Agree on sensor selection
+- Set up environment for for simulation
+- Build pitch deck
+- Cold email template
