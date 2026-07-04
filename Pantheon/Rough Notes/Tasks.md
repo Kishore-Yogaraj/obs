@@ -35,4 +35,30 @@ Distinguish between what's actionable now versus what's blocked
 - No parts, no mechanical design, sensor stack chosen
 - Can't build the robot, but you can design it
 - Can't test sensors but you can order them
-- C
+- Can't run real SLAM but can get simulation environment running
+- Can't cold email without a pitch deck but you can build a pitch deck
+
+Size tasks to be completable, not just desirable
+- Built the robot is a deliverable, not a task
+- "Design the chassis mounting plate for the Livox Mid-360 in CAD" is a task and has a clear done state, one person can own it and you can estimate how long it takes
+- If a task takes more than two weeks of work for one person its actually a group of tasks hiding 
+- Only break down the stuff that's actionable in the near term
+- Tasks three months out can stay coarse grained for now
+
+Separate workstreams that can run in parallel
+- Mechanical and electrical is bottle necked on designing
+- Software is bottlenecked by not having hardware
+- Outreach, website, and pitch deck have no dependencies
+
+Apply a time horizon
+- Don't plan the whole project at task level granularity right now
+- Plan the next 3-4 weeks in detail (specific tasks, owners, deadlines), the next 2-3 months at the deliverable level (what milestones do we need to hit), and the rest of the project at the goal level (what does the final system look like)
+- Planning horizon or rolling wave approach
+
+Sequence summary
+1. List your major deliverables (the things that need to exist)
+2. Map dependencies between them (what blocks what)
+3. Identify what's actionable today given your current state
+4. Break only those near-term items into specific, ownable tasks
+5. Assign based on parallel workstreams so no one is idle
+6. Leave future work coarse - refine it as we go
