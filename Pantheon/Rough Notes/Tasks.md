@@ -91,4 +91,26 @@ Not tasks yet. Just the things that need to exist for the robot to work and the 
 #### Sensors
 - Sensors procured (everything from stack actually purchased and in hand)
 - Sensors mounted and electrically integrated (physically attached to chassis, wired, powered, producing data)
-- 
+
+#### Software - Perception
+- Camera perception pipeline (stereo + fisheye feeds into object detection, pedestrian detection, crosswalk/traffic signal recognition, all fused into a shared 3D object map)
+- LiDAR processing pipeline (point cloud preprocessing, ground segmentation, obstacle extraction)
+
+#### Software - Mapping and Localization
+- Pre-mapped campus map (teleoperated SLAM run producing usable occupancy grid and 3D map, with keep out zones, sidewalk/road disambiguation)
+- Localization system (EKF fusing LiDAR-inertial odometry, RTK GPS, wheel odometry for real-time pose estimation)
+
+#### Software - Navigation and Decision Making
+- Nav2 stack configured (global planner, local planner via DWA, costmap layers including keep out filter)
+- Behavior tree (mission-level logic - route to destination, handle crosswalks, recovery behaviors, delivery state machine)
+
+#### Software - Low level Control
+- Motor control bridge (MCU firmware handling PID for wheel velocities, publishing encoder odometry, ROS2 micro-ROS or serial bridge to Jetson)
+- Simulation environment (Gazebo or similar, with a campus like world, simulated sensor feeds, and Nav2 running in the loop so we can develop and test before hardware exists)
+
+#### Non-Technical
+- Project website (public-facing site with project description, team bios, blog for progress updates)
+- Pitch deck (polished slide deck explaining the project, team, and what you're asking for, aimed at potential sponsors)
+- Cold email templates (outreach copy tailored to different company types — robotics companies, local businesses, component manufacturers)
+- Sponsorship/outreach campaign (actually identifying targets, sending emails, tracking responses)
+- Capstone documentation (whatever your program requires — proposals, progress reports, final report, poster, demo)
