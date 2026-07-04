@@ -62,3 +62,33 @@ Sequence summary
 4. Break only those near-term items into specific, ownable tasks
 5. Assign based on parallel workstreams so no one is idle
 6. Leave future work coarse - refine it as we go
+
+### What needs to exist?
+Not tasks yet. Just the things that need to exist for the robot to work and the project to success. Grouped by domain.
+
+#### Mechanical
+- Mechanical design (full CAD model of the chassis, enclosure, mounting)
+- Fabricated and assembled chassis (the physical robot platform)
+
+#### Electrical 
+- Power system
+	- Battery selection
+	- Power distribution board
+	- Charing solution
+- Sensor interface wiring
+	- Cables
+	- Connectors
+	- Voltage regulation between sensors and compute
+- MCU system
+	- Arduino Mega or STM32 running motor control
+	- Encoders
+	- Communicating with Jetson over ROS2
+- Compute Platform
+	- Jetson Orin NX Physically installed
+	- OS configured
+	- ROS 2 environment set up
+
+#### Sensors
+- Sensors procured (everything from stack actually purchased and in hand)
+- Sensors mounted and electrically integrated (physically attached to chassis, wired, powered, producing data)
+- 
