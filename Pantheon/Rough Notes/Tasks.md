@@ -114,3 +114,16 @@ Not tasks yet. Just the things that need to exist for the robot to work and the 
 - Cold email templates (outreach copy tailored to different company types — robotics companies, local businesses, component manufacturers)
 - Sponsorship/outreach campaign (actually identifying targets, sending emails, tracking responses)
 - Capstone documentation (whatever your program requires — proposals, progress reports, final report, poster, demo)
+
+### Dependency Mapping
+Figure out what blocks what. Prioritization falls out here.
+
+#### No dependencies
+- Mechanical design — needs nothing but CAD software and decisions
+- Simulation environment — needs nothing but a computer and ROS 2 installed
+- Project website — needs nothing but someone willing to build it
+- Pitch deck — needs nothing but knowledge of the project and a design tool
+- Cold email templates — needs nothing but the pitch deck being at least drafted
+- Capstone documentation (early stages like proposals) — can start now
+- Sensors procured — depends only on money/budget approval, not on other deliverables
+- Power system research and design — can begin the analysis, battery selection, and power budget now before the chassis exists
