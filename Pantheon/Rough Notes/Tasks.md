@@ -128,3 +128,9 @@ Figure out what blocks what. Prioritization falls out here.
 - Sensors procured — depends only on money/budget approval, not on other deliverables
 - Power system research and design — can begin the analysis, battery selection, and power budget now before the chassis exists
 
+#### Depends on Mechanical Design 
+- Fabricated/assembled chassis - can't build what hasn't been designed
+- Sensor mounting plan - you need to know where things go on the chassis, though we can rough this our during mechanical design
+
+#### Depends on chassis + sensors procured
+- 
