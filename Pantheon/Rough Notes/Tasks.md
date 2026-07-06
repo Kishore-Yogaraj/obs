@@ -226,15 +226,15 @@ A spreadsheet listing every electrical component - Jetson, Livox Mid-360, OAK-D 
 
 Effort: 3-4 days, can start immediately since it only needs datasheets
 
-**H4: Order sensors and compute**
-Actually place purchase orders for the sensor stack and the Jetson Orin NX. Done means orders are placed and we have expected delivery dates. This is urgent specifically because lead times sit on the critical path - every day you delay ordering is a day added to the integration timeline.
-
-Effort: 1-2 days of actual work, but may depend on budget once determined
-
-**H5: Sensor interface specification**
+**H4: Sensor interface specification**
 For each sensor, document: what connector it uses, what protocol it speaks (USB3, Ethernet, SPI, I2C, UART), what voltage it needs, what ROS 2 driver package exists for it, and any known quirks. Done means the electrical team member has a clear picture of every cable, connector, and driver that needs to exist. This will directly feed into the wiring harness design later.
 
 Effort: 3-4 days, can be done in parallel with H3 since it's also just datasheet work
+
+**H5: Order sensors and compute**
+Actually place purchase orders for the sensor stack and the Jetson Orin NX. Done means orders are placed and we have expected delivery dates. This is urgent specifically because lead times sit on the critical path - every day you delay ordering is a day added to the integration timeline.
+
+Effort: 1-2 days of actual work, but may depend on budget once determined
 
 #### Software in Simulation
 
@@ -270,3 +270,13 @@ A slide deck, probably 8-12 slides. Cover the problem (campus food delivery is s
 what you're asking for (parts, funding, mentorship), and what sponsors get. Done means we have a draft ready for internal team review.
 
 Effort: ~1 week
+
+**O3: Cold email templates**
+Two or three email variants. One for robotics or tech companies ("we're building an autonomous delivery robot and would love component sponsorship or mentorship), one for local restaurants ("we're building a robot that deliver food on campus and want to pilot with your restaurant"), and optionally one for component manufacturers asking for educational discounts. Done means you have reviewed, polished emails ready to send once the pitch deck and website exist.
+
+Effort: 2-3 days, but depends on O2 being at least drafted so we know what we're pitching
+
+**O4: Sponsorship target list**
+A spreadsheet of companies to contact. For each: company name, why they're relevant, contact person or email if findable, and what you'd ask for. Aim for 20-30 targets to start. Done means the list exists and we can start working through it systematically.
+
+Effort: 3-4 days of research
