@@ -127,3 +127,4 @@ Figure out what blocks what. Prioritization falls out here.
 - Capstone documentation (early stages like proposals) — can start now
 - Sensors procured — depends only on money/budget approval, not on other deliverables
 - Power system research and design — can begin the analysis, battery selection, and power budget now before the chassis exists
+
