@@ -127,7 +127,8 @@
               "title": "Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -301,10 +302,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
-    "Pantheon/Rough Notes/Building Planning Software.md",
+    "Pantheon/Rough Notes/attachments/Pasted image 20260706170648.png",
+    "Pantheon/Rough Notes/attachments",
     "Pantheon/Rough Notes/Tasks.md",
+    "Pantheon/Rough Notes/Building Planning Software.md",
     "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
     "Ceycan Notes.md",
     "Interview Prep/Chamberlain Group/3D Tracking.md",
@@ -332,7 +335,6 @@
     "Watonomous/How to Build A Self Driving Car.md",
     "Reflections/Significant/Who do you want to be.md",
     "Subscriptions.md",
-    "Reflections/Significant/The Truth.md",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
     "Interview Prep/Matic/attachments",
@@ -346,7 +348,6 @@
     "Investing and Finance/attachments",
     "Investing and Finance",
     "Interview Prep/NavMobility",
-    "Books",
     "attachments/Pasted image 20260428151122.png",
     "attachments/Pasted image 20260413111730.png"
   ]
