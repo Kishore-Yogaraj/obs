@@ -12,4 +12,13 @@ None of the project management software that are available right now are suited 
 	- A task will be that number with a decimal
 	- A task from that will be that number with another decimal
 	- For example 1.1 then 1.1.1
-- Each task and deliverable should also have a blocked, in progress, or completed 
+- Each task and deliverable should also have a blocked, in progress, or completed tag that can be tracked with color codes
+	- Red for blocked
+	- Green for completed
+	- Yellow for in progress
+- When you click on a task it should open to a new page that shows what other tasks was dependent on it and also show the status of that task
+- It should also show a description of the task of what is considered as "done" for the task
+- With all of this, we there should also be a kanban board that gets updated as well when the tasks are updated so that we have a day to day view
+- The kanban should also be able to be filtered by the sub team
+
+I need you to develop a project management tool for me. This project management tool 
