@@ -216,10 +216,28 @@ Decide if we are designing from scratch, modifying an existing platform, or buil
 
 Effort: 3-5 days of research, one meeting to decide
 
-
 **H2: Chassis requirements spec**
 A document listing every physical constraint the chassis needs to satisfy. Overall dimensions (fit on a sidewalk, fit through doors if needed), weight budget with margin, ground clearance for snow and curbs, wheel configuration and size, where each sensor needs to be mounted and what sightlines it needs, weatherproofing requirements, and access panels for maintenance. Done means the mechanical designer can open CAD and start working without needing to ask "how big should this be."
 
+Effort: ~1 week, dependent on H1 being resolved
+
 **H3: Power budget spreadsheet**
 A spreadsheet listing every electrical component - Jetson, Livox Mid-360, OAK-D Pro, fisheyes, RTK GPS, BNO085, MCU, motors - with voltage requirements, typical current draw, and peak current draw, all pulled from datasheets. Sum it up for continuous and peak system draw. Done means you have a total wattage number and voltage rail map that tells you what batter capacity you need and how many voltage regulators or converters are required.
+
+Effort: 3-4 days, can start immediately since it only needs datasheets
+
+**H4: Order sensors and compute**
+Actually place purchase orders for the sensor stack and the Jetson Orin NX. Done means orders are placed and we have expected delivery dates. This is urgent specifically because lead times sit on the critical path - every day you delay ordering is a day added to the integration timeline.
+
+Effort: 1-2 days of actual work, but may depend on budget once determined
+
+**H5: Sensor interface specification**
+For each sensor, document: what connector it uses, what protocol it speaks (USB3, Ethernet, SPI, I2C, UART), what voltage it needs, what ROS 2 driver package exists for it, and any known quirks. Done means the electrical team member has a clear picture of every cable, connector, and driver that needs to exist. This will directly feed into the wiring harness design later.
+
+Effort: 3-4 days, can be done in parallel with H3 since it's also just datasheet work
+
+#### Software in Simulation
+
+**S1: ROS 2 and Gazebo Environment Setup**
+
 
