@@ -178,4 +178,30 @@ Mechanical design is the critical path bottleneck, so it's the highest priority 
 - Decide on base platform strategy - designing from scratch, modifying an existing platform like a power wheelchair base or a Husky-style chassis, or buying a commercial frame and building around it? This decisions should unblock everything else in mechanical
 - Begin chassis requirements spec - dimensions needed for sensor placement, weight budget, ground clearance for snow, wheel size and type for traction, weatherproofing approach. This can be written before any CAD work starts and it informs the CAD work
 - Start the power budget - list every component, its voltage and current draw, compute peak versus continuous loads. This doesn't require having parts in hand, just datasheets. It feeds directly into battery selection and power distribution design
-- Begin sensor procurement - stack is chosen, so the actual purchasing process can start
+- Begin sensor procurement - stack is chosen, so the actual purchasing process can start. Lead times matter. If the Livox Mid-360 takes three weeks to ship, that's three weeks added to the critical path if we don't order soon
+
+#### Software in Simulation
+The whole track exists specifically because the software team has nothing physical to work with yet. This means everything here is actionable immediately.
+
+- Set up the simulation environemnt - install ROS 2, Gazebo, get a basic robot model (placeholder URDF with right sensor locations) spawned in a world. A flat world with some obstacles is fine to start. Campus-like fidelity can come later.
+- Get Nav2 running in simulation - once the sim exists, configure Nav2 with a simulated LiDAR and a simple map. This is well documented in the Nav2 tutorials. Getting a robot to plan and follow a path in Gazebo is a first meaningful milestone
+- Start the perception pipeline in simulation - spawn a simulated camera, run a basic object detection model, confirm you can get bounding boxes in ROS 2 topics. Real world accuracy comes later, but the infrastructure and message plumbing should be built now
+
+#### Outreach and documentation
+Zero technical dependencies on any of this. It can start today.
+
+- Build the project website - even a simple one-pager with project description, team, and a blog section. We want this to exist before we start emailing companies so we have something to link to
+- Draft the pitch deck - what the project is, who the team is, what you're building, what you need (money, parts, mentorship), and what the sponsor gets in return (logo on robot, mentions in blog, capstone poster visibility)
+- Write cold email templates - once the pitch deck draft exists, write 2-3 emails variants for different audiences: robotics/tech companies, local restaurants who might partner for delivery testing, and component manufacturers who might donate or discount parts
+- Start the capstone proposal - whatever your program requires for the initial deliverable, it can be worked on now since we already know the project
+
+
+#### Not actionable right now
+Should not appear on anyone's task list yet:
+- Any physical fabrication or assembly
+- Sensor mounting or wiring
+- MCU firmware development (no motors to control)
+- Real-world SLAM or mapping
+- Campus map creation
+- Real-world Nav2 deployment
+- Full behavior tree integration testing
