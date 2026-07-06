@@ -239,5 +239,21 @@ Effort: 3-4 days, can be done in parallel with H3 since it's also just datasheet
 #### Software in Simulation
 
 **S1: ROS 2 and Gazebo Environment Setup**
+Install ROS2 Humble, gazebo and all Nav2 dependencies on a development machine. Create a basic ROS 2 workspace for the project. Done means you can run `ros2 launch` and get Gazebo open with an empty world.
+
+Effort: 1-2 days if no major installation issues
+
+**S2: Robot URDF model**
+Build a rough URDF or xacro model of the robot. It doesn't need to match the final chassis - it needs to have the right wheelbase approximately, and simulated sensor plugins for a LiDAR (match the Livox's FOV roughly), a front stereo camera, and an IMU. Done means you can spawn this robot in Gazebo and see sensor topics publishing in ROS 2
+
+Effort: 3-5 days. Fiddly work but well documented in ROS 2 tutorials
+
+**S3: Nav2 basic navigation in simulation**
+Using the URDF robot in simple Gazebo world, configure Nav2 with a static map, get the robot planning a path from A to B and driving it. Done means you can click a goal pose in RViz and the robot navigates to it, avoiding static obstacles.
+
+Effort: ~1 week, depends on S1 and S2 being done. Again, Nav2 tutorials cover this almost step by step.
+
+**S4: Basic perception prototype**
+Get a camera feed from the simulated robot into a ROS 2 node running a pretrained object detection model (YOLOv8 is fine). Done means bounding boxes are being published as ROS 2 messages and you can visualize them in RViz overlaid on the camera image. Accuracy and real-world performance don't matter yet - this is more about building the message pipeline
 
 
