@@ -254,6 +254,19 @@ Using the URDF robot in simple Gazebo world, configure Nav2 with a static map, g
 Effort: ~1 week, depends on S1 and S2 being done. Again, Nav2 tutorials cover this almost step by step.
 
 **S4: Basic perception prototype**
-Get a camera feed from the simulated robot into a ROS 2 node running a pretrained object detection model (YOLOv8 is fine). Done means bounding boxes are being published as ROS 2 messages and you can visualize them in RViz overlaid on the camera image. Accuracy and real-world performance don't matter yet - this is more about building the message pipeline
+Get a camera feed from the simulated robot into a ROS 2 node running a pretrained object detection model (YOLOv8 is fine). Done means bounding boxes are being published as ROS 2 messages and you can visualize them in RViz overlaid on the camera image. Accuracy and real-world performance don't matter yet - this is more about building the message pipeline.
 
+Effort: ~1 week, depends on S2 for the simulated camera feed
 
+#### Outreach and Documentation
+
+**O1: Project website - version 1**
+A simple, clean website. One page is fine. Project title, one-paragraph description, and a blog section (even if the first post is just "Project kickoff"). Hosted somewhere. Done mean's there's a live URL you can put in emails.
+
+Effort: 3-5 days depending on web skills
+
+**O2: Pitch deck - first draft**
+A slide deck, probably 8-12 slides. Cover the problem (campus food delivery is slow and expensive), the solution (autonomous robot), the team (names, skills, credibility), the technical approach (high level, not a ROS 2 architecture lecture),
+what you're asking for (parts, funding, mentorship), and what sponsors get. Done means we have a draft ready for internal team review.
+
+Effort: ~1 week
