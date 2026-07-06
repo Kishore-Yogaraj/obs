@@ -280,3 +280,7 @@ Effort: 2-3 days, but depends on O2 being at least drafted so we know what we're
 A spreadsheet of companies to contact. For each: company name, why they're relevant, contact person or email if findable, and what you'd ask for. Aim for 20-30 targets to start. Done means the list exists and we can start working through it systematically.
 
 Effort: 3-4 days of research
+
+
+### Building Planning Software
+I think I'm going to build my own tool for planning out our tasks. I want it to break down into a tree with full control over what I type in in the tree and how the nodes are connected. I want to be able to color code if it's blocked, being worked on and if its in progress. It should also be able to show who's working on it. It should automatically be assign to the Kanban in the web app as well. It should have multiple dependencies as well
