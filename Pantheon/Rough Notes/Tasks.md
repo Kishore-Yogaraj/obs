@@ -133,4 +133,34 @@ Figure out what blocks what. Prioritization falls out here.
 - Sensor mounting plan - you need to know where things go on the chassis, though we can rough this our during mechanical design
 
 #### Depends on chassis + sensors procured
-- 
+- Sensors mounted and electrically integrated - need the physical robot and the physical sensors
+- Compute platform installed - need somewhere to put the Jetson
+- Sensor interface wiring - need the chassis, sensors, and the power system to come together
+- MCU system (physical prototype) - need motors mounted on a chassis to control
+
+#### Depends on sensors integrated and producing data
+- Camera perception pipeline (real hardware testing) - though initial model work can happen in simulation earlier
+- LiDAR processing pipeline (real data) - same caveat, simulation first
+- Pre-mapped campus map - need the robot physically driving around with working LiDAR and odometry
+
+#### Depends on campus map existing
+- Nav2 stack configured (real deployment) - needs a real map to plan on, though we can configure and test it entirely in simulation before that
+
+#### Depends on Nav2 + perception + behavior logic all working
+- Behavior tree (full integration) - this is where everything converges: perception feeds into the behavior tree, which commands Nav2, which sends velocity commands through the motor control bridge
+
+#### Depends on pitch deck
+- Cold email templates - hard to write outreach without knowing what you're pitching
+- Sponsorship campaign - needs both the templates and the pitch deck
+
+**Critical Path** - the longest chain of dependencies that determines our overall timeline 
+
+Mechanical design to chassis fabrication to sensor integration to real sensor data to campus mapping to Nav2 deployment to full behavior integration to field testing
+
+Everything else will wither feed into this chain or run parallel to it. This is important because it tells us that mechanical design is the single most urgent technical deliverable. Every week it slips, the entire downstream chain slips with it
+
+There's also a completely independent parallel track: website to pitch deck to outreach to sponsorship. This work doesn't touch the critical path at all, which makes it perfect for team members who aren't doing mechanical or software design
+
+Simulation track. Every software deliverable has a simulation first version that can be developed right now, independent of hardware. This is the software team's lifeline while the physical robot doesn't exist yet.
+
+**Three parallel works**
