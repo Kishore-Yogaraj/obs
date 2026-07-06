@@ -205,3 +205,21 @@ Should not appear on anyone's task list yet:
 - Campus map creation
 - Real-world Nav2 deployment
 - Full behavior tree integration testing
+
+### Break into specific ownable tasks
+Each task will have a clear name, what "done" looks like, and a rough effort estimate
+
+#### Hardware pipeline
+
+**H1: Base platform decision**
+Decide if we are designing from scratch, modifying an existing platform, or building around a commercial base. Done means we have written decision with reasoning - "we're going with X approach because Y." This unblocks all subsequent mechanical CAD work. Should be a group discussion, but someone needs to own researching the options and presenting them.
+
+Effort: 3-5 days of research, one meeting to decide
+
+
+**H2: Chassis requirements spec**
+A document listing every physical constraint the chassis needs to satisfy. Overall dimensions (fit on a sidewalk, fit through doors if needed), weight budget with margin, ground clearance for snow and curbs, wheel configuration and size, where each sensor needs to be mounted and what sightlines it needs, weatherproofing requirements, and access panels for maintenance. Done means the mechanical designer can open CAD and start working without needing to ask "how big should this be."
+
+**H3: Power budget spreadsheet**
+A spreadsheet listing every electrical component - Jetson, Livox Mid-360, OAK-D Pro, fisheyes, RTK GPS, BNO085, MCU, motors - with voltage requirements, typical current draw, and peak current draw, all pulled from datasheets. Sum it up for continuous and peak system draw. Done means you have a total wattage number and voltage rail map that tells you what batter capacity you need and how many voltage regulators or converters are required.
+
