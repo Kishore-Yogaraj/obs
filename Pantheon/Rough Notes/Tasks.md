@@ -163,4 +163,19 @@ There's also a completely independent parallel track: website to pitch deck to o
 
 Simulation track. Every software deliverable has a simulation first version that can be developed right now, independent of hardware. This is the software team's lifeline while the physical robot doesn't exist yet.
 
-**Three parallel works**
+**Three parallel workstreams**
+1. Hardware pipeline - mechanical design to electrical to fabrication to integration
+2. Software in simulation - sim environemnt to perception prototyping to Nav2 config to behavior tree logic
+3. Outreach and documentation - website, pitch deck, emails, capstone docs
+
+### What's actionable right now?
+
+Given our current state - no parts, no mechanical design, sensor stack selected, team just forming. We can go through each workstream and identify what has zero unmet dependencies today.
+
+#### Hardware pipeline
+Mechanical design is the critical path bottleneck, so it's the highest priority technical item. "Do the mechanical design" is too big. What can actually start as soon as possible?
+
+- Decide on base platform strategy - designing from scratch, modifying an existing platform like a power wheelchair base or a Husky-style chassis, or buying a commercial frame and building around it? This decisions should unblock everything else in mechanical
+- Begin chassis requirements spec - dimensions needed for sensor placement, weight budget, ground clearance for snow, wheel size and type for traction, weatherproofing approach. This can be written before any CAD work starts and it informs the CAD work
+- Start the power budget - list every component, its voltage and current draw, compute peak versus continuous loads. This doesn't require having parts in hand, just datasheets. It feeds directly into battery selection and power distribution design
+- Begin sensor procurement - stack is chosen, so the actual purchasing process can start
