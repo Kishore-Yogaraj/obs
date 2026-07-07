@@ -21,4 +21,9 @@ None of the project management software that are available right now are suited 
 - With all of this, we there should also be a kanban board that gets updated as well when the tasks are updated so that we have a day to day view
 - The kanban should also be able to be filtered by the sub team
 
-I need you to develop a project management tool for me. This project management tool is to serve as a way to breakdown project deliverables and tasks and to look at all the tasks that need to be done in a bigger picture view. Current tools offer too many features for project management and I only need two tools that work really well together. A tree diagram work breakdown structure and a K
+I need you to develop a project management tool for me. This project management tool is to serve as a way to breakdown project deliverables and tasks and to look at all the tasks that need to be done in a bigger picture view. Current tools offer too many features for project management and I only need two tools that work really well together. A tree diagram work breakdown structure and a Kanban board that integrates with the tree diagram work breakdown structure. This will be a webapp to be used by me an 4 other group members for a project that we are working on. I want the title of the website to be SimplePM. I want users to be able to enter a password before being able to use the system because I only want our group members to use the planning software. After entering the program there should be an option to create a new project or work on exisiting projects. 
+
+**Vision for the work breakdown structure**
+![[Pasted image 20260707091735.png]]
+
+Attached above is how I want the the tree diagram to function. The screen should start with a blank screen with a tab at the top that we can use to switch between the WBS (Work Breakdown Structure view) and the Kanban view.
