@@ -21,4 +21,4 @@ None of the project management software that are available right now are suited 
 - With all of this, we there should also be a kanban board that gets updated as well when the tasks are updated so that we have a day to day view
 - The kanban should also be able to be filtered by the sub team
 
-I need you to develop a project management tool for me. This project management tool 
+I need you to develop a project management tool for me. This project management tool is to serve as a way to breakdown project deliverables and tasks and to look at all the tasks that need to be done in a bigger picture view. Current tools offer too many features for project management and I only need two tools that work really well together. A tree diagram work breakdown structure and a K
