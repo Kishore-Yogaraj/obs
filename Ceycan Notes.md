@@ -1,4 +1,4 @@
-Desktop password: 908806
+Desktop password: 6880
 
 Wi-Fi password: 9052561101
 
