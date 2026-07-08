@@ -9,6 +9,19 @@ This is a smaller, more manageable component of a parent deliverable. It is used
 #### Work Package
 A work package is the lower element of a work breakdown structure branch. The absolute smallest unit of scope that you track. Its a specific, verifiable end-product.
 
+#### Task
+A task is a specific action item required to build a work package. Tasks do not belong in the WBS, instead they live in the project schedule, Gantt chart, or daily Kanban board. For our use case I wanted something all in one place so we will be able to access tasks in the WBS. Tasks are also time based. Until we have more time on our hands we will use this until we can make a Gantt chart.
+
+**What is being built? (Scope)**
+- Deliverable: The complete vehicle powertrain
+- Sub-Deliverable: The battery management system
+- Work Package: The low-voltage wiring harness
+
+**How is it being built? (Execution)**
+- Task 1: Pin out the connectors
+- Task 2: Crimp the wire terminals
+- Heat-shrink the insulation
+
 
 ### Main Deliverables
 **Root: Autonomous Food Delivery Robot**
