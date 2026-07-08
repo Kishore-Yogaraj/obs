@@ -1,4 +1,15 @@
-### Difference Between Deliverables, Sub-Deliverables, Work
+### Difference Between Deliverables, Sub-Deliverables, Work Packages and Tasks
+
+#### Deliverables
+A deliverable is a major, high-level outcome or complete system that must be produced to achieve the project's objective. It represents a significant milestone or concrete chunk of the final project. 
+
+#### Sub Deliverables
+This is a smaller, more manageable component of a parent deliverable. It is used to break down complex systems into distinct subsystems or logical parts. Under the navigation deliverable the compute vision pipeline would would a sub deliverable. It defines a specific subsection of work but is still too large to easily estimate for cost and time, or to assign to a single person without breaking it down further.
+
+#### Work Package
+A work package is the lower element of a work breakdown structure branch. The absolute smallest unit of scope that you track. Its a specific, verifiable end-product.
+
+
 ### Main Deliverables
 **Root: Autonomous Food Delivery Robot**
 Bullet points are just the scope of what's needed for the project 
