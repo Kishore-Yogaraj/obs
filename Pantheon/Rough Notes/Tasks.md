@@ -287,4 +287,9 @@ I think I'm going to build my own tool for planning out our tasks. I want it to 
 
 
 
-### What is a Deliverable?
+### Difference Between a Deliverable and Task
+**A deliverable is a thing that exists when you're done. A task is work you do to make it exist.**
+
+The test is simple: can you point at it, hand it to someone, or demonstrate it? If yes, it's a deliverable.
+
+"Power System" is a deliverable - when it's done, there's a physical battery, a power distr
