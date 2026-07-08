@@ -292,4 +292,10 @@ I think I'm going to build my own tool for planning out our tasks. I want it to 
 
 The test is simple: can you point at it, hand it to someone, or demonstrate it? If yes, it's a deliverable.
 
-"Power System" is a deliverable - when it's done, there's a physical battery, a power distr
+"Power System" is a deliverable - when it's done, there's a physical battery, a power distribution board, and a charging solution sitting on the bench. "Research LiFePO4 vs Li-ion chemistries and write up a recommendation" is a task. It's work someone does that moves you toward that deliverable but nobody points at the finished robot and says "there's the batter research".
+
+Deliverables answer "What does the project produce?"
+
+Tasks answer "What does someone do this week"
+
+We can ask ourselves "is this something I'd track completion of, or something I'd assign to a person for a sprint?". "MCU Firmware" is something you track completion of - it's done when PID control works, encoders are being read, and the e-stop logic is functional. "Tune the PID gains on the left wheel using step-response data" is something you'd assign to a teammate for next week"
