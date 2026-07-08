@@ -299,3 +299,6 @@ Deliverables answer "What does the project produce?"
 Tasks answer "What does someone do this week"
 
 We can ask ourselves "is this something I'd track completion of, or something I'd assign to a person for a sprint?". "MCU Firmware" is something you track completion of - it's done when PID control works, encoders are being read, and the e-stop logic is functional. "Tune the PID gains on the left wheel using step-response data" is something you'd assign to a teammate for next week"
+
+
+
