@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -302,10 +302,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4608514ea02d14c6",
+  "active": "f0fd867538671b1a",
   "lastOpenFiles": [
-    "Pantheon/Rough Notes/Tasks.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
+    "Pantheon/Rough Notes/Tasks.md",
     "Pantheon/Rough Notes/Building Planning Software.md",
     "Pantheon/Rough Notes/Passwords.md",
     "Ceycan Notes.md",
