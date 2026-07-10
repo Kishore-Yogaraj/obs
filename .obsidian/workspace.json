@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pantheon/Rough Notes/Passwords.md",
+                "file": "Pantheon/Rough Notes/Finalized Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Passwords"
+              "title": "Finalized Tasks"
             }
           },
           {
@@ -185,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -304,10 +305,10 @@
   },
   "active": "4608514ea02d14c6",
   "lastOpenFiles": [
-    "Pantheon/Rough Notes/attachments/Pasted image 20260710103801.png",
-    "Pantheon/Rough Notes/Tasks.md",
     "Pantheon/Rough Notes/Building Planning Software.md",
     "Pantheon/Rough Notes/Passwords.md",
+    "Pantheon/Rough Notes/attachments/Pasted image 20260710103801.png",
+    "Pantheon/Rough Notes/Tasks.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
     "Ceycan Notes.md",
     "Pantheon/Rough Notes/attachments/Pasted image 20260707091735.png",
@@ -346,7 +347,6 @@
     "Investing and Finance/attachments/Pasted image 20260510215556.png",
     "Investing and Finance/attachments/Pasted image 20260509173219.png",
     "Investing and Finance/attachments/Pasted image 20260509152200.png",
-    "Investing and Finance/attachments/Pasted image 20260509152110.png",
     "Investing and Finance/attachments",
     "Investing and Finance",
     "Interview Prep/NavMobility"
