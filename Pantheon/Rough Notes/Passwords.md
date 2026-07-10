@@ -11,3 +11,6 @@ npm run seed:users
 
 **Running web app locally**
 npm run dev
+
+**Switching zoom size**
+![[Pasted image 20260710103801.png]]
