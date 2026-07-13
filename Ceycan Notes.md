@@ -14,4 +14,8 @@ prem trans tarrif
 9017 n taivakumarf
 Kugan shopi exports
 
+sat 9015
+sun day 9014
+Jenistan
+
 ![[Pasted image 20260710154715.png]]
