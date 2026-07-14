@@ -4,3 +4,5 @@ Okay the goals for today are as follows:
 - Haircut
 - Meet with Will
 - Study ME 321
+
+the world works with the best of both worlds bu twe will alwys know 
