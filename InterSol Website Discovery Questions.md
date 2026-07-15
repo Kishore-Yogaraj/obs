@@ -48,4 +48,42 @@
 - Should there be a "Why InterSol"/differentiators section? What makes you different?
 
 ### Contact and Conversion
-- What's the primary contact method you
+- What's the primary contact method you want: phone call, contact form, email, WhatsApp, or online booking?
+- Do you want online appointment booking? Who's calendar does it hit?
+- What fields should the contact form have? Name, email, phone, service needed, company, message, budget, how'd you hear about us?
+- Where should the form submissions go? Which email address? Multiple people?
+- Should the number be visible in the heads on every page?
+- Do you want a client portal or document upload feature? (Maybe after phase 1)
+- Do you want office hours displayed? Do hours change during tax season?
+- Do you want an embedded map
+
+### Content
+- Who is writing the website copy - you, me, or Claude with your review
+- Can you give me a paragraph in your own words describing what InterSol does?
+- Do you have photos of the office, team or work environment?
+- Do you have fixed prices you want to publish?
+
+### Trust Signals
+- What certifications, memberships or designations can be displayed? (CPA, CPB, QuickBooks ProAdvisor, Xero Partner, BBB, Chamber of commerce)
+- Do you have client logos you're permitted to display?
+- Years in business, number of clients served, returns filed - any numbers we can use as stats
+- Any awards or press mentions?
+
+### Technical
+- Do you own a domain? What is it? Who has the registrar login?
+- Do you have hosting or does that need to be set up?
+- Who manages your business email? Is it tied to the domain?
+- Do you want to edit the content yourself or will you come to me for changes?
+- Do you have a Google Analytics/Google Business Profile already? 
+- Do you need SEO to be a priority or is this mostly a "brochure to send referrals to"
+- What search terms do you want to rank for?
+- Do you have social media accounts to link?
+
+### Negative Constraints
+- Show me a website you hate. Why?
+- Is there anything you absolutely do not want on the site?
+- Any animation/motion preferences?
+- How do you feel about long-scrolling homepages vs short pages with clicking
+- Mobile first or desktop first?
+
+### Deliveralabes needed
