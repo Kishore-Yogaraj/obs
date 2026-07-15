@@ -86,4 +86,16 @@
 - How do you feel about long-scrolling homepages vs short pages with clicking
 - Mobile first or desktop first?
 
-### Deliveralabes needed
+### Deliverables Needed
+- Logo files (vector if possible)
+- Brand guidelines
+	- Font
+	- Color
+- Domain registrar access
+- Photos
+- Testimonials + permission
+- Client list/logos + permissions
+- List of certifications
+- Existing marketing materials
+- Google Business Profile Access
+- Preferred contact email(s) for form routing
