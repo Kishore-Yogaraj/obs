@@ -17,4 +17,35 @@
 - If the site only did one thing well, what would it be?
 - How do clients find you today? (Referral, walk-in, Google, social?)
 - What do you want a visitor to do within 30 seconds of landing?
-- How will you know in 6 months if the site w
+- How will you know in 6 months if the site worked?
+- Are there competitors whose sites you want to beat, or firms you don't want to look like?
+
+### Audience
+- Describe your ideal client in one sentence
+- What is the typical age, tech comfort, and language of your clients?
+- Do you need the side in more than one language? 
+- What's the #1 objection or hesitation a prospect has before calling you?
+- What questions do clients ask you over and over that the site should answer?
+
+### Brand & Identity
+- Do you have a logo? Do you have the original vector files (.ai, .svg, .eps) or only a JPG/PNG
+- Is there a tagline, or should we write one?
+- In three adjectives, how should the site feel? (e.g. trustworthy, modern, warm, corporate, premium, approachable, efficient)
+- Who should this appeal to more: a Fortune 500 CFO, or a nervous first-time business owner?
+- Any existing brand assets - business cards, letterhead, signage, vehicle wrap, invoice templates - we should match?
+- Are there colors you like or a palette you use?
+- Any font you've seen and loved that you want to use
+- Do you want photography of real staff/office or stock photos vs illustrations vs abstract graphics
+- Do you want icons? Flat, outlines, filled or 3D style?
+- Light mode only or dark mode toggle?
+- Should the site feel "Corporate and safe" or is a bit of personality/humor acceptable
+
+### Pages & Structure
+- What pages do you need immediately? (Home, About, Services, Service detail pages, Team, Pricing, Blog, Resources, Contact, FAQ, Careers, Client Portal Login?)
+- Should each service get its own page, or one combined services page?
+- Do you want an FAQ page?
+- Do you want client testimonials/reviews section? Do you have testimonials I can use?
+- Should there be a "Why InterSol"/differentiators section? What makes you different?
+
+### Contact and Conversion
+- What's the primary contact method you
