@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randoms/July 14th.md",
+                "file": "Reflections/Significant/Reduce Friction, Enjoy the Journey.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "July 14th"
+              "title": "Reduce Friction, Enjoy the Journey"
             }
           },
           {
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 431.5
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -304,8 +304,8 @@
   },
   "active": "f0fd867538671b1a",
   "lastOpenFiles": [
-    "Ceycan Notes.md",
     "Randoms/July 14th.md",
+    "Ceycan Notes.md",
     "attachments/Pasted image 20260710154715.png",
     "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/Rough Notes/Building Planning Software.md",
