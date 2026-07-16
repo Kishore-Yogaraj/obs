@@ -1,10 +1,25 @@
 ### Business and Services
+- Outsource Accounting, Bookkeeping and Taxation services
 - What is the full legal name and the name you want displayed on the site
 	- **InterSol Professional Corporation**
 - List every service you offer, not just accounting (Bookkeeping, tax prep, payroll, audit, advisory, incorporation, immigration paperwork, notary, consulting, etc.)
-	- **Monthly book keeping**
-
+	- NCS copy for services
+	- **Accounting and Bookkeeping**
+	- **Tax preparation and planning**
+	- **Payroll services**
+	- **Book keeping services**
+	- **Payroll Management**
+	- **QuickBooks setup**
+	- **Support for accountants**
+	- **Financial Reporting**
+	- **HST Filing**
+	- **Accounting services**
+	- **Corporate and individual, self employed tax filing**
+	- **Financial Reporting Service**
 - Which services drive the most revenue? Which do you want to grow?
+	- **Corporation set up**
+	- **Assistant to CRA audit appeal**
+	- **Tax P**
 - Which services should be featured on the homepage vs buried on a services page
 - Do you serve individuals, businesses, or both? What's the split?
 - Are there industries you specialize in (restaurants, contractors, medical, real estate)?
@@ -107,6 +122,8 @@
 - https://www.bench.co/
 - https://aap-cpa.com/
 - http://madanca.com/
+![[Pasted image 20260715231414.png]]
+Use this bar 
 - https://www.cmscpa.com/
 - https://taxpayerreliefletters.ca/
 - https://thetaxco.ca/
@@ -115,4 +132,5 @@
 - https://ncscorp.ca/
 - https://kvpcpa.ca/
 - https://www.markhameast.smallbizpros.ca/bookkeeping.php
+![[Pasted image 20260715231441.png]]
 - https://www.lottaccounting.ca/about
