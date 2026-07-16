@@ -83,7 +83,7 @@
 - Are there colors you like or a palette you use?
 	- Blue colour
 - Any font you've seen and loved that you want to use
-	- 
+	- https://aap-cpa.com/
 - Do you want photography of real staff/office or stock photos vs illustrations vs abstract graphics
 - Do you want icons? Flat, outlines, filled or 3D style?
 - Light mode only or dark mode toggle?
@@ -97,17 +97,25 @@
 - Do you want an FAQ page?
 	- No
 - Do you want client testimonials/reviews section? Do you have testimonials I can use?
+	- You will give the testimonials
 - Should there be a "Why InterSol"/differentiators section? What makes you different?
 
 ### Contact and Conversion
 - What's the primary contact method you want: phone call, contact form, email, WhatsApp, or online booking?
+	- Email 
+	- Form 
+	- Phone
 - Do you want online appointment booking? Who's calendar does it hit?
+	- Team email
 - What fields should the contact form have? Name, email, phone, service needed, company, message, budget, how'd you hear about us?
 - Where should the form submissions go? Which email address? Multiple people?
+	- info@intersolcpa.com
 - Should the number be visible in the heads on every page?
 - Do you want a client portal or document upload feature? (Maybe after phase 1)
 - Do you want office hours displayed? Do hours change during tax season?
+	- Yes
 - Do you want an embedded map
+	- Yes
 
 ### Content
 - Who is writing the website copy - you, me, or Claude with your review
@@ -117,7 +125,23 @@
 
 ### Trust Signals
 - What certifications, memberships or designations can be displayed? (CPA, CPB, QuickBooks ProAdvisor, Xero Partner, BBB, Chamber of commerce)
+	- Got it
 - Do you have client logos you're permitted to display?
+	- Ceycan logistic solutions
+	- Top spot janitorial services
+	- Land O lake
+	- Advanced auto
+	- Vijaya jewllery
+	- Kajuri pawn broker
+	- Ontario parking authority
+	- Aquarius Technologies Limited
+	- Blake - Entire Home
+	- BTA Auto Car Wash and Collision
+	- Business Elite Media Group Inc
+	- Kandy Auto Enterprise
+	- Pizzaiolo Restaurant
+	- Lendstrait Financial Group
+	- Selva vasam Enterprise inc
 - Years in business, number of clients served, returns filed - any numbers we can use as stats
 - Any awards or press mentions?
 
