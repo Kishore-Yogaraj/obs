@@ -1,6 +1,9 @@
 ### Business and Services
 - What is the full legal name and the name you want displayed on the site
+	- **InterSol Professional Corporation**
 - List every service you offer, not just accounting (Bookkeeping, tax prep, payroll, audit, advisory, incorporation, immigration paperwork, notary, consulting, etc.)
+	- **Monthly book keeping**
+
 - Which services drive the most revenue? Which do you want to grow?
 - Which services should be featured on the homepage vs buried on a services page
 - Do you serve individuals, businesses, or both? What's the split?
@@ -99,3 +102,17 @@
 - Existing marketing materials
 - Google Business Profile Access
 - Preferred contact email(s) for form routing
+
+### Websites 
+- https://www.bench.co/
+- https://aap-cpa.com/
+- http://madanca.com/
+- https://www.cmscpa.com/
+- https://taxpayerreliefletters.ca/
+- https://thetaxco.ca/
+- https://www.hss-ca.com/
+- https://www.ledgersonline.com/
+- https://ncscorp.ca/
+- https://kvpcpa.ca/
+- https://www.markhameast.smallbizpros.ca/bookkeeping.php
+- https://www.lottaccounting.ca/about
