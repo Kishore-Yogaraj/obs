@@ -19,30 +19,51 @@
 - Which services drive the most revenue? Which do you want to grow?
 	- **Corporation set up**
 	- **Assistant to CRA audit appeal**
-	- **Tax P**
+	- **Tax Preparation**
 - Which services should be featured on the homepage vs buried on a services page
 - Do you serve individuals, businesses, or both? What's the split?
+	- **Even for everything**
+	- A lot of stuff so not really anything specific
 - Are there industries you specialize in (restaurants, contractors, medical, real estate)?
+	- **Everything**
 - What geographic area do you serve? Local, provincial, national, cross-border?
+	- **GTA**
 - Do you do US/Canada cross-border work? (Affects trust signals and terminology)
+	- **USA and Canada**
 - Are you a CPA firm, or do you have designated CPAs on staff? What credentials can be displayed
+	- CPA firm
 - How many staff? Will you want a team page with photos and bios?
+	- Create space for staff page
+	- One picture and stuff
 - How long has the business been operation
+	- 20 years
 - Do you have physical offices(s)? How many locations? Are addresses public?
+	- GTA office 
+	- Public address
 
 ### Goal & Success Metrics
 - What is the #1 job of this website? (Get phone calls, get form submissions, look legitimate, reduce "are you real" doubts, stop answering the same questions?)
+	- We want the website to pop up when they search for things they need
+	- When you get a refferal they want to be able to find a website that they can verify with 
+	- Show convenience of location
 - If the site only did one thing well, what would it be?
+	- More business
+	- More clients
+	- For sure come to 
 - How do clients find you today? (Referral, walk-in, Google, social?)
+	- Referrals
 - What do you want a visitor to do within 30 seconds of landing?
+	- Book an appointment  with a submission form
 - How will you know in 6 months if the site worked?
 - Are there competitors whose sites you want to beat, or firms you don't want to look like?
 
 ### Audience
 - Describe your ideal client in one sentence
+	- Everyone is ideal 
 - What is the typical age, tech comfort, and language of your clients?
 - Do you need the side in more than one language? 
 - What's the #1 objection or hesitation a prospect has before calling you?
+	- 
 - What questions do clients ask you over and over that the site should answer?
 
 ### Brand & Identity
