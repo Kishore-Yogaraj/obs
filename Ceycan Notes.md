@@ -20,3 +20,6 @@ sun day 9014
 Jenistan
 
 ![[Pasted image 20260710154715.png]]
+
+### Questions
+- We have to find a way to track all expenses for each truck, chassis
