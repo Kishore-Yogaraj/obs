@@ -23,3 +23,10 @@ Jenistan
 
 ### Questions
 - We have to find a way to track all expenses for each truck, chassis
+
+By unit row
+- Right click last row and insert row
+- Copy and paste the last data row into the new row
+- Change first blue column to cover until new row and then drag across
+
+Same process for trial balance
