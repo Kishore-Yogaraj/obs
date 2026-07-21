@@ -1,0 +1,17 @@
+Questions for Lokesh
+- Can you walk me through the process of getting funding
+- How did you find out about two small fish and connect with them
+- How did you pitch to companies that you wanted funding from 
+- What incentives did you give for the reason for funding you
+- What material did they want you to show them when you reached out to them
+- What did you cold emails look like
+- When did you start reaching out to companies
+- Is there anyone you can connect me with that also got funding or would be willing to fund us?
+- Can you walk me through the process for finding a technical advisor
+- How did you approach professors
+- Did you give them an incentive for being your technical advisor
+- Did you have to show them what work you had done already 
+- When did you start reaching out to professors
+- Any lessons you learned along the way
+- Biggest tip you could give me right now
+- If you could go back and do one thing differently, what would it be
