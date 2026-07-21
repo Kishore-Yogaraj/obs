@@ -16,4 +16,15 @@ This is the kind of obsession you need to bring to the things that are most impo
 
 Maybe I'm able to do this a lot better with golf because everyone enjoys golf and everyone who has played has gone through this phase. Either way, I'm going to take this as proof that if I become obsessed enough with an area that I can do anything. It really does come down to putting your mind to it and becoming embraced in the area.
 
-I think one of the more important traits I have to develop is the ability to compartmentalize life. I need to be able to be more in the present and fully embrace the current situation I'm in rather than thinking about what needs to be done or what has been done. A big reason why you can't enjoy yourself rotating the way it should have been. go
+I think one of the more important traits I have to develop is the ability to compartmentalize life. I need to be able to be more in the present and fully embrace the current situation I'm in rather than thinking about what needs to be done or what has been done. A big reason why you can't enjoy yourself with your friends is because you're thinking about the work you didn't do and you didn't do that work because you weren't present with your work because you were thinking about what you were going to do once you got home.
+
+The times where you found the most peace and happiness are the times where you were in the present fully enjoying and embracing the task at hand. These are things like golf, cooking, reading, working out, playing volleyball. You need to be able to translate this same aspect to the different parts of life you have right now like when you work and what you work on. 
+
+Life was never meant to be straight line and the upward trend you get is based on the actions you make today.
+
+**Obsess over your work. Enjoy things taking their time and being slow. Give yourself the time to allow yourself to be slow and learn.**
+
+Remember the guy waiting for you at 25. He needs to you to be better for him. He's the guy you're doing this for. Be the reason he gets to smile everyday and enjoy being alive. Be the reason he's the guy that can bring life to the room and be friends with all. 
+
+Win for him.
+
