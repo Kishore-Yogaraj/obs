@@ -28,3 +28,5 @@ Remember the guy waiting for you at 25. He needs to you to be better for him. He
 
 Win for him.
 
+There's a summer of dreams waiting for you at the end of this journey you're about to take on. Move the needle just a little bit everyday. Be a little bit greater every day. Let it compound. Let it build. Think about how relaxing that summer will be once it's all over with. Secure the job and go strong. I know you have it in you.
+
