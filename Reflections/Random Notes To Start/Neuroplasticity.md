@@ -27,5 +27,26 @@ We assume that these habits is what learning is which is **not true.**
 
 **The way everyone has been learning for years is not the way we should be learning. It's the way we have been forced to do things to survive in this system.**
 
+Everyone gets to a point where they hit their limit with this way of thinking and learning at some point in their life. Some people's brains have engaged in neuroplasticity a lot and molded itself to be really efficient at habits like rote memorization, repetition, note taking and these are processes that are not built to be effective for how the brain learns.
+
+I feel that I've hit the limit of how I'm able to use these processes for the amount of learning I have to do and so I have to re wire and retrain my brain to be able to learn things more efficiently.
+
+### What are the good habits of thinking? What are those processes and patterns and habits that are conducive to really effective learning?
+- 20 years ago no one could tell you how someone should learn something
+- There are 4 main principles that must be met to reach a high quality of learning
+
+**Memory is a system. The processes you use may lead to good memory or poor memory.**
+
+**Cognitive process are more important than physical processes.**
+- What's important is what your brain does with the information you take in 
+- How does it think about and how does it process it
+- This process is what determines how good your retention will be and the depth of understanding will be
+
+**Integrative processes are superior than isolated processes.**
+- When you take in information and you try to see how it connects to the bigger picture, look for patterns and see how it connects, looking for relevance and looking for ways to make it relevant builds a stronger memory and deepens your understanding
+- Even if you don't end up with a final answer, having these thoughts deepen your understanding
+
+The above points are more correlated with what the brain was adapted to do.
+
 
 
