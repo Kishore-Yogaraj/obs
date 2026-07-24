@@ -1,7 +1,6 @@
 **List A CSE**
 - STV 100 - Winter
 **List A, C or D CSE**
-- CLAS 104
 - HRM 200 - Fall
 **4 TEs From List 1 For ME and MTE**
 **2 TEs From List 2 For ME and MTE**
@@ -32,6 +31,7 @@
 - ME 572 - List 1 (Building Energy Analysis)
 - ME 597 - List 1 (Machine Learning for Mechanical Engineers)
 - MTE 545 - List 1 (Introduction to MEMS Fabrication)
+
 - ME - 599 (Special Topics) - List 1
 
 Courses I want if I done get what I want
