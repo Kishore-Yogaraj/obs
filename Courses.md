@@ -18,8 +18,6 @@
 - MTE 544 - Autonomous Mobile Robots - **List 1** (Fall)
 - ME 597 - Machine Learning for Mechanical Engineers - **List 1** (Fall)
 - MTE 420 - Power Electronics and Motor Drives - **List 1** (Fall)
-
-
 - SYDE 522 - Foundations of Artificial Intelligence - **List 2** (Fall) - **Need to request**
 
 **Winter**

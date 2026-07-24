@@ -1,4 +1,3 @@
-# Learning Engineering Concepts for Exam Performance
 
 ### A brain-based framework, using Mechanical Vibrations as the worked example
 

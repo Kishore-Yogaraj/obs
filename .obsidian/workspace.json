@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/Random Notes To Start/l.md",
+                "file": "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "l"
+              "title": "Learning Engineering Concepts for Exam Performance"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "InterSol Website Discovery Questions.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "InterSol Website Discovery Questions"
+              "title": "Courses"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -302,13 +303,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4608514ea02d14c6",
+  "active": "de25453712ff923e",
   "lastOpenFiles": [
+    "InterSol Website Discovery Questions.md",
+    "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
     "Reflections/Random Notes To Start/Neuroplasticity.md",
-    "Reflections/Random Notes To Start/l.md",
     "Reflections/Random Notes To Start/Distractions.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
-    "InterSol Website Discovery Questions.md",
     "Pantheon/Meeting Notes/Kulsum.md",
     "Pantheon/Meeting Notes/Lokesh.md",
     "Pantheon/Meeting Notes",
