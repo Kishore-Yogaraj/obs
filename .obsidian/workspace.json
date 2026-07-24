@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/Random Notes To Start/Neuroplasticity.md",
+                "file": "Reflections/Random Notes To Start/l.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Neuroplasticity"
+              "title": "l"
             }
           },
           {
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 448.5,
-    "collapsed": true
+    "width": 200.5
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -305,8 +304,9 @@
   },
   "active": "4608514ea02d14c6",
   "lastOpenFiles": [
-    "Reflections/Random Notes To Start/Distractions.md",
     "Reflections/Random Notes To Start/Neuroplasticity.md",
+    "Reflections/Random Notes To Start/l.md",
+    "Reflections/Random Notes To Start/Distractions.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
     "InterSol Website Discovery Questions.md",
     "Pantheon/Meeting Notes/Kulsum.md",
@@ -343,7 +343,6 @@
     "Reflections/2025/June/June 1.md",
     "Reflections/2025/June/June 7th.md",
     "Reflections/Significant/New Beginnings.md",
-    "Reflections/2026/June/June 15.md",
     "Reflections/2026/June",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
