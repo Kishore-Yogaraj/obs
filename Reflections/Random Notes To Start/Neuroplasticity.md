@@ -81,4 +81,14 @@ The most effective way of getting good at something and rewiring your brain is t
 #### Frequency
 Perform intention, intensity and variety with learning with a high frequency
 
+Not about how much you thought about it, but how much you've emersed yourself in it.
 
+#### Duration
+You have to do everything about for a long period of time before you get good at something.
+
+Months to years to be able to do this
+
+#### Emotion
+An emotional experience sticks with the brain longer (positive or negative). 
+
+Learning can produce dopamine if you do it right. When you learn with the processes you should get a sense of satisfaction and happiness from 
