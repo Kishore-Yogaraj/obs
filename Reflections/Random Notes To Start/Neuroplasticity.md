@@ -47,6 +47,29 @@ I feel that I've hit the limit of how I'm able to use these processes for the am
 - Even if you don't end up with a final answer, having these thoughts deepen your understanding
 
 The above points are more correlated with what the brain was adapted to do.
+- Patterns in the information
+- Trying to make it more practical
+
+**This type of thinking also takes more mental effort**
+- People feel this effort and think that this type of learning is not for them
+
+#### Evaluating a study technique
+- Are you focusing on your learning process?
+- Are you doing engaged thinking?
+- How difficult, how much effort, how engaging is it?
+
+Teaching someone else is more effective than reading and re-reading and checks all of these boxes point
+
+
+### Requirements for neuroplastic change
+#### Intention
+Pathways used more frequently become stronger and easier to use.
+
+When you deliberately intend to think in a certain way and try to use a certain pattern of thinking it's more effective and using certain pathways.
+
+We want to be very clear about how we are thinking. And be very purposeful with how we think.
+
+#### Intensity
 
 
 
