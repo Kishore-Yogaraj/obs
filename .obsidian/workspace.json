@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -303,8 +303,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de25453712ff923e",
+  "active": "9850b955b2eec6ee",
   "lastOpenFiles": [
+    "Courses.md",
     "InterSol Website Discovery Questions.md",
     "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
     "Reflections/Random Notes To Start/Neuroplasticity.md",
@@ -343,7 +344,6 @@
     "Reflections/2025/June/June 3rd.md",
     "Reflections/2025/June/June 1.md",
     "Reflections/2025/June/June 7th.md",
-    "Reflections/Significant/New Beginnings.md",
     "Reflections/2026/June",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
