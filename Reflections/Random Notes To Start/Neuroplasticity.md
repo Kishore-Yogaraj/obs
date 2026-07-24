@@ -124,5 +124,31 @@ By default
 - When the brail realizes that there is no schema fit then we get stuck and the brain does not understand a pattern in the new information
 - If we can't resolve this issue then we just stay stuck
 
+### What can we do to get our brain un stuck
+How do we boost our schema fit?
+- Once the brain says it's getting stuck
+	- Lucked out on existing schemas
+#### Boosting pre existing schemas
+- Generate more patterns and try to find a match to the new information
+
+#### Actively Finding Patterns
+Every piece of information you learn will have a pattern
+
+The brain is good at connecting old patterns to new information but very difficult for it to create new patterns.
+
+### 4 things that make it hard to learn new patterns
+- Interference
+- Element interactivity
+- Overload
+- Abstractness 
+Overcoming these barriers will help us find patterns in new information
+#### Interference
+When you brain is given the wrong pattern. Negative transfer. Your brain looks for a pre-existing schema and it builds the wrong pattern in the new information.
+
+We protect ourselves from this by challenging the schemas we actually think fit. Deliberately take the time to pause and challenge if this actually makes sense.
+
+This is called generative reasoning.
+
+This a chain of logical reasoning 
 
 
