@@ -149,6 +149,17 @@ We protect ourselves from this by challenging the schemas we actually think fit.
 
 This is called generative reasoning.
 
-This a chain of logical reasoning 
+This a chain of logical reasoning to really understand a new topic from pre existing schemas.
 
+#### Element interactivity
+Too much going on. Cognitive overload. 
 
+To overcome this we have to start smaller and work our way back up.
+
+#### Overload
+Too much jargon or technical language being used. 
+
+Layman's terms.
+
+#### Abstractness
+So unfamiliar with the topic that you can't relate or visualize it at all. Get AI to make it concrete.
