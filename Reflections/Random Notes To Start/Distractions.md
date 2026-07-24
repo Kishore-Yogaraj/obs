@@ -30,3 +30,5 @@ Win for him.
 
 There's a summer of dreams waiting for you at the end of this journey you're about to take on. Move the needle just a little bit everyday. Be a little bit greater every day. Let it compound. Let it build. Think about how relaxing that summer will be once it's all over with. Secure the job and go strong. I know you have it in you.
 
+Eileen Gu - "You can control what you think. You can control how you think, and therefore, you can control who you are. You can literally become who you want to be. How can you approach life with the approach you take to sport and golf. "
+
