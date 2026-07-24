@@ -95,3 +95,19 @@ Learning can produce dopamine if you do it right. When you learn with the proces
 
 #### Sleep
 Don't sacrifice sleep. It's incredibly important for learning. Being able to get good sleep comes from managing your time effectively. A healthy life comes from moving with purpose and opening up your life for enjoyment.
+
+
+# How to Learn Really Hard Subjects Easily
+- **What makes a topic hard in the first place**
+- **What happens in our brain when we are stuck on a difficult concept**
+- **What can we do to get our brain unstuck**
+
+### What makes a topic hard in the first place
+Something is intuitive when it fits a pattern that we're used to. 
+
+A topic is not hard because of the specific information, it's because we have fewer familiar patterns we can apply to understand that specific information.
+
+This is what **Pattern Matching** is, also known as **Schema Fit**.
+
+
+
