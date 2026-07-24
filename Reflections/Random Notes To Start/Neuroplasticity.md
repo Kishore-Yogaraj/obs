@@ -91,4 +91,7 @@ Months to years to be able to do this
 #### Emotion
 An emotional experience sticks with the brain longer (positive or negative). 
 
-Learning can produce dopamine if you do it right. When you learn with the processes you should get a sense of satisfaction and happiness from 
+Learning can produce dopamine if you do it right. When you learn with the processes you should get a sense of satisfaction and happiness from learning.
+
+#### Sleep
+Don't sacrifice sleep. It's incredibly important for learning. Being able to get good sleep comes from managing your time effectively. A healthy life comes from moving with purpose and opening up your life for enjoyment.
