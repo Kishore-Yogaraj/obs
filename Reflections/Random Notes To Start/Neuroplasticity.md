@@ -60,6 +60,7 @@ The above points are more correlated with what the brain was adapted to do.
 
 Teaching someone else is more effective than reading and re-reading and checks all of these boxes point
 
+##### What are the study techniques that work for me?
 
 ### Requirements for neuroplastic change
 #### Intention
@@ -70,6 +71,14 @@ When you deliberately intend to think in a certain way and try to use a certain 
 We want to be very clear about how we are thinking. And be very purposeful with how we think.
 
 #### Intensity
+Calibrate the intensity so that it's always challenging. If you want to get better at a skill you should practice in a way where you feel challenged.
 
+You get good at something by getting good enough at a certain level and then moving onto the next level where you are challenged again
+
+#### Variety
+The most effective way of getting good at something and rewiring your brain is to not do the same challenging thing over and over again but to do slightly different challenging things over and over again.
+
+#### Frequency
+Perform intention, intensity and variety with learning with a high frequency
 
 
