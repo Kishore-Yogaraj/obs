@@ -109,5 +109,20 @@ A topic is not hard because of the specific information, it's because we have fe
 
 This is what **Pattern Matching** is, also known as **Schema Fit**.
 
+### What happens when our brain gets stuck on a difficult concept
+What is our brain trying to do to develop this accommodation (pas schemas) and assimilation (new schemas) schema fit.
+
+Your brain is going to automatically try to build these schema fits but it does it at a 2/10. We can boost this to a 7/10 and turn the complex topic into something intuitive. How do we do this?
+
+By default
+- New information comes into your brain
+- Your brain tries to figure out how they connect together 
+- You're going to get the sensation that there's a lot to learn and that you're going to forget everything which is your brain telling you that all the information learned is very fragmented and isolated
+- No new schema fit found so there's no point holding onto the information
+- The brain is going to try to look into pre existing schemas and try to connect that to the new pieces of information and ask ourselves do these pieces of information connect to the schemas we have built before
+- If there is schema fit then the new topic will feel intuitive
+- When the brail realizes that there is no schema fit then we get stuck and the brain does not understand a pattern in the new information
+- If we can't resolve this issue then we just stay stuck
+
 
 
