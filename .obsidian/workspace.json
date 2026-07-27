@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -303,8 +303,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9850b955b2eec6ee",
+  "active": "de25453712ff923e",
   "lastOpenFiles": [
+    "Ceycan Notes.md",
     "Courses.md",
     "InterSol Website Discovery Questions.md",
     "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
@@ -318,7 +319,6 @@
     "Reflections/Random Notes To Start",
     "Reflections/Significant/Taking A Step Back to Take A Step Forward.md",
     "Reflections/Significant/4.md",
-    "Ceycan Notes.md",
     "Linux Laptop.md",
     "Liv Party.md",
     "ME 353 Lab Forced Convection Heat Transfer.md",
