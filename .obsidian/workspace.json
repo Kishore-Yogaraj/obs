@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pantheon/Rough Notes/Tasks.md",
+                "file": "Reflections/Random Notes To Start/Distractions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Distractions"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
+                "file": "Reflections/2026/July/July 27th.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Learning Engineering Concepts for Exam Performance"
+              "title": "July 27th"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "courses",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,8 +181,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -303,14 +302,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de25453712ff923e",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
-    "Ceycan Notes.md",
-    "Courses.md",
-    "InterSol Website Discovery Questions.md",
-    "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
-    "Reflections/Random Notes To Start/Neuroplasticity.md",
     "Reflections/Random Notes To Start/Distractions.md",
+    "Reflections/2026/July/July 27th.md",
+    "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
+    "Reflections/2026/July",
+    "Pantheon/Rough Notes/Tasks.md",
+    "Courses.md",
+    "Ceycan Notes.md",
+    "InterSol Website Discovery Questions.md",
+    "Reflections/Random Notes To Start/Neuroplasticity.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/Meeting Notes/Kulsum.md",
     "Pantheon/Meeting Notes/Lokesh.md",
@@ -326,7 +328,6 @@
     "Midterm.md",
     "MTG.md",
     "Interview Prep/Chamberlain Group/3D Tracking.md",
-    "Pantheon/Rough Notes/Tasks.md",
     "attachments/Pasted image 20260715231441.png",
     "attachments/Pasted image 20260715231414.png",
     "Intersol",
@@ -343,12 +344,10 @@
     "Pantheon",
     "Reflections/2025/June/June 3rd.md",
     "Reflections/2025/June/June 1.md",
-    "Reflections/2025/June/June 7th.md",
     "Reflections/2026/June",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
     "Interview Prep/Matic/attachments",
-    "Interview Prep/Untitled",
     "Investing and Finance/attachments/Pasted image 20260510221048.png",
     "Investing and Finance/attachments/Pasted image 20260510220843.png"
   ]
