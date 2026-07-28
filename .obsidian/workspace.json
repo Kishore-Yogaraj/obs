@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/2026/July/July 27th.md",
+                "file": "Reflections/2026/July/July 28th.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "July 27th"
+              "title": "July 28th"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "Reflections/2026/July/July 27th.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Courses"
+              "title": "July 27th"
             }
           },
           {
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,15 +302,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9850b955b2eec6ee",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
     "Reflections/2026/July/July 27th.md",
+    "Reflections/2026/July/July 28th.md",
+    "Courses.md",
+    "Ceycan Notes.md",
     "Reflections/Random Notes To Start/Distractions.md",
     "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
     "Reflections/2026/July",
     "Pantheon/Rough Notes/Tasks.md",
-    "Courses.md",
-    "Ceycan Notes.md",
     "InterSol Website Discovery Questions.md",
     "Reflections/Random Notes To Start/Neuroplasticity.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
@@ -343,7 +344,6 @@
     "Pantheon/Rough Notes",
     "Pantheon",
     "Reflections/2025/June/June 3rd.md",
-    "Reflections/2025/June/June 1.md",
     "Reflections/2026/June",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
