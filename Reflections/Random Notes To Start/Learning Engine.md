@@ -36,15 +36,17 @@ When you get tired before performing a task or learning session it's just your b
 
 To combat this you need to reduce the barrier to entry. For example, attempting the problem and generating an answer and allowing yourself to be wrong and produce a rough answer instead of waiting to feel ready to produce a correct one. A rough first guess or attempt converts the task from generation to evaluation. Evaluation is a different cognitive operation with a much lower cost. Progress signals recruit dopamine circuitry which makes starting the hardest part of any task.
 
-Caused by
+**Caused by**
 - Mental resistance
 	- Brain views upcoming task as a threat or too difficult so it makes you feel sleepy
 - Decision fatigue
 	- Small choices and planning the task before actually doing it burns your mental energy
 - Stress response
-	- Anticipating pressure or failure triggers a rush of stress and the nervous s
+	- Anticipating pressure or failure triggers a rush of stress and the nervous system responds by shutting down energy to cop
 
-
+**Chemical Shift**
+- Amygdala perceives stress - spike in cortisol and adenosine (fatigue)
+- Striatum predicts no reward - drop in dopamine (no motivation)
 
 ### Tackling Problem Sets
 #### Why you become stuck
