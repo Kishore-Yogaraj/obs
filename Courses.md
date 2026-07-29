@@ -30,6 +30,7 @@
 - HRM 200 - List A
 - ME 572 - List 1 (Building Energy Analysis)
 - ME 597 - List 1 (Machine Learning for Mechanical Engineers)
+-
 - MTE 545 - List 1 (Introduction to MEMS Fabrication)
 
 - ME - 599 (Special Topics) - List 1
