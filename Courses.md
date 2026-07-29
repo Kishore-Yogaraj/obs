@@ -40,6 +40,8 @@ Courses I want if I done get what I want
 
 https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin?bc=true&bcCurrent=Mechanical%20Engineering%20(Bachelor%20of%20Applied%20Science%20-%20Honours)&bcGroup=Mechanical%20Engineering&bcItemType=programs
 
+https://classes.uwaterloo.ca/under.html
+
 MTE 481/482 - Mechatronics Engineering Design Project
 
 SYDE 542
