@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -302,10 +302,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de25453712ff923e",
+  "active": "9850b955b2eec6ee",
   "lastOpenFiles": [
-    "Reflections/2026/July/July 27th.md",
     "Reflections/2026/July/July 29th.md",
+    "Reflections/2026/July/July 27th.md",
     "Reflections/2026/July/July 28th.md",
     "Reflections/Random Notes To Start/Learning Engine.md",
     "Reflections/Random Notes To Start/Neuroplasticity.md",
