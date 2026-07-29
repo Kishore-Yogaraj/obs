@@ -30,3 +30,8 @@ Study, don't solve
 	- 5th problem, same pattern, no scaffolding, timed
 	- First test of whether the schema formed
 	- If fail, go back to step 1 and learn the pattern
+
+
+When you get tired before performing a task or learning session it's just your brain saying that the task is too much effort and it will choose to go the lazy route and that flagging of at effortful task is feeling tired. Its called cognitive aversion.
+
+To combat this you need to reduce the barrier to entry. For example, attempting the problem and generating an answer and allowing yourself to be wrong and produce a rough answer instead of waiting to feel ready to produce a correct one. A rough first guess or attempt converts the task from generation to evaluation. Evaluation is a different cognitive operation with a much lower cost. Progress signals recruit dopamine circuitry which makes starting the hardest part of any task.
