@@ -97,6 +97,10 @@ Self explanation
 	- No phones or videos
 	- Makes it incredibly hard for your brain to want to go back to the task at hand
 - Before taking a break try working for 5 more minutes with intense focus
-	- Last rep of a s
+	- Last rep of a set
+	- For your 25 year old self
+	- Put your all into these 5 mins
+	- If you can keep going than keep the flow
+	- If not go take a break
 
 
