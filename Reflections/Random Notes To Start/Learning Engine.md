@@ -89,6 +89,7 @@ Self explanation
 - Stick to the recall schedule for concepts and problem sets
 - Once problem sets stick they can match the same schedule so do recall and problem sets on the same days that you were supposed to do recalls
 - If you're tight on time pick the problems you had the hardest time with 
-- Because you're doing the same problems again we need to make sure we're actually understanding and not just memorizing. This is where it's important to 
+- Because you're doing the same problems again we need to make sure we're actually understanding and not just memorizing. This is where it's important to go into detail and explain why we took a certain step and what the reason was for it
+- If you're not able to retrieve the information then make sure you reduce the spacing of recall until you get it right
 
 
