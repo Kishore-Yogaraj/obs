@@ -84,3 +84,11 @@ Self explanation
 5. **Immediately after closing it, redo the entire problem from a blank page, no peeking.** This is the step people skip, and it's the single highest-value step in the whole process.
 6. **If you can't complete it cleanly on that redo, look again, then redo again.** Repeat until you can do it start-to-finish unaided.
 7. **The real test of "learned it" isn't the redo right after — it's redoing the same problem (or a close variant) 1–2 days later, cold.** If you can still do it, it's moved into more durable memory. If you can't, it tells you the first success was shallow (you were pattern-matching your own recent solution, not truly reconstructing understanding).
+
+#### Maintaining What You Learned
+- Stick to the recall schedule for concepts and problem sets
+- Once problem sets stick they can match the same schedule so do recall and problem sets on the same days that you were supposed to do recalls
+- If you're tight on time pick the problems you had the hardest time with 
+- Because you're doing the same problems again we need to make sure we're actually understanding and not just memorizing. This is where it's important to 
+
+
