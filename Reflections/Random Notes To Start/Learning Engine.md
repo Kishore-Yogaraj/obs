@@ -92,4 +92,11 @@ Self explanation
 - Because you're doing the same problems again we need to make sure we're actually understanding and not just memorizing. This is where it's important to go into detail and explain why we took a certain step and what the reason was for it
 - If you're not able to retrieve the information then make sure you reduce the spacing of recall until you get it right
 
+#### Breaks
+- If you've been working for 120 + minutes consecutively you can take a 10 minute break to look outside, go for a walk, fill water
+	- No phones or videos
+	- Makes it incredibly hard for your brain to want to go back to the task at hand
+- Before taking a break try working for 5 more minutes with intense focus
+	- Last rep of a s
+
 
