@@ -14,4 +14,3 @@
 	- Disagree
 - Settling for answer choice 
 - Once she spends more time understanding it she's able to do a lot better
-- 
