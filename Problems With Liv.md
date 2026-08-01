@@ -1,0 +1,17 @@
+### Things you struggle with 
+- Finishing the section
+	- Timing
+- Spending too much time reading for reading comp
+- 3 difficulty questions you send 3-4 minutes answering the questions for logical reasoning
+- Panic when you don't understand it right away
+- Question types reading comp that you struggle with
+	- Weaken 
+	- Agree
+- Question types logical reasoning
+	- Weaken
+	- Parallel 
+	- Flaw
+	- Disagree
+- Settling for answer choice 
+- Once she spends more time understanding it she's able to do a lot better
+- 
