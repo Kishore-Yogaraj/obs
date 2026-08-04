@@ -30,3 +30,6 @@ By unit row
 - Change first blue column to cover until new row and then drag across
 
 Same process for trial balance
+
+
+messages.google.com/web
