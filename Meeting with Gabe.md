@@ -74,6 +74,10 @@ include
 
 [https://www.pololu.com/](https://www.pololu.com/)
 
+https://www.linkedin.com/feed/update/urn:li:activity:7484454074134749184/
+
+4 links are the recap videos
+
 Just reach our and scope interest and work on forwarding emails and what not 
 
 manufacturers out of China
