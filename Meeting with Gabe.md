@@ -74,6 +74,25 @@ include
 
 [https://www.pololu.com/](https://www.pololu.com/)
 
+Just reach our and scope interest and work on forwarding emails and what not 
+
+manufacturers out of China
+
+start looking for key people to send out
+
+sponsors for the prize pool 
+
+if they sell a robot arm 
+
+pull the profit margin 
+
+use their msrp price
+
+dont go after 30 000 $ sponsors
+
+hardware suppliers 
+
+vex robotics
 
 
 
