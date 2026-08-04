@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "1cb895564f084024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting with Gabe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting with Gabe"
+            }
+          },
+          {
             "id": "99894d65a73b81d1",
             "type": "leaf",
             "state": {
@@ -158,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,7 +207,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ceycan not",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +228,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,8 +349,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbdfd000ff5edcd3",
+  "active": "1cb895564f084024",
   "lastOpenFiles": [
+    "Reflections/Random Notes To Start/Distractions.md",
+    "Meeting with Gabe.md",
+    "Ceycan Notes.md",
     "Reflections/2026/August/August 3rd.md",
     "Reflections/2026/July/July 29th.md",
     "Reflections/2026/July/July 30th.md",
@@ -350,9 +367,7 @@
     "Reflections/Random Notes To Start/Neuroplasticity.md",
     "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
     "Courses.md",
-    "Ceycan Notes.md",
     "Interview Prep/Chamberlain Group/Behavior Cloning.md",
-    "Reflections/Random Notes To Start/Distractions.md",
     "Reflections/2026/July",
     "Pantheon/Rough Notes/Tasks.md",
     "InterSol Website Discovery Questions.md",
@@ -368,7 +383,6 @@
     "Liv Party.md",
     "ME 353 Lab Forced Convection Heat Transfer.md",
     "ME 360.md",
-    "Midterm.md",
     "attachments/Pasted image 20260715231441.png",
     "attachments/Pasted image 20260715231414.png",
     "Intersol",
