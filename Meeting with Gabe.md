@@ -99,5 +99,44 @@ hardware suppliers
 vex robotics
 
 
+647-234-6050
 
 Vex and Lego
+
+they're connectors
+
+they do such a good job connecting peopl;e
+
+people hate to be sold. people love to buy
+
+videos are not polished
+
+just spearking from his hear
+
+frank scarpiti
+
+people are starting to pay attention 
+
+enough of these events and landed enough important names 
+
+ryan was a speaker
+
+sold startup for 600 million 
+
+
+hold the keys to an incredible
+
+
+just know th eperosn who holds the keys to tapping into the network
+
+connector in my netowrk
+
+riks their name to make a referral
+
+ambitiois 
+
+you can figure stuff out 
+
+start positng stuff on linkedin 
+
+job is to
