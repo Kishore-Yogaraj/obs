@@ -1,0 +1,5 @@
+- Review rigid body vibrations
+- Chapter 9 problem set
+- Project
+- Cheat sheet
+- Study damped and forced vibration modal analysis
