@@ -172,8 +172,7 @@
               "title": "Questions"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -349,8 +348,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbdfd000ff5edcd3",
+  "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Ceycan Notes.md",
     "Reflections/2026/August/August 11th.md",
     "Reflections/2026/August/August 7th.md",
     "Reflections/Random Notes To Start/Coding and Leetcode.md",
@@ -360,7 +360,6 @@
     "Reflections/2026/August/August 9th.md",
     "Reflections/2026/August/August 8th.md",
     "Meeting with Gabe.md",
-    "Ceycan Notes.md",
     "Reflections/2026/August/August 3rd.md",
     "Reflections/2026/July/July 29th.md",
     "Reflections/2026/July/July 30th.md",
