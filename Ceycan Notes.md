@@ -6,7 +6,7 @@ netsh wlan show profile name="CEYCAN" key=clear
 
 dispatch@ceycanlogistics.ca
 
-12HornedOwl*
+12HornedOwl**
 
 Thava 9002
 Sutharsan traffic teachline
