@@ -172,7 +172,8 @@
               "title": "Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -348,13 +349,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "bbdfd000ff5edcd3",
   "lastOpenFiles": [
-    "Reflections/Random Notes To Start/Learning Engine.md",
-    "Reflections/Random Notes To Start/Coding and Leetcode.md",
-    "Reflections/Random Notes To Start/Distractions.md",
-    "Reflections/2026/August/August 7th.md",
     "Reflections/2026/August/August 11th.md",
+    "Reflections/2026/August/August 7th.md",
+    "Reflections/Random Notes To Start/Coding and Leetcode.md",
+    "Reflections/Random Notes To Start/Learning Engine.md",
+    "Reflections/Random Notes To Start/Distractions.md",
     "Reflections/2026/August/August 10th.md",
     "Reflections/2026/August/August 9th.md",
     "Reflections/2026/August/August 8th.md",
