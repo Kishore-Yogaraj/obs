@@ -21,17 +21,42 @@ We will be using this as our main source of information to learn from https://ww
 - Chapter 24
 
 ### Learning DSA
+An **invariant** is something that does not change. It stays the same even when you apply rules, move things or run computer code.
+
+You can think of this as a rule or condition that must stay true while a process runs
+
+
+A **surface dressing** just means the cosmetic details of a problem. The stuff that changes how it looks without chaning the underlying pattern or logic needed to solve it.
+- Data type change
+- Specific operation change (sum vs product)
+- Problem story change
 
 #### Pattern order of learning
-- Two pointers
-- Sliding window
-- Fast & slow pointers
-- Binary search (and its variants)
-- DFS/BFS (trees, then graphs)
-- Recursion/backtracking
-- Dynamic programming (1D, then 2D)
-- Greedy
-- Heap/priority queue
-- Union-Find, tries, etc. as needed later
+- **Two pointers**
+- **Sliding window**
+- **Fast & slow pointers**
+- **Binary search (and its variants)**
+- **DFS/BFS (trees, then graphs)**
+- **Recursion/backtracking**
+- **Dynamic programming (1D, then 2D)**
+- **Greedy**
+- **Heap/priority queue**
+- **Union-Find, tries, etc. as needed later**
 
-###
+#### Acquisition phase - for each new pattern before practice
+- **Abstract explanation first**
+	- What invariant does this pattern require, in words, before touching code. What problem shape signals it.
+	- What needs to stay true, in order for this pattern to work
+- **Worked example #1**
+	- Read only
+	- Trace it by hand on the actual input. Self-explain and connect each move back to the invariant
+- **Worked example #2**
+	- Predict then check
+	- Cover the next move, predict it from the invariant, reveal, check. If you miss and don't understand why even after seeing the answer, go back to narrating the invariant at every step before continuing (do not push forward).
+	- Clean miss with immediate recognition is expected
+- **Solo attempt
+	- Same surface dressing as the worked examples (refer above to what surface dressing is)
+- **Spaced redo**
+	- Same problem or problems the next day without reference
+
+Move on one predictions land cleanly (two in a row) and solo attempt succeeds with new problems
