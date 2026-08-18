@@ -72,3 +72,11 @@ Have an existing tracking log with columns for:
 - Pass/fail
 - Failure mode (unable to recognize pattern, recognized but wrong execution, missed an edge vase)
 When due date of problem approaches, solve same problem again and explain step by step what you're doing.
+
+
+### Key Things to Know
+- **Time, consistency, and intensity will always win.** You need to give yourself time to be learn and do this
+- **Be comfortable failing.** You will lose and lose and lose and lose some more until it comes together at once when you least expect it. Trust the process. A day where you don't try is the day you fail
+- **Spaced retrieval is the ultimate.** Without retrieval and repetition you lose the skill you learned. Exercise it well
+- **When learning a new pattern, exhaust your resources to learn it.** Books, videos, people, anything. There is no method to encoding other than asking questions until things are clear. The only other way to get better at encoding is to have some context from from the topic from the past.
+- **Sleep.** You are simply nothing without sleep.
