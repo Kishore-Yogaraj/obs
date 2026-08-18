@@ -60,3 +60,15 @@ A **surface dressing** just means the cosmetic details of a problem. The stuff t
 	- Same problem or problems the next day without reference
 
 Move on one predictions land cleanly (two in a row) and solo attempt succeeds with new problems
+
+#### Interleaving
+Start mixing patterns when 2 independent patterns have been learned (gone through above step). Pull small sets (4-6 problems) spanning the acquired patterns in random order, unlabeled. As new patterns are acquired add to this pool.
+
+#### Spaced retrieval, at the pattern level
+Have an existing tracking log with columns for:
+- Pattern tag
+- Date
+- Surface dressing type
+- Pass/fail
+- Failure mode (unable to recognize pattern, recognized but wrong execution, missed an edge vase)
+When due date of problem approaches, solve same problem again and explain step by step what you're doing.
