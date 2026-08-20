@@ -7,7 +7,7 @@ I type like Im playing the piano
 
 and wokrin gon things
 
-that make no sensen for the maount of wokr thats being dome because there isn tmuch I can do when the world becomes the best for the way we alwasy cry on the worlkd
+that make no sensen for the maount of wokr thats being dome because there isn tmuch I can do when the world becomes the best for the way we alwasy cry on the world. Eveyrone knows how to get all this 
 - Water
 - Vitamins
 - Mindset writing
