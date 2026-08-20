@@ -1,5 +1,13 @@
 Daily habits
 typing for the sake of typing in something new so that we can work on all exisitng items in the world man I can not find consistency for some reason it makes no sense why. I just want to work on the way to home. Everyone knows the world will workd beterr
+
+Again just typing because I want to learn how to do some tthings
+
+I type like Im playing the piano
+
+and wokrin gon things
+
+that make no sensen for the maount of wokr thats being dome because there isn tmuch I can do when the world becomes the best for the way we alwasy cry on the worlkd
 - Water
 - Vitamins
 - Mindset writing
