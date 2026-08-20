@@ -1,4 +1,5 @@
 Daily habits
+typing for the sake of typing in something new so that we can work on all exisitng items in the world man I can not find consistency for some reason it makes no sense why. I just want to work on the way to home. Everyone knows the world will workd beterr
 - Water
 - Vitamins
 - Mindset writing
