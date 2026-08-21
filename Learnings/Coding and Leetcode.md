@@ -30,7 +30,6 @@ A **surface dressing** just means the cosmetic details of a problem. The stuff t
 - Data type change
 - Specific operation change (sum vs product)
 - Problem story change
-
 #### Pattern order of learning
 - **Two pointers**
 - **Sliding window**
