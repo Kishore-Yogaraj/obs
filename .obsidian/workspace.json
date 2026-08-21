@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/Random Notes To Start/Things I want to log.md",
+                "file": "Pantheon/Rough Notes/Passwords.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Things I want to log"
+              "title": "Passwords"
             }
           },
           {
@@ -206,7 +206,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "passwords",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +227,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -350,8 +351,11 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
-    "Reflections/Random Notes To Start/Coding and Leetcode.md",
+    "Passwords.md",
+    "Pantheon/Rough Notes/Passwords.md",
     "Reflections/Random Notes To Start/Things I want to log.md",
+    "Untitled",
+    "Reflections/Random Notes To Start/Coding and Leetcode.md",
     "Interview Prep/Chamberlain Group/Behavior Cloning.md",
     "Ceycan Notes.md",
     "Reflections/2026/August/August 11th.md",
@@ -378,8 +382,6 @@
     "Pantheon/Rough Notes/Tasks.md",
     "InterSol Website Discovery Questions.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
-    "Pantheon/Meeting Notes/Kulsum.md",
-    "Pantheon/Meeting Notes/Lokesh.md",
     "Pantheon/Meeting Notes",
     "Reflections/Random Notes To Start",
     "attachments/Pasted image 20260715231441.png",
@@ -391,7 +393,6 @@
     "Pantheon/Rough Notes/attachments/Pasted image 20260706170648.png",
     "Pantheon/Rough Notes/attachments",
     "Ceycan",
-    "Pantheon/Rough Notes",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
     "Investing and Finance/attachments/Pasted image 20260510221048.png",
