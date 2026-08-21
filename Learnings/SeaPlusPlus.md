@@ -9,7 +9,22 @@ g++ -o helloworld helloworld.cpp #Compile and Link
 
 **For every C++ project**
 Set `"-pedantic-errors",` in `tasks.json`
+- This makes sure that compiler extensions don't effect standard C++ practice
 ```c++
 "-pedantic-errors",
+"${file}",
+```
+
+File > Preferences > Settings > Type in search bar "insert final newline" 
+- Check `Files: Insert Final Newline` for both `User` and `Workspace`
+![[Pasted image 20260821142230.png]]
+
+Adds additional diagnostic warnings
+``` C++
+"-Wall",
+"-Weffc++",
+"-Wextra",
+"-Wconversion",
+"-Wsign-conversion",
 "${file}",
 ```
