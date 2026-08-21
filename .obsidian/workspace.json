@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Locations and Passwords.md",
+                "file": "Learnings/SeaPlusPlus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "File Locations and Passwords"
+              "title": "SeaPlusPlus"
             }
           },
           {
@@ -227,8 +227,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -351,11 +350,14 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Learning to Code.md",
+    "Learnings/SeaPlusPlus.md",
+    "Learnings",
+    "Leetcode.md",
+    "File Locations and Passwords.md",
     "attachments/Pasted image 20260821131345.png",
     "Pantheon/Rough Notes/Passwords.md",
-    "File Locations and Passwords.md",
     "Reflections/Random Notes To Start/Things I want to log.md",
-    "Untitled",
     "Reflections/Random Notes To Start/Coding and Leetcode.md",
     "Interview Prep/Chamberlain Group/Behavior Cloning.md",
     "Ceycan Notes.md",
@@ -380,8 +382,6 @@
     "Reflections/Random Notes To Start/Learning Engineering Concepts for Exam Performance.md",
     "Courses.md",
     "Reflections/2026/July",
-    "Pantheon/Rough Notes/Tasks.md",
-    "InterSol Website Discovery Questions.md",
     "Pantheon/Meeting Notes",
     "Reflections/Random Notes To Start",
     "attachments/Pasted image 20260715231441.png",
@@ -395,7 +395,6 @@
     "Ceycan",
     "Interview Prep/Matic/attachments/Pasted image 20260525212422.png",
     "Interview Prep/Matic/attachments/Pasted image 20260521223029.png",
-    "Investing and Finance/attachments/Pasted image 20260510221048.png",
-    "Investing and Finance/attachments/Pasted image 20260510220843.png"
+    "Investing and Finance/attachments/Pasted image 20260510221048.png"
   ]
 }
