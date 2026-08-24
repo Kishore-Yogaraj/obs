@@ -2,6 +2,7 @@
 ``` bash
 g++ -o helloworld helloworld.cpp #Compile and Link
 ./helloworld #Execute
+g++ -std=c++20 -o helloworld helloworld.cpp #Use specific compiler
 ```
 
 **Build vs Release Configurations**
