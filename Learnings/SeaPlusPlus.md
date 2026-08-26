@@ -64,5 +64,5 @@ User settings for learning
     "editor.tabCompletion": "off",
     "editor.acceptSuggestionOnEnter": "off",
     "editor.inlineSuggest.enabled": false,
-
+}
 ```
