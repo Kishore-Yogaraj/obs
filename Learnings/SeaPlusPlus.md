@@ -3,6 +3,8 @@
 g++ -o helloworld helloworld.cpp #Compile and Link
 ./helloworld #Execute
 g++ -std=c++20 -o helloworld helloworld.cpp #Use specific compiler
+
+g++ -fdiagnostics-color=always -g -Wall -Weffc++ -Wextra -Wconversion -Wsign-conversion -pedantic-errors -std=c++20 helloworld.cpp -o helloworld
 ```
 
 **Build vs Release Configurations**
@@ -29,3 +31,5 @@ Adds additional diagnostic warnings
 "-Wsign-conversion",
 "${file}",
 ```
+
+Bypass windows security for project
