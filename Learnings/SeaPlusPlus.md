@@ -33,3 +33,4 @@ Adds additional diagnostic warnings
 ```
 
 Bypass windows security for project
+![[Pasted image 20260826134402.png]]
