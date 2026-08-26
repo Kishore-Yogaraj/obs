@@ -50,8 +50,25 @@ Back
 - Vertical 3 sets
 - Horizontal 3 sets
 Biceps
+- Main curl 3 sets
+- Brachialis 3 sets
+- Peak curl 3 sets
 Triceps
+- Lateral head 4 sets
+- Long head 4 sets
 Shoulders
+- Main press 3 sets
+- Side delt iso 3 sets
+- Rear delt iso 3 sets
 Hamstrings
-Legs
+- Main hamstring 3 sets
+- Iso hamstring 3 sets
+Quads
+- Main quad 3 sets
+- Iso quad 3 sets
 Calves
+- 12 sets throughout week
+
+15 - 25 sets per session
+
+125 sets total per week for 5 day split
