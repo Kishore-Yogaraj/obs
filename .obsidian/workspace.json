@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/SeaPlusPlus.md",
+                "file": "Randoms/Things I want to log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SeaPlusPlus"
+              "title": "Things I want to log"
             }
           },
           {
@@ -351,6 +351,7 @@
   },
   "active": "99894d65a73b81d1",
   "lastOpenFiles": [
+    "Learnings/SeaPlusPlus.md",
     "Learnings/attachments/Pasted image 20260826142143.png",
     "Learnings/attachments/Pasted image 20260826134402.png",
     "Reflections/2026/August/August 11th.md",
@@ -359,7 +360,6 @@
     "Learnings/Learning Engine.md",
     "Learnings/Neuroplasticity.md",
     "Reflections/Significant/Learning & Studying Plan.md",
-    "Learnings/SeaPlusPlus.md",
     "New Minimal Stack.md",
     "Weekly Activity Report - September 2nd - 5th.md",
     "Untitled.base",
@@ -395,7 +395,6 @@
     "attachments/Pasted image 20260715231414.png",
     "attachments/Pasted image 20260710154715.png",
     "Pantheon/Rough Notes/attachments/Pasted image 20260710103801.png",
-    "Pantheon/Rough Notes/attachments/Pasted image 20260707091735.png",
-    "Pantheon/Rough Notes/attachments/Pasted image 20260706170648.png"
+    "Pantheon/Rough Notes/attachments/Pasted image 20260707091735.png"
   ]
 }

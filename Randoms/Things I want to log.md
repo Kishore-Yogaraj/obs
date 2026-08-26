@@ -38,3 +38,20 @@ Life
 	- Cooking
 - Hours spent reading
 - Hours spent on human connection
+
+
+Exercises target
+
+Chest
+- Horizontal press 3 sets
+- Incline press 3 sets
+- Isolation 3 sets
+Back
+- Vertical 3 sets
+- Horizontal 3 sets
+Biceps
+Triceps
+Shoulders
+Hamstrings
+Legs
+Calves
