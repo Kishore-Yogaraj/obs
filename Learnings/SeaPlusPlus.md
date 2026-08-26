@@ -34,3 +34,35 @@ Adds additional diagnostic warnings
 
 Bypass windows security for project
 ![[Pasted image 20260826134402.png]]
+
+Default user settings for coding with claude code
+```JSON
+{
+    "claudeCode.preferredLocation": "panel",
+    "explorer.compactFolders": false,
+    "claudeCode.selectedModel": "default",
+    "files.insertFinalNewline": true,
+    "editor.unicodeHighlight.invisibleCharacters": false
+}
+```
+
+User settings for learning
+![[Pasted image 20260826142143.png]]
+```JSON
+{
+    "claudeCode.preferredLocation": "panel",
+    "explorer.compactFolders": false,
+    "claudeCode.selectedModel": "default",
+    "files.insertFinalNewline": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.tabCompletion": "off",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.enabled": false,
+
+```
