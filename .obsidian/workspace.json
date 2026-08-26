@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/SeaPlusPlus.md",
+                "file": "Randoms/Things I want to log.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SeaPlusPlus"
+              "title": "Things I want to log"
             }
           },
           {
@@ -207,12 +207,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Time",
+                "query": "log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -350,8 +350,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7e8909131e5ee39",
+  "active": "1cb895564f084024",
   "lastOpenFiles": [
+    "Learnings/SeaPlusPlus.md",
     "Learnings/Neuroplasticity.md",
     "Learnings/Learning Engine.md",
     "Learnings/Coding and Leetcode.md",
@@ -364,7 +365,6 @@
     "Reflections/Significant/Who do you want to be.md",
     "Reflections/Significant/4.md",
     "Reflections/2026/August/August 7th.md",
-    "Learnings/SeaPlusPlus.md",
     "Randoms/Things I want to log.md",
     "Reflections/Significant/Distractions.md",
     "Learnings/attachments/Pasted image 20260821142230.png",
