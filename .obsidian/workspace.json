@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/2026/August/August 11th.md",
+                "file": "Learnings/Learning Engine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "August 11th"
+              "title": "Learning Engine"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -334,18 +334,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cb895564f084024",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
-    "Reflections/2026/August/August 11th.md",
-    "Reflections/2026/July/July 29th.md",
-    "Randoms/Things I want to log.md",
     "Learnings/SeaPlusPlus.md",
-    "Ceycan Notes.md",
+    "Learnings/Neuroplasticity.md",
+    "Reflections/2026/August/August 11th.md",
     "Learnings/Coding and Leetcode.md",
+    "Randoms/Things I want to log.md",
+    "Reflections/2026/July/July 29th.md",
+    "Ceycan Notes.md",
     "Learnings/attachments/Pasted image 20260826142143.png",
     "Learnings/attachments/Pasted image 20260826134402.png",
     "Learnings/Learning Engine.md",
-    "Learnings/Neuroplasticity.md",
     "Reflections/Significant/Learning & Studying Plan.md",
     "New Minimal Stack.md",
     "Weekly Activity Report - September 2nd - 5th.md",
