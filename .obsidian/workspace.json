@@ -38,21 +38,6 @@
             }
           },
           {
-            "id": "99894d65a73b81d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Randoms/Things I want to log.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Things I want to log"
-            }
-          },
-          {
             "id": "bbdfd000ff5edcd3",
             "type": "leaf",
             "state": {
@@ -173,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -349,12 +334,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbdfd000ff5edcd3",
+  "active": "1cb895564f084024",
   "lastOpenFiles": [
-    "Ceycan Notes.md",
-    "Randoms/Things I want to log.md",
-    "Learnings/Coding and Leetcode.md",
     "Learnings/SeaPlusPlus.md",
+    "Randoms/Things I want to log.md",
+    "Ceycan Notes.md",
+    "Learnings/Coding and Leetcode.md",
     "Learnings/attachments/Pasted image 20260826142143.png",
     "Learnings/attachments/Pasted image 20260826134402.png",
     "Reflections/2026/August/August 11th.md",

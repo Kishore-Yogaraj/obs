@@ -39,9 +39,10 @@ Life
 - Hours spent reading
 - Hours spent on human connection
 
+What do I want to journal
+- I want to write out the exact points of how the person I want to be acts
 
 Exercises target
-
 Chest
 - Horizontal press 3 sets
 - Incline press 3 sets
