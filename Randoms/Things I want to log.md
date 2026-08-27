@@ -69,6 +69,10 @@ Quads
 Calves
 - 12 sets throughout week
 
-15 - 25 sets per session
+Above comes out to 130 sets
 
-125 sets total per week for 5 day split
+15 - 25 sets per session (between all muscles)
+15 for large muscle groups
+25+ for smaller
+
+125 sets total per week for 5 day split (recommended)
