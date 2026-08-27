@@ -46,16 +46,51 @@ What do I want to journal
 - Everyday at the end of the day I want to write down what was mentioned in that chat with claude
 - I also want a way to prime my brain before starting my deep work sessions by writing down something to make sure I'm careful of the information I put in my brain and that I can completely control what I put in my brain and how powerful it is
 - Below is what I want to write down before I start my work sessions
-	- You can control how you think and you can control what you think. Therefore, you can control who you are and what you become.
-	- Allow yourself to fail.
-	- Forget about the results and only focus on embracing the present and the task at hand. Let go of success or failure. Let go of praise or blame. Let go of profit or loss.
-	- Embrace losing
-	- 5 laws of guarante
+
+**1. Control-of-attention statements** (this is the actual skill you're using in deep work)
+
+- "I choose what I pay attention to for the next [X] minutes."
+- "When my mind drifts, I notice it and bring it back — that's the practice, not a failure."
+- "I don't need to feel motivated to start. Starting creates the focus, not the other way around."
+
+**2. Process over outcome**
+
+- "My job right now is the next step, not the whole result."
+- "I'm not here to be brilliant. I'm here to move this forward."
+- "Progress today doesn't have to be big. It has to be real."
+
+**3. Reframing fear/pressure instead of denying it**
+
+- "If I feel nervous, that means this matters to me — not that I'm going to fail."
+- "Discomfort right now is the cost of getting better at this."
+
+**4. Evidence-based confidence** (referencing something true and specific, not generic)
+
+- "I've done hard focus sessions before and gotten through them."
+- "I know more about this than I did a week ago."
+
+**5. Control-of-thought (your original line, kept because it's genuinely process-based)**
+
+- "I can direct my attention. My attention becomes my thinking. My thinking becomes my work."
+
+A good pre-session ritual might be 2-3 lines, not a wall of text — something like:
+
+> I choose what I focus on for this session. My job is the next step, not the whole outcome. If I get stuck, that's normal — I bring my attention back and keep going.
 
 Why do I want to journal
 - I want to journal to reinforce the ideas and thoughts that I want my brain to strengthen and understand deeply
 - I feel like writing these thoughts and beliefs down every day strengthens these pathways
 - I think that documenting my actions and reflecting on it on a daily basis acts as a way to provide proof to my brain that I am actually doing what I set out to do
+
+Journal once and review in mornings
+- Person you want to become and how they act
+- Show up for the you next summer and then again for you in 3 years
+- Identity spoken as if you were already that person
+
+Every day
+- Proofs of identity
+- Pre work priming
+
 
 Exercises target
 Chest
