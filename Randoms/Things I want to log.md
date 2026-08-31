@@ -5,6 +5,7 @@ Daily habits
 - Macro targets
 	- Calories
 	- Protein
+	- Space for calories for that day if meals are missed
 - Workout
 - Reading
 - Face wash

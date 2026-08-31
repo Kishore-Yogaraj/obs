@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -334,8 +334,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4608514ea02d14c6",
+  "active": "1cb895564f084024",
   "lastOpenFiles": [
+    "Learnings/Learning Engine.md",
     "Learnings/SeaPlusPlus.md",
     "Learnings/Neuroplasticity.md",
     "Reflections/2026/August/August 11th.md",
@@ -345,7 +346,6 @@
     "Ceycan Notes.md",
     "Learnings/attachments/Pasted image 20260826142143.png",
     "Learnings/attachments/Pasted image 20260826134402.png",
-    "Learnings/Learning Engine.md",
     "Reflections/Significant/Learning & Studying Plan.md",
     "New Minimal Stack.md",
     "Weekly Activity Report - September 2nd - 5th.md",
