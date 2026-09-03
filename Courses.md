@@ -17,19 +17,33 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 	- Need to retake ME 321 completely 
 	- Supplementary exam for ME 360
 - CSE
-	- One course from List A
+	- One course from List A **(need to pick)**
 	- One course from List C **BET 100 (done)**
-	- Two courses from List A, C or D **BET 430 (done)**
+	- Two courses from List A, C or D **BET 430 (done)** **HRM 200 (Fall 2026)**
 - Technical Electives List
 	- Complete 6 courses from technical electives list
 		- At least 4 from List 1
+			- ME 572
+			- ME 497
 		- Maximum of 2 from List 2
-- Complete one course from ethics list
-
+- Complete one course from ethics list **PD 22 (Done)**
 - Co-op
-	- 5 co-op terms
-	- PD courses: PD19 **(done)**, PD20 **(done)**, PD11 and one additional PD course **PD 22 (Done)**
-	- Work report 300
+	- 5 co-op terms **(done)**
+	- PD courses: PD19 **(done)**, PD20 **(done)**, PD11 and one additional PD course **PD 22 (Done)** **PD 8 (Done)** **PD 14 (done)**
+	- Work report 300 **(done)**
+	- ##### PD 11 Missing?
+
+##### Did PD 8 (Winter 2025) and PD 14 (Fall 2025) instead of PD 11 
+
+
+### Fall 2026 Courses
+- HRM 200 (Human resources management)
+- ME 572 (Building Energy Analysis)
+- ME 597 (Machine Learning for Mechanical Engineer)
+- MTE 481 (Capstone 1)
+- ME 360 (Supplemental)
+
+
 
 
 
