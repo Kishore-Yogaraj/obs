@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learnings/Coding and Leetcode.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Coding and Leetcode"
+              "title": "Courses"
             }
           },
           {
@@ -157,8 +157,7 @@
               "title": "Questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,7 +212,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -334,14 +334,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cb895564f084024",
+  "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Learnings/Coding and Leetcode.md",
+    "Randoms/Things I want to log.md",
     "Learnings/Learning Engine.md",
     "Learnings/SeaPlusPlus.md",
     "Learnings/Neuroplasticity.md",
     "Reflections/2026/August/August 11th.md",
-    "Learnings/Coding and Leetcode.md",
-    "Randoms/Things I want to log.md",
     "Reflections/2026/July/July 29th.md",
     "Ceycan Notes.md",
     "Learnings/attachments/Pasted image 20260826142143.png",

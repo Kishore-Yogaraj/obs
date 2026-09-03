@@ -1,3 +1,13 @@
+### Link that shows you requirements to graduate
+https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin?bc=true&bcCurrent=Mechanical%20Engineering%20(Bachelor%20of%20Applied%20Science%20-%20Honours)&bcGroup=Mechanical%20Engineering&bcItemType=programs
+
+### Link that shows you course details
+https://classes.uwaterloo.ca/under.html
+
+
+
+
+
 **List A CSE**
 - STV 100 - Winter
 **List A, C or D CSE**
@@ -37,9 +47,6 @@
 
 Courses I want if I done get what I want
 - SYDE 575 - Image Processing
-
-
-https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/ryAk10Rin?bc=true&bcCurrent=Mechanical%20Engineering%20(Bachelor%20of%20Applied%20Science%20-%20Honours)&bcGroup=Mechanical%20Engineering&bcItemType=programs
 
 https://classes.uwaterloo.ca/under.html
 
