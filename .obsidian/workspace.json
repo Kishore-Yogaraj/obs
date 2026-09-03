@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randoms/Things I want to log.md",
+                "file": "Ceycan Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Things I want to log"
+              "title": "Ceycan Notes"
             }
           },
           {
@@ -157,7 +157,8 @@
               "title": "Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class",
+                "query": "ceycan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -334,11 +335,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "1cb895564f084024",
   "lastOpenFiles": [
+    "InterSol Website Discovery Questions.md",
+    "Randoms/Things I want to log.md",
+    "Courses.md",
     "attachments/Pasted image 20260903122221.png",
     "Learnings/Coding and Leetcode.md",
-    "Randoms/Things I want to log.md",
     "Learnings/Learning Engine.md",
     "Learnings/SeaPlusPlus.md",
     "Learnings/Neuroplasticity.md",
@@ -370,7 +373,6 @@
     "Reflections/2026/August/August 9th.md",
     "Reflections/2026/August/August 8th.md",
     "Meeting with Gabe.md",
-    "Reflections/2026/August/August 3rd.md",
     "Reflections/2026/August",
     "Reflections/Untitled",
     "LSAT",
@@ -380,7 +382,6 @@
     "attachments/Pasted image 20260715231441.png",
     "attachments/Pasted image 20260715231414.png",
     "attachments/Pasted image 20260710154715.png",
-    "Pantheon/Rough Notes/attachments/Pasted image 20260710103801.png",
-    "Pantheon/Rough Notes/attachments/Pasted image 20260707091735.png"
+    "Pantheon/Rough Notes/attachments/Pasted image 20260710103801.png"
   ]
 }
