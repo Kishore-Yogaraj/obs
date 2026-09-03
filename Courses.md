@@ -7,6 +7,31 @@ https://classes.uwaterloo.ca/under.html
 ### Review of Courses
 https://uwflow.com/
 
+### CSE List
+https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/ENG-BASc-and-BSE-Complementary-Studies-Courses-Eng.html
+
+
+### Requirements for Graduation
+- Min Avg of 60.0%
+- Complete all courses listed in the first link
+	- Need to retake ME 321 completely 
+	- Supplementary exam for ME 360
+- CSE
+	- One course from List A
+	- One course from List C **BET 100 (done)**
+	- Two courses from List A, C or D **BET 430 (done)**
+- Technical Electives List
+	- Complete 6 courses from technical electives list
+		- At least 4 from List 1
+		- Maximum of 2 from List 2
+- Complete one course from ethics list
+
+- Co-op
+	- 5 co-op terms
+	- PD courses: PD19 **(done)**, PD20 **(done)**, PD11 and one additional PD course **PD 22 (Done)**
+	- Work report 300
+
+
 
 **List A CSE**
 - STV 100 - Winter
