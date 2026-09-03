@@ -30,10 +30,11 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - Co-op
 	- 5 co-op terms **(done)**
 	- PD courses: PD19 **(done)**, PD20 **(done)**, PD11 and one additional PD course **PD 22 (Done)** **PD 8 (Done)** **PD 14 (done)**
+	- PD courses are done you only need 4 PDS
 	- Work report 300 **(done)**
-	- ##### PD 11 Missing?
+	- You can find the below image in the Mechanical Engineering 2026 Group in Learn
+	![[Pasted image 20260903122221.png]]
 
-##### Did PD 8 (Winter 2025) and PD 14 (Fall 2025) instead of PD 11 
 
 
 ### Fall 2026 Courses
