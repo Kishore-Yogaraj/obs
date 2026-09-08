@@ -1,3 +1,9 @@
+### Calendar
+The purpose of a calendar is to help you organize what is coming up and arrange specific dates for things that need to be done. It is not used to time block as certain tasks may not take as much time as you intended and new things always come up.
+
+Calendars are good for scheduling things that are upcoming and you can't predict such as active recall time. The plan for the day and to do list should be done the night before.
+
+
 Daily habits
 - Water
 - Vitamins
