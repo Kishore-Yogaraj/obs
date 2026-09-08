@@ -7,9 +7,11 @@ Daily habits
 	- Protein
 	- Space for calories for that day if meals are missed
 - Workout
-- Reading
-- Face wash
+- Face wash morning
+- Face wash night
 - Floss
+- School work
+- Project work
 
 Exercise
 - Individual meals
