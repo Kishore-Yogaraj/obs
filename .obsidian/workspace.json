@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflections/2026/July/July 30th.md",
+                "file": "Reflections/2026/August/August 10th.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "July 30th"
+              "title": "August 10th"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,8 +213,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,19 +334,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbdfd000ff5edcd3",
+  "active": "9850b955b2eec6ee",
   "lastOpenFiles": [
-    "Randoms/Things I want to log.md",
-    "Courses.md",
-    "Learnings/Learning Engine.md",
+    "Reflections/2026/August/August 11th.md",
+    "Reflections/2026/July/July 30th.md",
+    "Reflections/2026/July/July 29th.md",
     "Learnings/SeaPlusPlus.md",
+    "Courses.md",
+    "Randoms/Things I want to log.md",
+    "Learnings/Learning Engine.md",
     "Ceycan Notes.md",
     "InterSol Website Discovery Questions.md",
     "attachments/Pasted image 20260903122221.png",
     "Learnings/Coding and Leetcode.md",
     "Learnings/Neuroplasticity.md",
-    "Reflections/2026/August/August 11th.md",
-    "Reflections/2026/July/July 29th.md",
     "Learnings/attachments/Pasted image 20260826142143.png",
     "Learnings/attachments/Pasted image 20260826134402.png",
     "Reflections/Significant/Learning & Studying Plan.md",
@@ -372,7 +372,6 @@
     "Reflections/2026/August/August 10th.md",
     "Reflections/2026/August/August 9th.md",
     "Reflections/2026/August/August 8th.md",
-    "Meeting with Gabe.md",
     "Reflections/2026/August",
     "Reflections/Untitled",
     "LSAT",
