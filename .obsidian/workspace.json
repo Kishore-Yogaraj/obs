@@ -157,7 +157,8 @@
               "title": "Questions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -334,14 +335,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "bbdfd000ff5edcd3",
   "lastOpenFiles": [
     "Randoms/Things I want to log.md",
+    "Courses.md",
     "Learnings/Learning Engine.md",
     "Learnings/SeaPlusPlus.md",
     "Ceycan Notes.md",
     "InterSol Website Discovery Questions.md",
-    "Courses.md",
     "attachments/Pasted image 20260903122221.png",
     "Learnings/Coding and Leetcode.md",
     "Learnings/Neuroplasticity.md",
