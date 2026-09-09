@@ -46,6 +46,8 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - **Need to get ME 599 and one List 2 Course**
 - **MSE 432 - Production services**
 - **MSE 446 - Intro to machine learning**
+- **SYDE 542 - Interface Design**
+- **SYDE 543 - Cognitive Ergonomics**
 ##### You need to replace ME 572 with ME 599. ME 599 has an interview the first week of school that you have to get through first. 2 List 1 and 1 List 2 each term is a good idea
 
 
