@@ -52,8 +52,7 @@
               "title": "Meeting with Gabe"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66760b615697825d",
+  "active": "3a836679ad39cac0",
   "lastOpenFiles": [
     "RoboHacks/Collecting Prize Sponsors.md",
     "RoboHacks/Meeting with Gabe.md",
