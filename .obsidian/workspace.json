@@ -28,136 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randoms/Things I want to log.md",
+                "file": "RoboHacks/Collecting Prize Sponsors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Things I want to log"
+              "title": "Collecting Prize Sponsors"
             }
           },
           {
-            "id": "1cb895564f084024",
+            "id": "66760b615697825d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceycan Notes.md",
+                "file": "RoboHacks/Meeting with Gabe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ceycan Notes"
-            }
-          },
-          {
-            "id": "bbdfd000ff5edcd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learnings/SeaPlusPlus.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "SeaPlusPlus"
-            }
-          },
-          {
-            "id": "de25453712ff923e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflections/2026/July/July 29th.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "July 29th"
-            }
-          },
-          {
-            "id": "9850b955b2eec6ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reflections/2026/August/August 10th.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "August 10th"
-            }
-          },
-          {
-            "id": "051d46badabec191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Prep/Chamberlain Group/Behavior Cloning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Behavior Cloning"
-            }
-          },
-          {
-            "id": "b3adf8dbb46c7c5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Prep/Chamberlain Group/Talk about your experience with watonomous.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Talk about your experience with watonomous"
-            }
-          },
-          {
-            "id": "eb6d1e52544e6379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Prep/Chamberlain Group/Talk about your experience with Eon Media.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Talk about your experience with Eon Media"
-            }
-          },
-          {
-            "id": "61274b808b8754fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Prep/Chamberlain Group/Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
+              "title": "Meeting with Gabe"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Things I want to ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -333,17 +229,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "4608514ea02d14c6",
   "lastOpenFiles": [
+    "RoboHacks/Meeting with Gabe.md",
+    "RoboHacks/Collecting Prize Sponsors.md",
+    "RoboHacks",
+    "Randoms/Things I want to log.md",
+    "Interview Prep/Chamberlain Group/Questions.md",
+    "Interview Prep/Chamberlain Group/Talk about your experience with Eon Media.md",
+    "Interview Prep/Chamberlain Group/Talk about your experience with watonomous.md",
+    "Interview Prep/Chamberlain Group/Behavior Cloning.md",
     "Reflections/2026/August/August 10th.md",
-    "Reflections/2026/August/August 11th.md",
-    "Reflections/2026/July/July 30th.md",
     "Reflections/2026/July/July 29th.md",
     "Learnings/SeaPlusPlus.md",
-    "Courses.md",
-    "Randoms/Things I want to log.md",
-    "Learnings/Learning Engine.md",
     "Ceycan Notes.md",
+    "Courses.md",
+    "Reflections/2026/August/August 11th.md",
+    "Reflections/2026/July/July 30th.md",
+    "Learnings/Learning Engine.md",
     "InterSol Website Discovery Questions.md",
     "attachments/Pasted image 20260903122221.png",
     "Learnings/Coding and Leetcode.md",
@@ -364,19 +267,12 @@
     "Learnings/attachments",
     "Learning to Code.md",
     "Learnings",
-    "Leetcode.md",
-    "File Locations and Passwords.md",
     "attachments/Pasted image 20260821131345.png",
-    "Pantheon/Rough Notes/Passwords.md",
-    "Interview Prep/Chamberlain Group/Behavior Cloning.md",
-    "Reflections/2026/August/August 9th.md",
-    "Reflections/2026/August/August 8th.md",
     "Reflections/2026/August",
     "Reflections/Untitled",
     "LSAT",
     "Reflections/2026/July",
     "Pantheon/Meeting Notes",
-    "Reflections/Random Notes",
     "attachments/Pasted image 20260715231441.png",
     "attachments/Pasted image 20260715231414.png",
     "attachments/Pasted image 20260710154715.png",
