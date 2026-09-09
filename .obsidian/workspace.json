@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4608514ea02d14c6",
+  "active": "66760b615697825d",
   "lastOpenFiles": [
-    "RoboHacks/Meeting with Gabe.md",
     "RoboHacks/Collecting Prize Sponsors.md",
+    "RoboHacks/Meeting with Gabe.md",
     "RoboHacks",
     "Randoms/Things I want to log.md",
     "Interview Prep/Chamberlain Group/Questions.md",
