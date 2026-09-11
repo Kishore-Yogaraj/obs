@@ -41,6 +41,7 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - HRM 200 (Human resources management)
 - ME 572 (Building Energy Analysis) **List 1**
 - ME 597 (Machine Learning for Mechanical Engineer) **List 1**
+- MSE 432 (List 2)
 - MTE 481 (Capstone 1)
 - ME 360 (Supplemental)
 - **Need to get ME 599 and one List 2 Course**
@@ -48,6 +49,14 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - **MSE 446 - Intro to machine learning**
 - **SYDE 542 - Interface Design**
 - **SYDE 543 - Cognitive Ergonomics**
+
+### Winter 2027 Courses
+- STV 100
+- ME 597 - Autonomous mobile robots (list 1)
+- MTE 546 - Multi Sensor Data Fusions (List 1)
+- ECE 406 - Algorithm Design and Analysis (List 2)
+- ME 321 - Vibrations
+- MTE 482 - Capstone
 ##### You need to replace ME 572 with ME 599. ME 599 has an interview the first week of school that you have to get through first. 2 List 1 and 1 List 2 each term is a good idea
 
 
