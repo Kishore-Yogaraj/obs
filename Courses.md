@@ -44,11 +44,8 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - MSE 432 (List 2)
 - MTE 481 (Capstone 1)
 - ME 360 (Supplemental)
-- **Need to get ME 599 and one List 2 Course**
-- **MSE 432 - Production services**
-- **MSE 446 - Intro to machine learning**
-- **SYDE 542 - Interface Design**
-- **SYDE 543 - Cognitive Ergonomics**
+
+**If you get ME 599, drop ME 572**
 
 ### Winter 2027 Courses
 - STV 100
