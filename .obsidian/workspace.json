@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "Pantheon/Rough Notes/Things Will Needs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Courses"
+              "title": "Things Will Needs"
             }
           },
           {
@@ -230,6 +230,8 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Courses.md",
+    "Pantheon/Rough Notes/Things Will Needs.md",
     "RoboHacks/Collecting Prize Sponsors.md",
     "RoboHacks/Meeting with Gabe.md",
     "RoboHacks",
@@ -242,7 +244,6 @@
     "Reflections/2026/July/July 29th.md",
     "Learnings/SeaPlusPlus.md",
     "Ceycan Notes.md",
-    "Courses.md",
     "Reflections/2026/August/August 11th.md",
     "Reflections/2026/July/July 30th.md",
     "Learnings/Learning Engine.md",
@@ -264,7 +265,6 @@
     "Learnings/attachments/Pasted image 20260821142230.png",
     "Learnings/attachments/Pasted image 20260821141546.png",
     "Learnings/attachments",
-    "Learning to Code.md",
     "Learnings",
     "attachments/Pasted image 20260821131345.png",
     "Reflections/2026/August",
