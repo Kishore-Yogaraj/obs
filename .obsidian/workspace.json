@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,10 +259,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50bbe9c15d336de8",
+  "active": "57b6ce338efc6e41",
   "lastOpenFiles": [
-    "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/Finalized Sensor Stack.md",
+    "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/attachments/Pasted image 20260924204719.png",
     "Pantheon/attachments",
     "Pantheon/Rough Notes/Building Planning Software.md",
