@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pantheon/Finalized Sensor Stack.md",
+                "file": "Pantheon/Saved prompt for compute selection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Finalized Sensor Stack"
+              "title": "Saved prompt for compute selection"
             }
           }
         ],
@@ -261,8 +261,9 @@
   },
   "active": "50bbe9c15d336de8",
   "lastOpenFiles": [
-    "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/Finalized Sensor Stack.md",
+    "Pantheon/Saved prompt for compute selection.md",
+    "Pantheon/Rough Notes/Finalized Tasks.md",
     "Pantheon/attachments/Pasted image 20260924204719.png",
     "Pantheon/attachments",
     "Pantheon/Rough Notes/Building Planning Software.md",
