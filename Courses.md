@@ -41,7 +41,7 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 - HRM 200 (Human resources management) 2 midterms
 - ME 572 (Building Energy Analysis) **List 1** final
 - ME 597 (Machine Learning for Mechanical Engineer) **List 1**
-- MSE 432 (List 2) midterm final
+- ME 599 **List 1**
 - MTE 481 (Capstone 1)
 - ME 360 (Supplemental) final
 
