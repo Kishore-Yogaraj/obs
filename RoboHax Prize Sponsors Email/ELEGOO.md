@@ -1,6 +1,9 @@
 
 marketing@elegoo.com
 
+ROBOHAX Robotics Hackathon – Prize Sponsorship Opportunity
+
+
 Hello ELEGOO Marketing Team,
 
 I hope you’re doing well.
