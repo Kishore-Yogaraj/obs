@@ -3,12 +3,11 @@ marketing@elegoo.com
 
 ROBOHAX Robotics Hackathon – Prize Sponsorship Opportunity
 
-
 Hello ELEGOO Marketing Team,
 
 I hope you’re doing well.
 
-Worldwide Robotics Hub is hosting **ROBOHAX**, a robotics hackathon this fall as part of **Waterloo Tech Week 2026**. The event brings together people across the robotics community, including high school and university students, graduate researchers, engineers, and industry professionals.
+Worldwide Robotics Hub is hosting **ROBOHAX**, a robotics hackathon this fall. The event brings together people across the robotics community, including high school and university students, graduate researchers, engineers, and industry professionals.
 
 Participants will be building robots around the **Lord of Robots Lore Core Base**, a custom ESP32-based microcontroller platform. The exact challenge and competition objectives will be revealed at the official kickoff.
 
