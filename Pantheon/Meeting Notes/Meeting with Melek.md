@@ -102,4 +102,18 @@ Options for cameras:
 - RealSense D455
 	- $695.24
 - Zed 2i
-	- $1000 + 
+	- $1000+
+
+Why the alternatives weren't selected:
+Gemini 336L:
+- Costs $157 more. Has a longer baseline, better depth precision, longer ideal range and global RGB shutter but the initial design prioritizes nearby perception and price. We can reconsider if motion distortion or depth quality proves limiting
+RealSense D455:
+- Costs $223.80 more than the 336. It offers global RGB shutter and a longer baseline but its recorded near depth limit is less suitable for close approaches and its depth field of view is narrower
+ZED 2i:
+- Offers a wider field of view and higher image resolution, but costs $527.56 more before the optional polarizer. Hose GPU depth processing adds compute requirements that the selected camera avoids
+
+Why RGB-D over RGB:
+
+Recognition with distance:
+RGB supports recognition of people, elevator doors, panels and buttons. Registered depth can provide a 3D position for a detected image region which reduces the need to obtain every visual object's range through LiDAR-camera association. Invalid depth, occlusions and calibration errors must still be handled
+
