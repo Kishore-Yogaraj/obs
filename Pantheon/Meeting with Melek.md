@@ -89,4 +89,17 @@ Better to spend time on:
 - Perception
 - Manipulation
 
-rather than patching an old sensor driver
+rather than patching an old sensor drivers
+
+RGB-D Camera
+The Gemini 336 is our preferred front camera because it targets the useful nearby depth range while keep cost and host processing demands lower than some of the alternatives. It also provides 1920 x 1080 RGB images for recognition tasks. The camera is selected to compliment the Lidar rather than replacing it
+
+Options for cameras:
+- Gemini 336
+	- $471.44
+- Gemini 336L
+	- $629.23
+- RealSense D455
+	- $695.24
+- Zed 2i
+	- $1000 + 
