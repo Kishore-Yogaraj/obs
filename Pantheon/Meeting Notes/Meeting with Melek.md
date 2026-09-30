@@ -117,4 +117,14 @@ Why RGB-D over RGB:
 Recognition with distance:
 RGB supports recognition of people, elevator doors, panels and buttons. Registered depth can provide a 3D position for a detected image region which reduces the need to obtain every visual object's range through LiDAR-camera association. Invalid depth, occlusions and calibration errors must still be handled
 
-Presentation for Meeting with Melek
+### Presentation for Meeting with Melek
+- What is the goal of the robot
+- What does the robot look like
+- What does the robot need to be able to do 
+- What sensors did you initially think you needed and why
+- Which sensors did you end up discarding and why 
+- What is the goal of the Lidar
+- What is the goal of the camera
+- Is this sensor stack feasible?
+	- Do we need more sensors 
+	- Do we need less sensors?
