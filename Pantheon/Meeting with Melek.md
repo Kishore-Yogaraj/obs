@@ -55,4 +55,38 @@ We need the LiDAR to handle the following:
 
 21 600 sampling frequency is extremely undesirable for this which is why the L1 doesn't make sense
 
-The Livox has 3.1 times the point rate as the L2 which is extremely 
+The Livox has 3.1 times the point rate as the L2 which is extremely useful for providing more geometric measurements. Especially good for:
+- Long corridors
+- Large open lobbies
+- Elevators
+- Repetitive hallways
+- Smooth walls
+
+All common in buildings we plan to operate in
+
+We are also dealing with:
+- Walking people 
+- Rolling cars
+- Other moving obstacles
+
+This makes 10Hz more favorable than 5.55 Hz
+
+ROS2 integration:
+- Unitree's ROS 2 environment is limited to
+	- Ubuntu 20.04
+	- ROS 2 Foxy
+	- PCL 1.10
+- Livox ROS driver supports
+	- ROS 2 Foxy
+	- ROS 2 Humble
+	- ROS 2 Jazzy
+	- Ubuntu 24.04
+
+Better to spend time on:
+- Autonomy
+- Localization
+- Elevator handling
+- Perception
+- Manipulation
+
+rather than patching an old sensor driver
