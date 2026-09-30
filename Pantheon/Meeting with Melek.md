@@ -27,4 +27,32 @@ RoboSense Helios:
 Outer OS0:
 - Its wider downward field of view and denser sampling could improve the near field coverage. However, its price is difficult to justify
 We are using the LiDAR for the following:
-- 
+
+Unitree LiDAR Comparison
+
+| Specification              | Unitree L1  | Unitree L2  | Livox Mid-360s      |
+| -------------------------- | ----------- | ----------- | ------------------- |
+| Horizontal FOV             | 360 degrees | 360 degrees | 360 degrees         |
+| Vertical FOV               | 90 degree   | 90 degree   | 59 (-7 to +52)      |
+| Effective point rate       | 21600 pts/s | 64000 pts/s | 200000 pts/s        |
+| 360 degree scan frequency  | 11 Hz       | 5.55 Hz     | 10 Hz               |
+| Minimum detection distance | 0.05 m      | 0.05 m      | 0.10 m              |
+| Built in IMU               | Yes         | Yes         | Yes                 |
+| Power                      | 6 W         | 10 W        | 6.5 W               |
+| Size                       | 75×75×65 mm | 75×75×65 mm | 65×65×60 mm         |
+| Weight                     | 230 g       | 230 g       | 265 g               |
+| ROS 2 Support              | Foxy        | Foxy        | Foxy, Humble, Jazzy |
+| Price (CAD)                | $354.08     | $595.80     | $963.43             |
+
+We need the LiDAR to handle the following:
+- 3D SLAM
+- Localization
+- Hallway navigation
+- Obstacle detection
+- People detection/tracking support
+- Doors and elevator door geometry 
+- Some perception redundancy
+
+21 600 sampling frequency is extremely undesirable for this which is why the L1 doesn't make sense
+
+The Livox has 3.1 times the point rate as the L2 which is extremely 
