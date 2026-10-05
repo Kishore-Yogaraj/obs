@@ -51,6 +51,7 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 ### Winter 2027 Courses
 - STV 100
 - ME 597 - Autonomous mobile robots (list 1)
+- ME 599-2 (List 1)
 - MTE 546 - Multi Sensor Data Fusions (List 1)
 - ECE 406 - Algorithm Design and Analysis (List 2)
 - ME 321 - Vibrations
