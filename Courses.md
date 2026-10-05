@@ -24,7 +24,8 @@ https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/p
 	- Complete 6 courses from technical electives list
 		- At least 4 from List 1
 			- ME 572
-			- ME 497
+			- ME 597
+			- ME 499
 		- Maximum of 2 from List 2
 - Complete one course from ethics list **PD 22 (Done)**
 - Co-op

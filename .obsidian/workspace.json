@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "Courses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Courses"
             }
           },
           {
@@ -82,8 +82,7 @@
               "title": "Meeting with Melek"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cours",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +137,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,13 +259,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4608514ea02d14c6",
+  "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Notes.md",
+    "Waterloo/4A/ME 597/ME 597 - Foosball Proposal.md",
     "Waterloo/4A/ME 597/attachments/Pasted image 20261003154242.png",
     "Waterloo/4A/ME 597/attachments",
     "Learnings/Learning Engine.md",
     "Pantheon/Rough Notes/Finalized Tasks.md",
-    "Waterloo/4A/ME 597/ME 597 - Foosball Proposal.md",
     "RoboHax Prize Sponsors Email/Bambu Labs.md",
     "Waterloo/4A/ME 597",
     "Waterloo/4A",
@@ -273,7 +274,6 @@
     "RoboHacks/Meeting with Gabe.md",
     "Pantheon/Meeting Notes/Meeting with Melek.md",
     "Pantheon/Saved prompt for compute selection.md",
-    "Notes.md",
     "RTOS.md",
     "Rosdeps.md",
     "Review.md",
@@ -305,7 +305,6 @@
     "Learnings",
     "attachments/Pasted image 20260821131345.png",
     "attachments/Pasted image 20260715231441.png",
-    "attachments/Pasted image 20260715231414.png",
-    "attachments/Pasted image 20260710154715.png"
+    "attachments/Pasted image 20260715231414.png"
   ]
 }
