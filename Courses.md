@@ -107,3 +107,14 @@ https://classes.uwaterloo.ca/under.html
 MTE 481/482 - Mechatronics Engineering Design Project
 
 SYDE 542
+
+
+
+I need to write a new proposal for my machine learning course. I had two initial ideas which was the RL for foosball project and the terrain travers ability project. Instead of these two projects I would like to use machine learning to detect elevator buttons including both the panel that allows you to click up and down arrows as well as recognize the elevator buttons inside the elevator on the elevator panel. The reason I want to switch my idea is because I want to use this opportunity in the course to build out what I eventually have to build out for my Capstone project with Komo Robotics. I'd like your help to build out a technical document that I can give to chat gpt work to build out my proposal for the class. It should be 2 pages long and needs to include the following:
+- project title and group members
+- motivation for the project
+- problem statement
+- proposed ML approach(es) you plan to develop (only at a high level since you have not attempted the project yet)
+- Proposed timeline and milestones (Gantt chart)
+  
+I just need you to ask me some clarifying questions in order for you to build out this tech doc that highlights the motivation, problem statement, proposed ML approaches we plan to develop and the proposed timelines and milestones. Once you have all the information you need we will put it into chat gpt work to make the final proposal.
