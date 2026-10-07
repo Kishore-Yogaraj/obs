@@ -4,3 +4,10 @@ Questions that need to be answered:
 - What is the FOV of the LiDAR we selected
 - What is the FOV of the camera we selected
 - Why RGB-D instead of just RGB
+
+
+Questions I want answered:
+- Could we just use a 2D LiDAR?
+- Do we need to use a depth camera?
+- Could we do all our navigation tasks with one depth camera?
+- Are there cheaper sensor selections (cheaper) that will give us our required output?
