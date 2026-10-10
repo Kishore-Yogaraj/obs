@@ -14,3 +14,5 @@ Questions I want answered:
 - Do we need to use a depth camera?
 - Could we do all our navigation tasks with one depth camera?
 - Are there cheaper sensor selections (cheaper) that will give us our required output?
+
+**Rogers**
