@@ -16,3 +16,5 @@ Questions I want answered:
 - Are there cheaper sensor selections (cheaper) that will give us our required output?
 
 **Rogers**
+yogan_s@icloud.com
+Kishore8Serena
