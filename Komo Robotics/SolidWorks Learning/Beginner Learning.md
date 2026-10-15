@@ -150,3 +150,15 @@ If you have automatic rebuild selected in the bottom left then when you update t
 **Video 13 - Fully Defining a sketch**
 https://www.youtube.com/watch?v=8XhXDbY6buo&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=13
 
+Underdefined
+- When it doesn't have enough sketch relations and dimensions to fully constrain the geometry
+- Lines are blue
+
+Over defined
+- When you have too many dimensions trying to control the same geometry
+
+Fully defined
+- When you have the right amount of sketch relations and dimensions to fully constrain the geometry
+- Lines are black
+
+Fully defining a sketch is best practice because it makes it so that you can create features without having to worry about issues with geometry 
