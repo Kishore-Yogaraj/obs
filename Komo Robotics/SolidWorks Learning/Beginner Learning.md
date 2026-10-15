@@ -103,4 +103,6 @@ Power trim is the best tool to use for trimming entities. It's a pretty intuitiv
 **Video 9 - Mirror Entities**
 https://www.youtube.com/watch?v=LfraP3tds1I&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=9
 
-Use the mirror entities command 
+Use the mirror entities icon then select an entity and then a construction line you want to copy onto the other side of and then it will copy over
+
+You can use dynamic mirror entities if you want to create a mirrored geometry while you're building
