@@ -125,3 +125,9 @@ https://www.youtube.com/watch?v=aHIppfubM2k&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_
 Contours
 - These are just regions within a larger sketch
 - Allows us to select specific regions in a sketch which we can then use to make features of this region
+- The major advantage with this feature is that you can use one sketch for multiple 3D features instead of having to make 2 separate sketches with two separate features
+	- If you did the ladder you would have to go to one sketch, edit it then go to the second sketch and edit it whereas with the contour select you can edit all features within one sketch 
+
+**Video 12 - Global Variables and Equations**
+Used to create mathematical relations between dimensions
+- Using global variables and equations you can fully leverage parametric models within solid works
