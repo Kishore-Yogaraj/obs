@@ -131,6 +131,7 @@ Contours
 **Video 12 - Global Variables and Equations**
 Used to create mathematical relations between dimensions
 - Using global variables and equations you can fully leverage parametric models within solid works
+- This just makes it pretty easy to edit the dimensions of parts without having to go into the sketch 
 
 Steps to use global variables
 - Go to tools
@@ -145,3 +146,7 @@ Steps to use global variables
 ![[Pasted image 20261015171455.png]]
 
 If you have automatic rebuild selected in the bottom left then when you update the values in the global variable it will automatically update it in the model
+
+**Video 13 - Fully Defining a sketch**
+https://www.youtube.com/watch?v=8XhXDbY6buo&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=13
+
