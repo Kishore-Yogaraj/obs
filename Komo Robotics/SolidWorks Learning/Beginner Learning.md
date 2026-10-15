@@ -141,3 +141,7 @@ Steps to use global variables
 - Click OK
 - Click on a dimension
 - Click = and enter the global variable
+
+![[Pasted image 20261015171455.png]]
+
+If you have automatic rebuild selected in the bottom left then when you update the values in the global variable it will automatically update it in the model
