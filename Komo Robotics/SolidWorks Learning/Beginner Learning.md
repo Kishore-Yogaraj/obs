@@ -13,6 +13,7 @@ https://www.youtube.com/watch?v=RMw0OXb8P10&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_
 Sketch relations 
 - A way to force relationships that must stay true throughout your design process
 
+**Line sketch relations**
 Coincident relation
 - Two sketches must always be touching no matter what changes happen
 
@@ -42,4 +43,16 @@ Equal relation
 - Makes two lines equal to each other the entire time
 
 Anchor relation
-- Makes a point 
+- Makes a point immovable
+
+Midpoint relation
+- Endpoint will always be in the middle of another line
+
+Symmetric relation
+- Need to draw a construction line
+- Then you can select two points or lines or what not and they will always be symmetrical along the construction line you built
+
+**Arc Sketch Relations**
+
+Co-radial relation
+- Make radius the same for two arcs
