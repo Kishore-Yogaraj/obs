@@ -131,3 +131,13 @@ Contours
 **Video 12 - Global Variables and Equations**
 Used to create mathematical relations between dimensions
 - Using global variables and equations you can fully leverage parametric models within solid works
+
+Steps to use global variables
+- Go to tools
+- Click equations
+- Give the global variable a name
+- Give the global variable a value
+- Leave a comment if you want
+- Click OK
+- Click on a dimension
+- Click = and enter the global variable
