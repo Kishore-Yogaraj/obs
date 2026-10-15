@@ -106,3 +106,11 @@ https://www.youtube.com/watch?v=LfraP3tds1I&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_
 Use the mirror entities icon then select an entity and then a construction line you want to copy onto the other side of and then it will copy over
 
 You can use dynamic mirror entities if you want to create a mirrored geometry while you're building
+
+
+**Video 10 - Offset Entities and Convert Entities**
+https://www.youtube.com/watch?v=AfJJhh6cjL8&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=10
+
+Offset Entities
+
+Convert Entities
