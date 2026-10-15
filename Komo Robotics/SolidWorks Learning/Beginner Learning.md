@@ -115,3 +115,6 @@ Offset Entities
 - Allows you to offset entire entities or sketches by a certain amount as a whole
 
 Convert Entities
+- Allows you to move entities from one plane to another plane
+- It's basically just used to copy over sketches from one plane to another plane so you don't have to draw it again
+- It gives you a constraint to the original sketch but that can be deleted if needed
