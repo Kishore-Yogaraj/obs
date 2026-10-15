@@ -95,3 +95,7 @@ Fillets
 
 - Keep constrained corners will make sure fillets don't remove any relations or constraints placed
 - Dimension each fillet allows you to individually dimension each fillet instead of using the same radius for all fillets
+
+**Video 8 - Trim and Extend Entities**
+https://www.youtube.com/watch?v=DMXzlG2xz4E&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=8
+
