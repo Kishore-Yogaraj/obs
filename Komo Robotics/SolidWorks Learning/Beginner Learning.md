@@ -99,3 +99,4 @@ Fillets
 **Video 8 - Trim and Extend Entities**
 https://www.youtube.com/watch?v=DMXzlG2xz4E&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=8
 
+Power trim is the best tool to use for trimming entities
