@@ -1,3 +1,4 @@
+### Chapter 1: Sketching
 **Video 1**
 https://www.youtube.com/watch?v=atLRraBiVXI&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S
 - Ctrl + middle scroll wheel will pan 
@@ -149,6 +150,8 @@ If you have automatic rebuild selected in the bottom left then when you update t
 
 **Video 13 - Fully Defining a sketch**
 https://www.youtube.com/watch?v=8XhXDbY6buo&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=13
+
+Just move entities around to see what is exactly changing and the set your relations and dimensions
 
 Underdefined
 - When it doesn't have enough sketch relations and dimensions to fully constrain the geometry
