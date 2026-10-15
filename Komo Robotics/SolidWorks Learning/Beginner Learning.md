@@ -56,3 +56,18 @@ Symmetric relation
 
 Co-radial relation
 - Make radius the same for two arcs
+- Make the center point of two arcs are merged to the same point
+
+Concentric relation
+- Center point will match to a certain point but the radius can still be adjusted for both circles
+
+Tangent relation
+- Will always be touching at the intersection point through all changes
+
+Equal relation
+- Radius will be the same but center points are free to move
+
+
+**Dimensioning**
+- Gives you straight line measurements, diameter measurements and angles
+- Double click on dimension to edit the dimension
