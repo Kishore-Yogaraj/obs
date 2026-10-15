@@ -101,3 +101,6 @@ https://www.youtube.com/watch?v=DMXzlG2xz4E&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_
 Power trim is the best tool to use for trimming entities. It's a pretty intuitive tool that you should be able to use to remove parts of entities that you don't want.
 
 **Video 9 - Mirror Entities**
+https://www.youtube.com/watch?v=LfraP3tds1I&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=9
+
+Use the mirror entities command 
