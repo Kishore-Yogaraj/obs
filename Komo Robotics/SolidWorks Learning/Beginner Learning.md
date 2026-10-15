@@ -118,3 +118,10 @@ Convert Entities
 - Allows you to move entities from one plane to another plane
 - It's basically just used to copy over sketches from one plane to another plane so you don't have to draw it again
 - It gives you a constraint to the original sketch but that can be deleted if needed
+
+**Video 11 - Contour Select Tool**
+https://www.youtube.com/watch?v=aHIppfubM2k&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=11
+
+Contours
+- These are just regions within a larger sketch
+- Allows us to select specific regions in a sketch which we can then use to make features of this region
