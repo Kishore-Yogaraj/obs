@@ -2,6 +2,7 @@
 https://www.youtube.com/watch?v=atLRraBiVXI&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S
 - Ctrl + middle scroll wheel will pan 
 - Ctrl + 7 will go to isometric view
+- Ctrl + 1 will show you everything on the screen
 - Exit sketch with saving and without saving (The red x)
 ![[Pasted image 20261015125649.png]]
 - A lot of solid works and designing will be about drawing a 2D sketch and then manipulating it in some way to get a 3D shape
@@ -17,3 +18,28 @@ Coincident relation
 
 Perpendicular icon is the view sketch relations icon to tell you what relations exit between sketches. (Make sure you are in the edit sketch mode to use this)
 ![[Pasted image 20261015131710.png]]
+
+Merge relation
+- Will attach two points together throughout all changes
+
+Parallel relation
+- Two lines following the same angle at all times
+
+Perpendicular relation
+- Makes two lines perpendicular
+
+Collinear relation
+- Two lines that always follow the same axis
+- The two lines will always follow each other
+
+Horizontal relation
+- Makes a line perfectly horizontal
+
+Vertical relation
+- Makes a line perfectly vertical
+
+Equal relation
+- Makes two lines equal to each other the entire time
+
+Anchor relation
+- Makes a point 
