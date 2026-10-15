@@ -112,5 +112,6 @@ You can use dynamic mirror entities if you want to create a mirrored geometry wh
 https://www.youtube.com/watch?v=AfJJhh6cjL8&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=10
 
 Offset Entities
+- Allows you to offset entire entities or sketches by a certain amount as a whole
 
 Convert Entities
