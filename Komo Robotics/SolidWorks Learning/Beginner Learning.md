@@ -84,3 +84,10 @@ Centerline
 **Video 6 - Ellipises and Slots**
 https://www.youtube.com/watch?v=2VhpLUDUroU&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=6
 
+**Video 7 - Fillets and Chamfers**
+https://www.youtube.com/watch?v=RsKM71l7lLk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=7
+
+Fillets are curve corners and chamfers are straight edge corners
+
+Fillets
+- You add by selecting 2 entities (lines)
