@@ -65,9 +65,14 @@ Tangent relation
 - Will always be touching at the intersection point through all changes
 
 Equal relation
-- Radius will be the same but center points are free to move
-
+- Radius will be the same but center points are free to movs
 
 **Dimensioning**
 - Gives you straight line measurements, diameter measurements and angles
 - Double click on dimension to edit the dimension
+
+
+**Video 3**
+https://www.youtube.com/watch?v=upOEUGDHhcw&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=3
+
+**Lines and Centerlines**
