@@ -91,3 +91,7 @@ Fillets are curve corners and chamfers are straight edge corners
 
 Fillets
 - You add by selecting 2 entities (lines)
+![[Pasted image 20261015144302.png]]
+
+- Keep constrained corners will make sure fillets don't remove any relations or constraints placed
+- Dimension each fillet allows you to individually dimension each fillet instead of using the same radius for all fillets
