@@ -76,3 +76,7 @@ Equal relation
 https://www.youtube.com/watch?v=upOEUGDHhcw&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=3
 
 **Lines and Centerlines**
+
+Centerline
+- Just a construction line without having to draw a line and then label it "for construction"
+- Can't be used for features (extrude, cut, etc.)
