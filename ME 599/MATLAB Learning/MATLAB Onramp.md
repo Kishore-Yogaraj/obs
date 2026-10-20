@@ -320,3 +320,22 @@ You can also interact with a table directly and re organize the tables by changi
 
 You can use regular array indexing with tables as shown below. Notice that it ends up creating a new table (This gives you all the columns from rows 1 to 3):
 ![[Pasted image 20261020175314.png]]
+
+### Relational Operators
+Relational operators like >, <, == and ~= (not equal to) will return either a 1 (true) or 0 (false)
+
+You can test to see if elements in an array are less than, greater than, equal to or not equal to using relational operators. The result will be an array of the same size with the elements of this array showing true or false
+
+```python
+y = v1 < 4 # v1 is an array
+```
+![[Pasted image 20261020175903.png]]
+
+You can combine relational operators and logical comparisons using the logical operations "&" and "|" (or). Finding values that are greater than 10 and less 20 
+```python
+x = sample > 10 & sample < 20
+```
+
+### Logical Indexing
+You can also using logical operators to do indexing. Lets say you 
+
