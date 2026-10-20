@@ -360,4 +360,21 @@ z = sample(v1 < 6)
 ```
 ![[Pasted image 20261020181411.png]]
 
-You can see above that the 2nd element and the 6th element were both greater than 6 so we extracted the indi
+You can see above that the 2nd element and the 6th element were both greater than 6 so we extracted the indices for those elements from the sample. Index 2 in the sample was 18 and index 6 was 23.
+
+
+Using logical indexing to re assign values in an array. The below line will replace all values less than 4 in the array v1 with 0.
+
+```python
+v1(v1<4) = 0
+```
+
+### Conditionals
+Below is the syntax for if statements:
+```python
+if x < 5
+	y = 5
+else
+	y = 8
+end
+```
