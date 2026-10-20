@@ -105,3 +105,41 @@ Transposing a vector (row vector to column vector and vice versa)
 ```python
 b = b'
 ```
+
+Transposing in a single command
+```python
+c = (5:2:9)'
+```
+
+Creating random matrices (square matrix)
+```python
+x = rand(5)
+# This creates a 5 by 5 random matrix
+```
+
+Create random matrices (rectangular matrix)
+```python
+x = rand(2,3)
+# This creates a matrix with 2 rows and 3 columns
+```
+
+Create matrices of zeros and ones
+```python
+x = ones(6,3)
+z = zeros(6,3)
+# This creates a matrix with 6 rows and 3 columns of ones and zeros
+```
+![[Pasted image 20261020160245.png]]
+
+Checking size of matrix
+```python
+size(x)
+```
+
+Creating random matrix the same size as another matrix
+```python
+rand(size(x))
+```
+
+### Indexing
+Referring to elements in an array is called indexing. Indexing is how you extract and modify ele
