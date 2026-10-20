@@ -142,4 +142,32 @@ rand(size(x))
 ```
 
 ### Indexing
-Referring to elements in an array is called indexing. Indexing is how you extract and modify ele
+Referring to elements in an array is called indexing. Indexing is how you extract and modify elements in an array.
+
+Vectors only need one index in order to extract a value
+```python
+x = [3 7 5]
+x(1) # This will give you 3
+```
+
+Matrices need a row and column value
+```python
+x = [3 7 5;4 6 7]
+y = x(1,2) # This would give you 7
+```
+
+Extracting all row or all column
+```python
+y = x(1,:) # This would give you all the values in row 1
+z = x(:,1) # This would give you all the values in column 1
+```
+
+Extracting last element in vector or matrix
+```python
+a = x(end)
+```
+
+Extracting second to last value in vector or matrix
+```python
+a = x(end-1)
+```
