@@ -19,3 +19,35 @@ save <filename.mat>
 ```
 
 The "clear" command clears your workspace
+
+
+You can load variables into your workspace using:
+```python
+load <filename.mat>
+```
+
+You can type "clc" to clear the command window
+
+
+You can save or load just a couple variables by specifying it in the save and load commands (k is the single variable you want):
+```python
+save <filename k>
+load <filename k>
+```
+
+### Use Built-in Functions and Constants
+Some built in function in MATLAB:
+```python
+pi #pi
+sin() #sin
+sqrt #sqaure root
+```
+
+How to display more decimals
+```python
+format long
+x
+
+form short
+x
+```
