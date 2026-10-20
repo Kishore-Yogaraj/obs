@@ -210,3 +210,20 @@ You can add any two vectors that are the same size
 ```python
 vs = v1 + v2
 ```
+![[Pasted image 20261020163721.png]]
+
+Finding the max value in a vector
+same size
+```python
+vm = max(va)
+```
+![[Pasted image 20261020163858.png]]
+
+Functions like "sqrt" and "round" can be applied to all the elements within a matrix as well
+
+Using the * operator will perform matrix multiplication but matrices of the same size can not be multiplied with matrix multiplication. Instead we use the .* operation which will do element wise multiplication.
+```python
+mass = density .* va
+```
+
+![[Pasted image 20261020164330.png]]
