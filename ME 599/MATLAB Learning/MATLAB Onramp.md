@@ -284,7 +284,14 @@ plot(v1)
 ```
 ![[Pasted image 20261020172642.png]]
 
-You can annotate plots using annotation functions. An example is "title" which adds a title to a plot.
+You can annotate plots using annotation functions. An example is "title" which adds a title to a plot. More examples below:
+
 ```python
-title("En)
+title("Enter a title")
+ylabel("Enter y axis label")
+xlable("Enter x axis label")
+legend("Enter a legend name, Enter a legend name") # Adjust as needed after inputting beacuse it will randomly assing a legend
 ```
+
+
+### Importing Data as a
