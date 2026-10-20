@@ -51,3 +51,8 @@ x
 form short
 x
 ```
+
+### MATLAB Desktop and Editor
+The command window allows you to run single commands one time and is good for quick checks and calculation. Often you will have to run more than one command at a time and do it sequentially. The best way to do this is by starting a "new live script"
+![[Pasted image 20261020153333.png]]
+
