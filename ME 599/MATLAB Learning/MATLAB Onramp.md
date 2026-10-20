@@ -171,3 +171,21 @@ Extracting second to last value in vector or matrix
 ```python
 a = x(end-1)
 ```
+
+You can also used end to extract the end row or end column
+Extracting last element in vector or matrix
+```python
+a = data(end,3) # Will extract the the element in the last row in the 3rd column
+```
+
+You can use variables to index an element
+
+If you use one index to try and grab an element in a matrix it will traverse downwards in column order:
+![[Pasted image 20261020162051.png]]
+
+Selecting the last 2 columns of a matrix
+![[Pasted image 20261020162437.png]]
+
+![[Pasted image 20261020162447.png]]
+
+Picking specific elemetns in 
