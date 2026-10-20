@@ -1,0 +1,21 @@
+### Enter Commands
+This is the command window
+![[Pasted image 20261020150827.png]]
+
+This is the workspace
+![[Pasted image 20261020150845.png]]
+
+Adding a semicolon to the end of a statement means MATLAB will execute the line but it wont show the result immediately
+
+Pressing up allows you to run commands again
+
+Variables in MATLAB
+- Must have letters, numbers, numbers and underscores and is case sensitive
+
+### Saving and Loading Variables
+You can save variables currently in your workspace by typing:
+```python
+save <filename.mat>
+```
+
+The "clear" command clears your workspace
