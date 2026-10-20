@@ -337,5 +337,27 @@ x = sample > 10 & sample < 20
 ```
 
 ### Logical Indexing
-You can also using logical operators to do indexing. Lets say you 
+You can also using logical operators to do indexing. Lets say you have an array and you want to extract all the elements in that array that are greater than 6. You would do the following:
 
+First you create a variable that is the same size as your array of interest and the elements show either 0 or 1 depending on if the element is greater than 6
+![[Pasted image 20261020180736.png]]
+
+```python
+isGreater = v1 > 6
+```
+![[Pasted image 20261020180803.png]]
+
+After this you can create a new variable that extracts the elements that are 1 and it will create a new array
+
+```python
+x = v1(isGreater)
+```
+![[Pasted image 20261020180905.png]]
+
+You can also use indexing with multiple arrays. This one is interesting. Below is an example of how you can create an array that that will contain the elements of one array depending on the index of elements in the second array that follow the logical comparison
+```python
+z = sample(v1 < 6)
+```
+![[Pasted image 20261020181411.png]]
+
+You can see above that the 2nd element and the 6th element were both greater than 6 so we extracted the indi
