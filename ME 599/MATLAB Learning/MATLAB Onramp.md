@@ -246,3 +246,27 @@ Find just how many columns there are in a matrix
 [~, datacol] = size(data)
 ```
 ![[Pasted image 20261020171249.png]]
+
+### Plotting
+Plotting two vectors of the same size against each other
+
+```python
+plot(sample, mass1) #(x-axis, y-axis)
+```
+
+![[Pasted image 20261020171907.png]]
+
+You can specify color and line style using the following:
+```python
+plot(sample, mass2, "r*") # x-axis, y-axis, line style
+```
+
+![[Pasted image 20261020172059.png]]
+
+Creating a plot on top of another plot in the same plot
+```python
+plot(sample, mass1, "r*")
+hold on
+plot(sample, mass2, "ms")
+```
+![[Pasted image 20261020172353.png]]
