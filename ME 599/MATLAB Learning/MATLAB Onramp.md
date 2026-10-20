@@ -56,3 +56,24 @@ x
 The command window allows you to run single commands one time and is good for quick checks and calculation. Often you will have to run more than one command at a time and do it sequentially. The best way to do this is by starting a "new live script"
 ![[Pasted image 20261020153333.png]]
 
+### Vectors and Matrices
+![[Pasted image 20261020154113.png]]
+
+Row Vector
+```python
+x = [7 9]
+# x = [7 9]
+```
+
+Column Vector
+```python
+x = [7;9]
+# x = [7
+#      9]
+```
+
+Combining rows and matrices
+```python
+c = [5 6 7;8 9 10]
+```
+![[Pasted image 20261020154622.png]]
