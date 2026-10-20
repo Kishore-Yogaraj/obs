@@ -227,3 +227,22 @@ mass = density .* va
 ```
 
 ![[Pasted image 20261020164330.png]]
+
+Requesting multiple and individual outputs from function calls
+```python
+[dr, dc] = size(data)
+```
+![[Pasted image 20261020170753.png]]
+
+Finding the max in a vector and the index of the vector
+```python
+[vMax, ivMax] = max(v2)
+```
+
+![[Pasted image 20261020171059.png]]
+
+Find just how many columns there are in a matrix
+```python
+[~, datacol] = size(data)
+```
+![[Pasted image 20261020171249.png]]
