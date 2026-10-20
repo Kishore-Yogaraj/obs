@@ -378,3 +378,11 @@ else
 	y = 8
 end
 ```
+
+Below is the syntax for for loops:
+```python
+for c = 1:3
+	disp(c)
+end
+```
+This code will print c three times
