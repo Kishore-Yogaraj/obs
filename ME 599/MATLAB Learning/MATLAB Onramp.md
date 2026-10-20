@@ -77,3 +77,31 @@ Combining rows and matrices
 c = [5 6 7;8 9 10]
 ```
 ![[Pasted image 20261020154622.png]]
+
+Performing calculations inside arrays and matrices
+```python
+d = [sqrt(10) pi^2]
+```
+
+Creating evenly spaced arrays
+```python
+y = 1:5
+```
+![[Pasted image 20261020155007.png]]
+
+Specifying spacing
+```python
+z = 1:0.5:5
+```
+![[Pasted image 20261020155147.png]]
+
+If you know the number of elements you want in each array instead of spacing you can using the "linspace function"
+```python
+linspace(firstnumber,lastnumber,numberofelements)
+b = linspace(1,10,5)
+```
+
+Transposing a vector (row vector to column vector and vice versa)
+```python
+b = b'
+```
