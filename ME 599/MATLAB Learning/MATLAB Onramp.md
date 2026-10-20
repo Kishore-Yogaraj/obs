@@ -188,4 +188,25 @@ Selecting the last 2 columns of a matrix
 
 ![[Pasted image 20261020162447.png]]
 
-Picking specific elemetns in 
+Picking specific elements in a vector or matrix
+```python
+x = density([1 3 6]) # This would give you the 1st, 4rd and 6th element in a vector or matrix
+```
+
+Changing elements in a matrix
+Picking specific elements in a vector or matrix
+```python
+x(1) = x(2) # Changes the first element in the matrix to be the second element in the matrix
+```
+
+You can apply mathematical operations to all elements within a matrix
+Picking specific elements in a vector or matrix
+```python
+r = v1 + 1
+```
+![[Pasted image 20261020163608.png]]
+
+You can add any two vectors that are the same size
+```python
+vs = v1 + v2
+```
