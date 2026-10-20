@@ -256,7 +256,7 @@ plot(sample, mass1) #(x-axis, y-axis)
 
 ![[Pasted image 20261020171907.png]]
 
-You can specify color and line style using the following:
+You can specify color and line style using the following (refer to line styles for different ways to make plots):
 ```python
 plot(sample, mass2, "r*") # x-axis, y-axis, line style
 ```
@@ -270,3 +270,21 @@ hold on
 plot(sample, mass2, "ms")
 ```
 ![[Pasted image 20261020172353.png]]
+
+While hold is on, all plots created with be laid on top of one another. Make sure to type in hold off if you want plots to not be laid on top of one another.
+
+```python
+hold off
+```
+
+When plotting a single vector, MATLAB will use the vector values as the y axis and the indices as the x axis
+
+```python
+plot(v1)
+```
+![[Pasted image 20261020172642.png]]
+
+You can annotate plots using annotation functions. An example is "title" which adds a title to a plot.
+```python
+title("En)
+```
