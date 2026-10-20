@@ -294,4 +294,29 @@ legend("Enter a legend name, Enter a legend name") # Adjust as needed after inpu
 ```
 
 
-### Importing Data as a
+### Working with Imported Data
+
+To assign data from a table into a variable we do the following
+```python
+#An Example
+var = tableName.variableName
+
+d = elements.density
+```
+![[Pasted image 20261020174644.png]]
+
+You can also add values to an existing table so that you can keep all the data in the same place
+
+```python
+elements.Mass = elements.density .* elements.Volume1
+```
+
+Below is the below and after of the tables
+![[Pasted image 20261020174932.png]]
+![[Pasted image 20261020174939.png]]
+
+You can also interact with a table directly and re organize the tables by changing the way its sorted by clicking the mass drop down
+![[Pasted image 20261020175113.png]]
+
+You can use regular array indexing with tables as shown below. Notice that it ends up creating a new table (This gives you all the columns from rows 1 to 3):
+![[Pasted image 20261020175314.png]]
