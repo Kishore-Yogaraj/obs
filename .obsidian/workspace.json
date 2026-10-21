@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 599/MATLAB Learning/MATLAB Onramp.md",
+                "file": "ME 599/MATLAB Learning/Simulink Onramp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MATLAB Onramp"
+              "title": "Simulink Onramp"
             }
           },
           {
@@ -231,6 +231,8 @@
   },
   "active": "66760b615697825d",
   "lastOpenFiles": [
+    "ME 599/MATLAB Learning/MATLAB Onramp.md",
+    "ME 599/MATLAB Learning/Simulink Onramp.md",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020181411.png",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020180905.png",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020180803.png",
@@ -241,10 +243,8 @@
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020174939.png",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020174932.png",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261020174644.png",
-    "ME 599/MATLAB Learning/attachments/Pasted image 20261020172642.png",
     "ME 599/MATLAB Learning/attachments",
     "ME 599/MATLAB Learning.md",
-    "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "Solid Works/Solid Works Tutorial 1.md",
