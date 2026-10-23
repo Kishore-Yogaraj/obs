@@ -10,9 +10,6 @@
 	- Faces
 - So whenever we refer to entities we just mean any geometric thing we threw into the model that we're going to use for a function like mirror entities
 
-
-
-
 **Video 1**
 https://www.youtube.com/watch?v=atLRraBiVXI&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S
 - Ctrl + middle scroll wheel will pan 
@@ -198,6 +195,22 @@ C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\
 - Tangent is just a relation that you can create it doesn't mean you have to use the tangent arc creation tool
 - Sketching is just a means to get the shape you want
 
-
-
 ![[Pasted image 20261023174253.png]]
+
+
+
+### Chapter 2
+**Video 15 - What is design intent**
+https://www.youtube.com/watch?v=dCVD3hh0p-s&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=15
+This video is just about thinking about how you're going to sketch a part before you actually sketch it
+- Where the origin is going to be
+- What entities you should use
+- What feature tools will be use and what order that will be in 
+- What design changes will be made in the future and how will you make changes after this
+- What is the most efficient and effective way to make a part
+
+Getting good at design intent comes from experience 
+
+
+**Video 16 - Feature End Conditions**
+https://www.youtube.com/watch?v=BdkBCx56das&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=16
