@@ -186,3 +186,6 @@ Fully defining a sketch is best practice because it makes it so that you can cre
 
 **Video 14 - Final Sketching Exercise**
 https://www.youtube.com/watch?v=uRjv0BMbHxk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=14
+
+Here is the folder everything backs up to
+C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\swxauto2025
