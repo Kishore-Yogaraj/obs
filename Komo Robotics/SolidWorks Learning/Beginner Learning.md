@@ -1,10 +1,14 @@
 ### Chapter 1: 
 ##### Question Bank
-What is an entity in solid works?
+**What is an entity in solid works?**
 - Entities just refer to a geometric building block that you use to create sketches or models
 - Sketch entities
-	- Lin
-
+	- Lines, arcs, circles, points, centerlines, slots, etc.
+- Geometric entities (3D)
+	- Vertices 
+	- Edges
+	- Faces
+- So whenever we refer to entities we just mean any geometric thing we threw into the model that we're going to use for a function like mirror entities
 
 
 
