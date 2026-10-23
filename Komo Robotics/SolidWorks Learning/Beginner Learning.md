@@ -190,6 +190,14 @@ https://www.youtube.com/watch?v=uRjv0BMbHxk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_
 Here is the folder everything backs up to
 C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\
 
-You can create an arc in a sketch by clicking the line tool then clicking a point you want to start your line at and then you extend the line by hovering your mouse and the hover the mouse back to the point you started your line and then hover away and you will see an arc form
+**Tips**
+- You can create an arc in a sketch by clicking the line tool then clicking a point you want to start your line at and then you extend the line by hovering your mouse and the hover the mouse back to the point you started your line and then hover away and you will see an arc form
+- Do sketch relations first them dimensions later
+	- In some cases you have to put the dimension in first
+	- Whatever gets you to where you need to be
+- Tangent is just a relation that you can create it doesn't mean you have to use the tangent arc creation tool
+- Sketching is just a means to get the shape you want
+
+
 
 ![[Pasted image 20261023174253.png]]
