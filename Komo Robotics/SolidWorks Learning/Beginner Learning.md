@@ -188,4 +188,8 @@ Fully defining a sketch is best practice because it makes it so that you can cre
 https://www.youtube.com/watch?v=uRjv0BMbHxk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=14
 
 Here is the folder everything backs up to
-C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\swxauto2025
+C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\
+
+You can create an arc in a sketch by clicking the line tool then clicking a point you want to start your line at and then you extend the line by hovering your mouse and the hover the mouse back to the point you started your line and then hover away and you will see an arc form
+
+![[Pasted image 20261023174253.png]]
