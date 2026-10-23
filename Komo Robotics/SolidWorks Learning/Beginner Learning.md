@@ -1,4 +1,14 @@
-### Chapter 1: Sketching
+### Chapter 1: 
+##### Question Bank
+What is an entity in solid works?
+- Entities just refer to a geometric building block that you use to create sketches or models
+- Sketch entities
+	- Lin
+
+
+
+
+
 **Video 1**
 https://www.youtube.com/watch?v=atLRraBiVXI&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S
 - Ctrl + middle scroll wheel will pan 
@@ -66,7 +76,7 @@ Tangent relation
 - Will always be touching at the intersection point through all changes
 
 Equal relation
-- Radius will be the same but center points are free to movs
+- Radius will be the same but center points are free to move
 
 **Dimensioning**
 - Gives you straight line measurements, diameter measurements and angles
@@ -165,3 +175,6 @@ Fully defined
 - Lines are black
 
 Fully defining a sketch is best practice because it makes it so that you can create features without having to worry about issues with geometry 
+
+**Video 14 - Final Sketching Exercise**
+https://www.youtube.com/watch?v=uRjv0BMbHxk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=14
