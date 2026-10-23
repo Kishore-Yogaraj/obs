@@ -142,6 +142,10 @@ Contours
 - Allows us to select specific regions in a sketch which we can then use to make features of this region
 - The major advantage with this feature is that you can use one sketch for multiple 3D features instead of having to make 2 separate sketches with two separate features
 	- If you did the ladder you would have to go to one sketch, edit it then go to the second sketch and edit it whereas with the contour select you can edit all features within one sketch 
+	![[Pasted image 20261023154418.png]]
+
+This means that sketch 2 is a shared sketch amongst multiple features. So one sketch is used for two different features
+
 
 **Video 12 - Global Variables and Equations**
 Used to create mathematical relations between dimensions
