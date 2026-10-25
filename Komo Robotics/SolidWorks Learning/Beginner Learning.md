@@ -477,3 +477,6 @@ As a not remember that the **covert entities** tool will project existing 3D mod
 - Use convert entities to get a sketch of  the edge of the 3D geometry 
 - Go to features and click curve driven pattern 
 - After this you apply the pattern like you would for any of the other patterns
+
+**Video 27 - Fill Pattern Tool**
+https://www.youtube.com/watch?v=1GVLeS8uZXE&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=27
