@@ -453,4 +453,10 @@ Sketch driven pattern:
 This allows you to draw patterns given a sketch that you draw instead of it being a repeated linear or circular pattern so it can be random
 
 To do this you do the following:
-- 
+- Draw a construction line
+- Draw points of where you want your feature to appear
+- Select the sketch you want to use after clicking the sketch pattern
+- Then click the feature you want to copy and make a pattern for and it will copy over the points
+
+Table driven pattern:
+This is another good tool to use if you want to place the same features in random spots 
