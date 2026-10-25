@@ -445,3 +445,12 @@ Toggling this will enable if you copy just the geometry or the geometry and the 
 
 You can use the body to mirror option if you want to mirror the entire body instead of just some of the features
 - Remember that once you mirror a feature, the original feature can be modified and it will propagate to all other features that were mirrored
+
+**Video 25 - Sketch and Table Driven Patterns**
+https://www.youtube.com/watch?v=t9rZ4dToZG4&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=25
+
+Sketch driven pattern:
+This allows you to draw patterns given a sketch that you draw instead of it being a repeated linear or circular pattern so it can be random
+
+To do this you do the following:
+- 
