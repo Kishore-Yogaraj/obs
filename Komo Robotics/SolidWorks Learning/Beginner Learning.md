@@ -272,4 +272,9 @@ Two most common types of extrusions
 - Extrusions are used to create 3D geometry from a 2D sketch
 
 Extruded Boss
-- Used to add material by taking a 2D sketch and extending it in the path perpendicular to the ske
+- Used to add material by taking a 2D sketch and extending it in the path perpendicular to the sketch 
+
+Extruded cut
+- Used to remove material by extending a cut through the path perpendicular to the sketch profile
+
+
