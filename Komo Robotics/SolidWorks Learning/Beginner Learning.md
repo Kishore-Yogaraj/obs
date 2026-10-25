@@ -308,4 +308,16 @@ Concentric
 https://www.youtube.com/watch?v=lOaP4yCa3f4&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=19
 
 Revolve feature
-- Same as extruded feature but instead of using a linear path that's perpendicular to the sketch profile it uses a circular path about an 
+- Same as extruded feature but instead of using a linear path that's perpendicular to the sketch profile it uses a circular path about an axis
+- Revolves require axis symmetry geometry and an axis to be referenced as the sketch 
+
+Create a diameter dimension
+- Select two lines for dimensioning and then go to the other side
+
+![[Pasted image 20261025143119.png]]
+
+![[Pasted image 20261025143106.png]]
+
+Revolved Boss Base
+![[Pasted image 20261025143449.png]]
+
