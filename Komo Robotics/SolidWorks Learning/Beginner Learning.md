@@ -249,3 +249,13 @@ How to add a feature
 Cutting from a surface/plane
 - This will make the cut that you picked and start it from a surface that you select instead of from the cut location
 ![[Pasted image 20261025130420.png]]
+
+
+
+Making a circular cut
+- We're going to make a cut that ends on the angled face of the block 
+- We're going to use the **up to next** end condition to do this
+- When we make the circular cut, we don't want the cut going through any existing geometry so instead we can say up to next and the cut will only go up to the next detected face
+![[Pasted image 20261025131359.png]]
+
+Making an **angled cut**
