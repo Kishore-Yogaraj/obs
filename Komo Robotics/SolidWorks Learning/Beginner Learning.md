@@ -321,3 +321,20 @@ Create a diameter dimension
 Revolved Boss Base
 ![[Pasted image 20261025143449.png]]
 
+Revolved cut
+![[Pasted image 20261025154532.png]]
+
+Making a revolved cut
+![[Pasted image 20261025154742.png]]
+
+We drew a rectangle that covered the part of the revolved cut that we want to remove. The width of the rectangle becomes the depth of the cut we want
+
+![[Pasted image 20261025154855.png]]
+
+Cross sections:
+![[Pasted image 20261025154955.png]]
+
+
+**Video 20 - Fillets and Chamfers**
+https://www.youtube.com/watch?v=YP8Kx50he3g&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=20
+
