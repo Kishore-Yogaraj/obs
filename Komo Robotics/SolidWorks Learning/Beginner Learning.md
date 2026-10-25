@@ -292,3 +292,20 @@ The blue line at the bottom is the roll back bar and it takes you back through t
 ![[Pasted image 20261025141252.png]]
 
 Parent feature
+- A feature that depends upon other features in order to be defined
+
+Child feature
+- Existing feature that depends on an existing parent feature
+
+![[Pasted image 20261025141758.png]]
+
+This tells us that the shell feature is dependent on the three features listed below it. You can access this by right clicking on the feature in the feature menu and clicking parent child
+
+Concentric
+- Makes sure that two circles are always aligned by their center points
+
+**Video 19 - Revolve Feature**
+https://www.youtube.com/watch?v=lOaP4yCa3f4&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=19
+
+Revolve feature
+- Same as extruded feature but instead of using a linear path that's perpendicular to the sketch profile it uses a circular path about an 
