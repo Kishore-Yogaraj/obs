@@ -258,4 +258,18 @@ Making a circular cut
 - When we make the circular cut, we don't want the cut going through any existing geometry so instead we can say up to next and the cut will only go up to the next detected face
 ![[Pasted image 20261025131359.png]]
 
-Making an **angled cut**
+**Through all end condition**
+- This will make sure that no matter how the block changes in height the cut will always go through the entire block
+
+**Through all both**
+- Will cut through both directions all the way through for infinity without depending on the height of the block
+
+
+
+**Video 17 - Extrude Boss and Extrude Cut**
+https://www.youtube.com/watch?v=D5LgocNY7fo&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=17
+Two most common types of extrusions
+- Extrusions are used to create 3D geometry from a 2D sketch
+
+Extruded Boss
+- Used to add material by taking a 2D sketch and extending it in the path perpendicular to the ske
