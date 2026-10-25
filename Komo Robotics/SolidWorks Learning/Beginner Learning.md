@@ -431,3 +431,13 @@ Allows you to replicate geometry about a plane or planar face
 
 Mirror Tool
 ![[Pasted image 20261025174550.png]]
+
+First step is to select the plane you want to use as your mirror
+
+Second step is to click the features you want to mirror over the plane
+- You can use the tree on the side to select or you can click the feature itself too
+
+You can also create your own custom plane if needed to mirror over
+
+The mirror feature will mirror the feature as well 
+
