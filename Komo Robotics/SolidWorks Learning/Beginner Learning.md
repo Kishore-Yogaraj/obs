@@ -393,3 +393,21 @@ This means that the distance between each copy will increase by 10 mm along the 
 You can also vary the dimensions of the feature by clicking on the dimension assigned to them and have them increase or decrease gradually
 ![[Pasted image 20261025172221.png]]
 
+Here's the result
+![[Pasted image 20261025172356.png]]
+
+Summary on how to use linear patterns:
+- Click on linear pattern in the features tab
+- Click direction 1 to determine in which direction you want the features to copy over by
+- Select if you want the features to copy by spacing and instances or up to a reference
+- Go to features and faces and click on the feature you want to copy 
+- You can select a second direction to copy in as well
+- You can select pattern seed only if you only want to copy the seed geometry in a different direction and not everything
+- You can select instances to skip if you want to create your own patterns
+- You can select instances to vary if you want to vary the spacing between each instance or vary the dimensions of each instance (making the instance bigger or smaller)
+
+**Video 23 - Circular Pattern Feature**
+Circular pattern tool
+- Used to create a pattern in a circular fashion about an axis
+![[Pasted image 20261025173252.png]]
+
