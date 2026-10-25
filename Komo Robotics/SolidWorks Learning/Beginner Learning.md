@@ -351,3 +351,6 @@ Some general rules for fillets and chamfers
 https://www.youtube.com/watch?v=yU--k49CvVM&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=21
 
 Fast and easy tool used to create many different types of holes
+
+**Video 22 - Linear Pattern Tool**
+https://www.youtube.com/watch?v=NRU2xCRm-u8&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=
