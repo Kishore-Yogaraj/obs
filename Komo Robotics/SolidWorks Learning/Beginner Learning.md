@@ -361,4 +361,16 @@ Allow you to replicate geometry in a linear fashion
 The copies are referred to as instances and are based on the original geometry which is called the seed
 - If the seed changes its geometry than the instances will also change
 
-Linea
+Where to access the linear pattern feature:
+![[Pasted image 20261025170339.png]]
+
+Direction 1:
+You can select an line or an edge to indicate which direction you want the pattern to travel in
+
+Features and Faces:
+You can select features or faces in this tab to determine what exactly you want to create a pattern of
+
+Pattern seed only:
+![[Pasted image 20261025171223.png]]
+
+Checking this box tells solid works if you want to copy the patterns you already created or if you only want to pattern the seed
