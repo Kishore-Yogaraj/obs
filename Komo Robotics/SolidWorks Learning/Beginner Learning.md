@@ -338,3 +338,11 @@ Cross sections:
 **Video 20 - Fillets and Chamfers**
 https://www.youtube.com/watch?v=YP8Kx50he3g&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=20
 
+Fillets provide rounded edges
+Chamfers provide angled edges
+
+Some general rules for fillets and chamfers
+- Leave cosmetic fillets until the end of the modelling process
+- Create multiple fillets in the same command if they have the same radii
+- If you need fillets with different radiuses its best to create fillets with largest radius
+- Order in which you create fillets is important because it creates surface faces
