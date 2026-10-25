@@ -459,4 +459,15 @@ To do this you do the following:
 - Then click the feature you want to copy and make a pattern for and it will copy over the points
 
 Table driven pattern:
-This is another good tool to use if you want to place the same features in random spots 
+This is another good tool to use if you want to place the same features in random spots rather than have the pattern be repeated a set amount by a set distance like the linear and the circular patterns allow for.
+
+To do this you do the following:
+- Insert a coordinate system
+- Add a table driven pattern using the linear pattern drop down
+- Select the feature, face, or body you want to use 
+- Select the coordinate system
+- Input values where you want your features to end up as if you were working with a coordinate system
+
+**Video 26 - Curve drive pattern**
+https://www.youtube.com/watch?v=CK03fJSf7uk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=26
+
