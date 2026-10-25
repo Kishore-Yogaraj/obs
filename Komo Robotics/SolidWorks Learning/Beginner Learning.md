@@ -441,3 +441,7 @@ You can also create your own custom plane if needed to mirror over
 
 The mirror feature will mirror the feature as well 
 
+Toggling this will enable if you copy just the geometry or the geometry and the end conditions
+
+You can use the body to mirror option if you want to mirror the entire body instead of just some of the features
+- Remember that once you mirror a feature, the original feature can be modified and it will propagate to all other features that were mirrored
