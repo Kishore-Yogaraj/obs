@@ -200,6 +200,14 @@ C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\
 
 
 ### Chapter 2
+
+##### Question Bank
+**What does blind mean when adding an extruded cut or extruded boss/base in a feature**
+- To make this cut using the blind end condition, you will determine a fixed measurement or depth that the cut or boss/base will be extruded to
+
+
+
+
 **Video 15 - What is design intent**
 https://www.youtube.com/watch?v=dCVD3hh0p-s&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=15
 This video is just about thinking about how you're going to sketch a part before you actually sketch it
@@ -230,8 +238,14 @@ Types of end conditions defined by geometry
 	- Requires distance to know how far away from the surface the feature should be
 - Up to body
 
-
-
 Extruded Boss Base Using Midplane End Condition
 - Does not need existing geometry to do so
-- 
+- It will basically extrude a sketch a specified distance equally about the plane that you suggested
+
+How to add a feature
+- Select the sketch and the click the features tab
+
+
+Cutting from a surface/plane
+- This will make the cut that you picked and start it from a surface that you select instead of from the cut location
+![[Pasted image 20261025130420.png]]
