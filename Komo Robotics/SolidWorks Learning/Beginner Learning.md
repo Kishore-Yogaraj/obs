@@ -374,3 +374,22 @@ Pattern seed only:
 ![[Pasted image 20261025171223.png]]
 
 Checking this box tells solid works if you want to copy the patterns you already created or if you only want to pattern the seed
+
+Instances to skip:
+![[Pasted image 20261025171356.png]]
+
+Allows you to select specific copies and delete them from pattern
+
+Click on the linear pattern in the tree it'll show you which feature is the seed geometry
+![[Pasted image 20261025171541.png]]
+
+Instance to vary linear pattern feature:
+![[Pasted image 20261025171917.png]]
+
+![[Pasted image 20261025171929.png]]
+
+This means that the distance between each copy will increase by 10 mm along the direction line you selected
+
+You can also vary the dimensions of the feature by clicking on the dimension assigned to them and have them increase or decrease gradually
+![[Pasted image 20261025172221.png]]
+
