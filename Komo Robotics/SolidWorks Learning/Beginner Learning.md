@@ -277,4 +277,11 @@ Extruded Boss
 Extruded cut
 - Used to remove material by extending a cut through the path perpendicular to the sketch profile
 
+Co radial relationship
+- Just making sure that two circles are always touching and their radii are always the same
+
+Thin feature
+- This is good for creating things like tubes
+- If you were to make a tube you might do two circles with a smaller one within a larger one and then extrude both circles to give it a thickness
+- Thin feature allows you to add this thickness on a 2d sketch with one circl
 
