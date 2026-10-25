@@ -354,3 +354,11 @@ Fast and easy tool used to create many different types of holes
 
 **Video 22 - Linear Pattern Tool**
 https://www.youtube.com/watch?v=NRU2xCRm-u8&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=
+
+Allow you to replicate geometry in a linear fashion
+- You can do it a single direction or two separate directions
+
+The copies are referred to as instances and are based on the original geometry which is called the seed
+- If the seed changes its geometry than the instances will also change
+
+Linea
