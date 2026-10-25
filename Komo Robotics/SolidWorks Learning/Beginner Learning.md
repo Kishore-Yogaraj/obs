@@ -214,3 +214,24 @@ Getting good at design intent comes from experience
 
 **Video 16 - Feature End Conditions**
 https://www.youtube.com/watch?v=BdkBCx56das&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=16
+
+End conditions can be set by a specified distance or by using existing 3D geometry
+
+Types of end conditions defined by distance
+- Blind (defined by set distance away from sketch plane)
+- Through all (continues through the entire shape)
+- Mid plane (defined by set distance away from sketch plane)
+
+Types of end conditions defined by geometry
+- Up to next
+- Up to vertex
+- Up to surface
+- Offset by surface
+	- Requires distance to know how far away from the surface the feature should be
+- Up to body
+
+
+
+Extruded Boss Base Using Midplane End Condition
+- Does not need existing geometry to do so
+- 
