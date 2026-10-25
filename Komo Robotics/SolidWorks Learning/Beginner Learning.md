@@ -422,4 +422,12 @@ In situations where you don't have a reference point to draw a circular pattern 
 - Then click origin in the design tree and you'll see an axis form 
 - This axis is also what you'll use to determine the direction you want the pattern to move in 
 
-**Video 3**
+**Video 24 - Mirror Feature**
+https://www.youtube.com/watch?v=OQgtM7Pc4pA&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=24
+
+Allows you to replicate geometry about a plane or planar face
+- If you have a symmetric design then you can copy it over and move it to the other side 
+
+
+Mirror Tool
+![[Pasted image 20261025174550.png]]
