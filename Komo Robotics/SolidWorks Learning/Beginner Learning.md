@@ -283,5 +283,12 @@ Co radial relationship
 Thin feature
 - This is good for creating things like tubes
 - If you were to make a tube you might do two circles with a smaller one within a larger one and then extrude both circles to give it a thickness
-- Thin feature allows you to add this thickness on a 2d sketch with one circl
+- Thin feature allows you to add this thickness on a 2d sketch with one circle
 
+**Video 18 - Editing Parts**
+https://www.youtube.com/watch?v=w2j3VMg1CAg&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=18
+
+The blue line at the bottom is the roll back bar and it takes you back through time to see how the part was made from start to end
+![[Pasted image 20261025141252.png]]
+
+Parent feature
