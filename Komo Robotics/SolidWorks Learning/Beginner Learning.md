@@ -411,3 +411,15 @@ Circular pattern tool
 - Used to create a pattern in a circular fashion about an axis
 ![[Pasted image 20261025173252.png]]
 
+Nothing really crazy to it, its the same as linear pattern and pretty intuitive
+- As a not its easier to select features you want a pattern of from the tree instead of selection on the geometry itself
+
+
+Creating an axis:
+In situations where you don't have a reference point to draw a circular pattern around you can create an axis as the reference point of which you will draw the pattern around.
+- Click reference geometry
+- Then click axis
+- Then click origin in the design tree and you'll see an axis form 
+- This axis is also what you'll use to determine the direction you want the pattern to move in 
+
+**Video 3**
