@@ -468,6 +468,12 @@ To do this you do the following:
 - Select the coordinate system
 - Input values where you want your features to end up as if you were working with a coordinate system
 
-**Video 26 - Curve drive pattern**
+**Video 26 - Curve driven pattern**
 https://www.youtube.com/watch?v=CK03fJSf7uk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=26
 
+How to use curve driven patterns:
+As a not remember that the **covert entities** tool will project existing 3D model edges, faces, curves or 2D sketches onto the active sketch plane
+
+- Use convert entities to get a sketch of  the edge of the 3D geometry 
+- Go to features and click curve driven pattern 
+- After this you apply the pattern like you would for any of the other patterns
