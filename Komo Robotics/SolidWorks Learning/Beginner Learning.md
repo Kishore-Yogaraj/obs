@@ -480,3 +480,23 @@ As a not remember that the **covert entities** tool will project existing 3D mod
 
 **Video 27 - Fill Pattern Tool**
 https://www.youtube.com/watch?v=1GVLeS8uZXE&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=27
+
+What is the fill pattern tool:
+The fill pattern tool allows you to use existing features or pre defined shapes to fill a boundary area
+
+Where is the fill pattern tool:
+![[Pasted image 20261025195836.png]]
+
+Property manager functions after selection fill pattern:
+
+![[Pasted image 20261025195916.png]]
+
+This is going to be the area where you want the fill pattern to be. It can be a sketch, a face or multiple faces as long as they are co planar.
+
+![[Pasted image 20261025200121.png]]
+
+The features and faces tab is where you select which faces or features you want to use to fill the boundary.
+
+Selected feature means it'll use the sketch that you created. 
+
+Create seed cut will give you some options of predefined shapes you can use to fi
