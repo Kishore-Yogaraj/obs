@@ -499,4 +499,14 @@ The features and faces tab is where you select which faces or features you want 
 
 Selected feature means it'll use the sketch that you created. 
 
-Create seed cut will give you some options of predefined shapes you can use to fi
+Create seed cut will give you some options of predefined shapes you can use to fill the boundary.
+![[Pasted image 20261025200252.png]]
+
+
+The pattern layout is used to organize how you want the fill to be organized on the selected boundary
+![[Pasted image 20261025200807.png]]
+
+They do this in the following order from top to bottom:
+- Spacing between different holes
+- Degree of offset diagonally between holes
+- Spacing away from the edge of the part
