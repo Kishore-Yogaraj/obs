@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -230,6 +231,7 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "ME 599/MATLAB Learning/attachments/Pasted image 20261026175213.png",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "Komo Robotics/Discovery Calls.md",
     "ME 599/MATLAB Learning/Stateflow Onramp.md",
@@ -274,7 +276,6 @@
     "Questions for Captains Meeting.md",
     "Questions for Ashwin.md",
     "Quartz.md",
-    "Python Libraries.md",
     "RoboHax Prize Sponsors Email"
   ]
 }
