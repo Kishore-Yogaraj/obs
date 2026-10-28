@@ -23,3 +23,13 @@ Instead, **state flow** allows you to model state machines as you would on a whi
 
 glpat-9UpVUPfFElhB4hOifK-PJ286MQp1Omhpdgk.01.0z033vm50
 
+Next steps:
+- Make a branch
+	- PSC_599_Kishore
+- Work is going to live in the controllers box
+- Preserve the existing controller structure
+- Convert to variant subsystem
+- Start project with matlab.toml
+- Open model with the shortcut at the top
+- All the work we need to will be in the "controller" block
+- Group assigned to modifying vehicle plant model
