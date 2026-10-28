@@ -20,3 +20,5 @@ Above is **state transition diagram**.
 You could translate your state transition diagram into code but that becomes unmanageable pretty quickly.
 
 Instead, **state flow** allows you to model state machines as you would on a white board diagram
+
+glpat-9UpVUPfFElhB4hOifK-PJ286MQp1Omhpdgk.01.0z033vm50
