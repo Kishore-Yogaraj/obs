@@ -653,3 +653,6 @@ To make a mate, select the face of one of your parts and the the face of the oth
 
 The two arrows button will flip the mate around
 ![[Pasted image 20261029154502.png]]
+
+Because the wheel was the first component we added in it is fixed and we can't move it like how its supposed to. This means we have to add some additional constraints.
+- To do this what we did was mate the original planes in the assembly file with the planes from the plate part so that they would lock together and constrict its movement
