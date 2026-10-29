@@ -607,3 +607,6 @@ Bottom Up Assembly
 Top Down Assembly
 - All parts are created in the assembly file itself
 
+Creating an assembly
+- You can click file and then new and then you'll get a pop up that will allow you to select assembly
+![[Pasted image 20261029151356.png]]
