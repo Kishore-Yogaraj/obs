@@ -553,4 +553,12 @@ Double clicking will allow you to switch between configurations
 When changing a dimension you can select which configuration its going to apply to
 ![[Pasted image 20261029131801.png]]
 
-If you right click on a feature in the feature manager you should get an option to suppress 
+If you right click on a feature in the feature manager you should get an option to suppress a feature which will effectively hide the features
+
+You can right click on a feature in the feature manager and also click something called configure feature which will allow you to to suppress whatever you suppressed in the current feature to other configurations you have
+![[Pasted image 20261029133102.png]]
+
+In this case in the no holes configuration we suppressed the the cut extrude feature and if we click the check boxes for the other configurations it will also apply the same suppression.
+
+**Video 31 - Part Design Tables**
+https://www.youtube.com/watch?v=hVW0rUWOr0M&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=31
