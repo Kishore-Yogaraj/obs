@@ -562,3 +562,11 @@ In this case in the no holes configuration we suppressed the the cut extrude fea
 
 **Video 31 - Part Design Tables**
 https://www.youtube.com/watch?v=hVW0rUWOr0M&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=31
+
+What are Part Design Tables
+- They are embedded Microsoft excel spreadsheets used to automatically generate and manage multiple configurations of a part or assembly within a single file
+- You can control feature dimensions, sketch relations, suppression states, materials and equations
+
+How to create a design table
+![[Pasted image 20261029134629.png]]
+
