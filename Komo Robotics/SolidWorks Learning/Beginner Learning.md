@@ -577,3 +577,13 @@ If you ever click of your design table you can access it again by clicking in th
 ![[Pasted image 20261029140145.png]]
 
 You can also add dimensions to the design table by clicking the next empty cell and the double clicking on a dimension
+
+The main use for design tables is to make multiple configurations of one part so that you don't need one file for each one of the parts especially when only a couple of dimensions are being changed.
+
+This is good for when you get the CAD model of your aluminum extrusion and you want to modify it to different cut lengths for the different parts of the chassis.
+
+
+### Chapter 3: Assemblies
+
+**Video 32 - Points, Axes and Coordinate Systems**
+https://www.youtube.com/watch?v=9WqPPt4QEzk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=32
