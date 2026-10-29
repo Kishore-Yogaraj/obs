@@ -587,3 +587,12 @@ This is good for when you get the CAD model of your aluminum extrusion and you w
 
 **Video 32 - Points, Axes and Coordinate Systems**
 https://www.youtube.com/watch?v=9WqPPt4QEzk&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=32
+
+Reference geometry
+- Soildworks provides reference geometries to help with the creation of sketches, features and 3D geometries
+- Reference geometries are things like planes, points, axes, the origin, etc.
+- Reference geometries updates with the points its linked to
+
+Finding the reference geometry tab in an assembly
+![[Pasted image 20261029145346.png]]
+
