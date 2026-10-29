@@ -570,3 +570,5 @@ What are Part Design Tables
 How to create a design table
 ![[Pasted image 20261029134629.png]]
 
+To add a new feature to control with the design table you click the next free column and then double click on the feature you want to control with the design table in the feature manager
+![[Pasted image 20261029135318.png]]
