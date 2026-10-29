@@ -628,4 +628,19 @@ You can go to insert components in from the assembly tab and the click browse to
 
 
 Rotating and moving components in the assembly
-- Right clicking and moving a component will actually rotate the component 
+- Right clicking and moving a component will rotate the component
+- Left clicking and moving a component will move the component
+
+You can click the assembly tab and then the move component tab and this will give you specific options on how to move a part
+![[Pasted image 20261029152753.png]]
+
+If you right click on the part and click move with triad you get more precise control over the part and how it moves
+![[Pasted image 20261029152918.png]]
+
+Mates will determine the degrees of freedom a part has in an assembly and its exact position and location in reference to another part, point or axis
+
+If you need multiple of the same parts in one assembly you can click control and then click and drag the part you want from your feature manager
+![[Pasted image 20261029153324.png]]
+
+Mates
+- You can think of mates as the glue between parts and what's responsible for holding the parts together
