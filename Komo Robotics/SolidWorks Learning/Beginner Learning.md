@@ -549,3 +549,8 @@ You can do things such as:
 ![[Pasted image 20261029131616.png]]
 
 Double clicking will allow you to switch between configurations
+
+When changing a dimension you can select which configuration its going to apply to
+![[Pasted image 20261029131801.png]]
+
+If you right click on a feature in the feature manager you should get an option to suppress 
