@@ -644,3 +644,11 @@ If you need multiple of the same parts in one assembly you can click control and
 
 Mates
 - You can think of mates as the glue between parts and what's responsible for holding the parts together
+
+To access the mates tab you click the assembly tab and then click the mates tab
+![[Pasted image 20261029153522.png]]
+
+To make a mate, select the face of one of your parts and the the face of the other and solid works will attempt to make the mate that makes the most sense. In this case we selected to circular entities so it tried to make the concentric mate
+![[Pasted image 20261029154050.png]]
+
+The two arrows button will flip the mate around
