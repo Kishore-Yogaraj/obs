@@ -596,3 +596,14 @@ Reference geometry
 Finding the reference geometry tab in an assembly
 ![[Pasted image 20261029145346.png]]
 
+This lesson wasn't that useful for me right now. I don't really see how I can use anything that he showed us. He just kind of went through a tutorial of how to use some of the features that the reference geometry enables. Probably more useful in the upcoming lessons about assemblies.
+
+**Video 33 - Bottom Up Assembly**
+https://www.youtube.com/watch?v=OaTo_UELqeA&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=33
+
+Bottom Up Assembly
+- In this approach what happens is that all the parts are created individually first in their own files and then an assembly file is created where all the parts are put together into the assembly file and then they are constrained using something called mates
+
+Top Down Assembly
+- All parts are created in the assembly file itself
+
