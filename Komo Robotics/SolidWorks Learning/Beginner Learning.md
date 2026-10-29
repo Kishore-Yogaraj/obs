@@ -610,3 +610,22 @@ Top Down Assembly
 Creating an assembly
 - You can click file and then new and then you'll get a pop up that will allow you to select assembly
 ![[Pasted image 20261029151356.png]]
+
+Changing units in your assembly (because sometimes your part might be in a different unit than the assembly)
+
+Go to the gear icon on the top, then click options, then go to document properties then go to units and then select the unit system you want to use
+![[Pasted image 20261029151522.png]]
+
+The first part will be locked once you place it in the assembly. If you want to move around you can right click on the assembly and click float to move it around
+
+
+Adding new components
+- They are set to float by default
+
+![[Pasted image 20261029152229.png]]
+
+You can go to insert components in from the assembly tab and the click browse to browse your documents and then insert the components you want in the assembly file
+
+
+Rotating and moving components in the assembly
+- Right clicking and moving a component will actually rotate the component 
