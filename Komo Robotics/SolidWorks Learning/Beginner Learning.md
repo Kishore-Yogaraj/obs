@@ -508,3 +508,9 @@ They do this in the following order from top to bottom:
 - Spacing between different holes
 - Degree of offset diagonally between holes
 - Spacing away from the edge of the part
+
+**Video 29 - Reference Planes**
+https://www.youtube.com/watch?v=69BVWOW_jaY&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=29
+
+Reference Planes
+- Can be created by selecting geometry to locat
