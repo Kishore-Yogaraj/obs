@@ -531,3 +531,21 @@ Go to the features tab, then reference geometry then plane
 ![[Pasted image 20261029130244.png]]
 
 When creating a new plan you have the option of selecting different ways you want the plane to be placed. The plane needs to be fully defined. For some of the options like parallel, perpendicular and angle, you may have to add a second or third reference to make sure the plane is fully defined.
+
+**Video 30 - Part Configurations**
+https://www.youtube.com/watch?v=OtAWg0bWVUc&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=30
+
+What are part configurations:
+They allow you to represent more than 1 version of a part within the same file
+
+You can do things such as:
+- Independently controlling the size of certain features
+- Assign materials to a part
+- Suppress and unsuppressed features in a part
+
+ How to access configurations
+ ![[Pasted image 20261029131447.png]]
+
+![[Pasted image 20261029131616.png]]
+
+Double clicking will allow you to switch between configurations
