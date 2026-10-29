@@ -572,3 +572,8 @@ How to create a design table
 
 To add a new feature to control with the design table you click the next free column and then double click on the feature you want to control with the design table in the feature manager
 ![[Pasted image 20261029135318.png]]
+
+If you ever click of your design table you can access it again by clicking in the configurations manager tab and then right clicking on the design table and clicking edit table
+![[Pasted image 20261029140145.png]]
+
+You can also add dimensions to the design table by clicking the next empty cell and the double clicking on a dimension
