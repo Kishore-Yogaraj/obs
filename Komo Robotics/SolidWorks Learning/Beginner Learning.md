@@ -513,4 +513,21 @@ They do this in the following order from top to bottom:
 https://www.youtube.com/watch?v=69BVWOW_jaY&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=29
 
 Reference Planes
-- Can be created by selecting geometry to locat
+- Sometimes reference planes need to be created in addition to the existing planes to create new sketches and geometries
+- Can be created by selecting geometry to locate and identify the new planes
+- Can be created by selecting the following
+	- Existing planes
+	- faces
+	- edges
+	- vertices
+	- surfaces
+
+Creating a reference plane
+![[Pasted image 20261029125855.png]]
+
+Go to the features tab, then reference geometry then plane
+
+
+![[Pasted image 20261029130244.png]]
+
+When creating a new plan you have the option of selecting different ways you want the plane to be placed. The plane needs to be fully defined. For some of the options like parallel, perpendicular and angle, you may have to add a second or third reference to make sure the plane is fully defined.
