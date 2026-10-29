@@ -652,3 +652,4 @@ To make a mate, select the face of one of your parts and the the face of the oth
 ![[Pasted image 20261029154050.png]]
 
 The two arrows button will flip the mate around
+![[Pasted image 20261029154502.png]]
