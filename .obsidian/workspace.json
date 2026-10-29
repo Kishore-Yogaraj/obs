@@ -52,7 +52,8 @@
               "title": "Beginner Learning"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -228,14 +229,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "57b6ce338efc6e41",
   "lastOpenFiles": [
+    "Komo Robotics/Discovery Calls.md",
+    "ME 599/MATLAB Learning/Stateflow Onramp.md",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
-    "ME 599/MATLAB Learning/Stateflow Onramp.md",
     "ME 599/MATLAB Learning/attachments/Pasted image 20261026175213.png",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
-    "Komo Robotics/Discovery Calls.md",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261025200807.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261025200252.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261025200121.png",

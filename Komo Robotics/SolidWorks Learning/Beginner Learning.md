@@ -206,8 +206,6 @@ C:\Users\kisho\AppData\Local\Temp\SWBackupDirectory\
 - To make this cut using the blind end condition, you will determine a fixed measurement or depth that the cut or boss/base will be extruded to
 
 
-
-
 **Video 15 - What is design intent**
 https://www.youtube.com/watch?v=dCVD3hh0p-s&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=15
 This video is just about thinking about how you're going to sketch a part before you actually sketch it
