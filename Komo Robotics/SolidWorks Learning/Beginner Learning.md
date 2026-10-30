@@ -665,3 +665,8 @@ A component that is underdefined will appear with a minus sign in the feature ma
 - Left clicking and moving will translate the component
 - Right clicking and moving will rotate the component
 - You can also right click the component and then click "move with triad" to move a component with more accuracy
+
+Move component tool
+![[Pasted image 20261030145441.png]]
+
+You can enable collision detection which will give you an option to check "stop at collision" which means the part will stop moving if it comes in contact with another part
