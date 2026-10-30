@@ -687,3 +687,29 @@ This will tell you what the minimum clearance is off the part once you start mov
 **Video 35 - Standard Mates**
 http://youtube.com/watch?v=N23mwzKX6KY&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=35
 
+Mates
+- Mates are used to create relationships between different parts within an assembly
+
+Different types of standard mates
+- Coincident mate
+- Parallel mate
+- Perpendicular mate
+- Concentric mate
+- Distance mate
+- Angled mate
+- Lock mate
+
+What can be selected to make mates
+- Two faces or surfaces
+- A line or linear edge
+- You can select planes
+- Axes or temporary axes
+- A point
+- A vertex
+- A coordinate system
+- An arc
+- A circular edge
+
+
+Coincident Mate
+- 
