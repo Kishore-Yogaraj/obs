@@ -724,4 +724,15 @@ Perpendicular Mate
 - It will make sure that two entities are always perpendicular to one another
 
 Tangent Mate
-- 
+- It will make sure that two entities are always tangent to one another
+
+Concentric Mate
+- Constrains two circular sections to share a common axes
+- You can use something called "lock rotation" in the concentric mate to keep a part from rotating when moving the part
+
+Distance Mate
+- Allows two entities to always remain a certain distance from each other at all times
+
+Angled Mate
+- Allows two entities to always remain and keep a certain angle from each other at all times
+
