@@ -712,4 +712,16 @@ What can be selected to make mates
 
 
 Coincident Mate
+- This doesn't mean that the faces will be touching all the time or perfectly flush it just means that the two faces that you picked or entities will have there faces always aligned with one another and on the same plane at all times
+- ![[Pasted image 20261030152808.png]]
+
+The bottom of the rivet and the top of the block will always be aligned
+
+Parallel Mate
+- It will make sure that two entities are always parallel to one another
+
+Perpendicular Mate
+- It will make sure that two entities are always perpendicular to one another
+
+Tangent Mate
 - 
