@@ -670,3 +670,20 @@ Move component tool
 ![[Pasted image 20261030145441.png]]
 
 You can enable collision detection which will give you an option to check "stop at collision" which means the part will stop moving if it comes in contact with another part
+
+To determine if two components are colliding you can do the following:
+- Move component
+- Collision detection
+- You can select either all components or these components
+- If you select these components then you can select two specific components that you want to ensure will not collide
+- Also make sure to click resume drag after selecting your components so that you can still use the move component tool
+
+To find the minimum clearance between two components that are moving you can use the dynamic clearance tool
+![[Pasted image 20261030151041.png]]
+
+This will tell you what the minimum clearance is off the part once you start moving it. You can also click the button underneath where the 10 mm is greyed out to set a minimum clearance where the part should stop moving
+
+
+**Video 35 - Standard Mates**
+http://youtube.com/watch?v=N23mwzKX6KY&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=35
+
