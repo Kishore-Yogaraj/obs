@@ -736,3 +736,6 @@ Distance Mate
 Angled Mate
 - Allows two entities to always remain and keep a certain angle from each other at all times
 
+Lock Mate
+- It locks the part in place and prevents any movement for it
+
