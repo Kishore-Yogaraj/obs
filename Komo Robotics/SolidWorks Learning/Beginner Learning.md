@@ -656,3 +656,12 @@ The two arrows button will flip the mate around
 
 Because the wheel was the first component we added in it is fixed and we can't move it like how its supposed to. This means we have to add some additional constraints.
 - To do this what we did was mate the original planes in the assembly file with the planes from the plate part so that they would lock together and constrict its movement
+
+**Video 34 - Move and Rotate Components**
+https://www.youtube.com/watch?v=-7-HrkPmv6Y&list=PLTR9k4JrYfbSfK385Zpnm91abLczy_P4S&index=34
+
+A component that is underdefined will appear with a minus sign in the feature manager tree
+- This indicates that component has some freedom of movement in the assembly
+- Left clicking and moving will translate the component
+- Right clicking and moving will rotate the component
+- You can also right click the component and then click "move with triad" to move a component with more accuracy
