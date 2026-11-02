@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
+                "file": "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Beginner Learning"
+              "title": "Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning"
             }
           }
         ],
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cours",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,6 +231,9 @@
   },
   "active": "57b6ce338efc6e41",
   "lastOpenFiles": [
+    "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
+    "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
+    "Untitled",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030152808.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030151041.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030145441.png",
@@ -241,12 +244,10 @@
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152918.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152753.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152229.png",
-    "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029151522.png",
     "Komo Robotics/Discovery Calls.md",
     "ME 599/MATLAB Learning/Stateflow Onramp.md",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
-    "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "Komo Robotics/Saved prompt for compute selection.md",
     "Komo Robotics/Finalized Sensor Stack.md",
     "Courses.md",
@@ -255,7 +256,6 @@
     "ME 599/MATLAB Learning",
     "Solid Works/Solid Works Tutorial 1.md",
     "Learnings/Learning Engine.md",
-    "Untitled",
     "Waterloo/4A/ME 597/ME 597 - Foosball Proposal.md",
     "ME 599",
     "Komo Robotics/SolidWorks Learning/attachments",
