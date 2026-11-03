@@ -31,4 +31,18 @@ Why do we even want a rear motor?
 - **Reflashing** means to overwrite the software stored on the existing controller. As per the the rules of the competition (E-2.15) we are not allowed 
 	- This constraint is why our controller design looks the way it does. Since we can't edit the stock PSC to make it aware of the rear motor we have to influence it from the outside
 	- **Normal Jeep:** The pedal sends its signal directly to the stock PSC, which sets the torque
-	- **T**
+	- **Team PSC:** The controller reads the real pedal and works out the total torque and the front/rear split and send the rear share to the new motor then send the stock PSC a mock pedal signal that asks for the front share
+
+**Example of what we need**
+For example, say the driver presses the pedal 60%, and your controller wants only part of the torque to come from the front. It could send the stock PSC a signal equivalent to a lighter pedal press, such as 35%. The stock PSC responds as if the driver had pressed that far, without knowing your controller is involved.
+
+To choose the right mock signal, your team needs to know how the stock PSC converts pedal position into torque. That’s why Sean’s document says you need the stock PSC’s transfer function, and why one of its open questions is when you’ll get it
+
+**Expectations after last meeting**
+1. **Set up the project:** Make a new branch, start the project with `matlab.toml`, and open the model using the shortcut.
+2. **Create the variant:** Turn the stock controller block into a variant subsystem, then add your modified controller as a second variant. Sean suggested the `update diagram` activation time.
+3. **Research variant control modes:** Sean wasn’t sure which mode is best, so you could come back with a recommendation.
+4. **Start the signal spreadsheet:** For each controller signal, define its team-convention name, unit, sign convention, and sample rate.
+    - **Units:** Convert them using gain blocks, with the gain stored as a variable in the data dictionary.
+    - **Sample rates:** Set them explicitly rather than using `-1` (inherited).
+5. **Add the mappings (my inference):** Put one mapping before the control logic to convert plant signals to team convention, and the reverse after it. This matches Ba Son’s question and the first milestone in Sean’s document, but I can’t confirm it was assigned.
