@@ -1,5 +1,14 @@
 For this competition UWAFT will add a new battery and rear electric drive to the Cherokee, but the stock controller that comes with the Cherokee can't be reflashed. 
 
+The current stock Cherokee pairs and engine with two motors. **Motor A** controls the 1.6 L turbocharged gas engine's speed through a planetary gearset and acts as a generator-starter and **Motor B** works alongside the first motor and the gas engine to add drive torque to the transmission output.
+
+The rear wheels are powered using a rear-axle disconnect in order to save fuel during normal conditions. When it needs to be powered it uses a mechanical drive shaft to connect to the front-end powertrain.
+
+Why do we even want a rear motor?
+- 
+
+
+
 
 - A **stock controller** is one of the computer (ECU) that Stellantis installed in the Jeep. It's the factory original
 - A car has many ECUs each running software for a specific job but we are mainly concerned with the stock **PSC** (**Propulsion Supervisory Control**)
