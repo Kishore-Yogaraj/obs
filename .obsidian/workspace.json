@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 599/MATLAB Learning/Stateflow Onramp.md",
+                "file": "Komo Robotics/Continued Prompts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stateflow Onramp"
+              "title": "Continued Prompts"
             }
           },
           {
@@ -52,8 +52,7 @@
               "title": "Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,10 +228,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57b6ce338efc6e41",
+  "active": "3a836679ad39cac0",
   "lastOpenFiles": [
-    "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
+    "Komo Robotics/attachments/Pasted image 20261103145818.png",
+    "Komo Robotics/Saved prompt for compute selection.md",
+    "Komo Robotics/Continued Prompts.md",
+    "ME 599/MATLAB Learning/Stateflow Onramp.md",
+    "Komo Robotics/Discovery Calls.md",
     "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
+    "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "Untitled",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030152808.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030151041.png",
@@ -244,11 +248,8 @@
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152918.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152753.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029152229.png",
-    "Komo Robotics/Discovery Calls.md",
-    "ME 599/MATLAB Learning/Stateflow Onramp.md",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
-    "Komo Robotics/Saved prompt for compute selection.md",
     "Komo Robotics/Finalized Sensor Stack.md",
     "Courses.md",
     "ME 599/MATLAB Learning/attachments",
@@ -274,8 +275,6 @@
     "Rosdeps.md",
     "Review.md",
     "Questions for Captains Meeting.md",
-    "Questions for Ashwin.md",
-    "Quartz.md",
     "RoboHax Prize Sponsors Email"
   ]
 }

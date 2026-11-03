@@ -1,0 +1,3 @@
+Okay so I am about to build an assembly in solid works with some aluminum extrusions, bolts, t-nuts and brackets. I attached the parts I want to use and what I'm trying to build. Could you guide me through how to assemble this step by step. I know the first part I enter will be fixed. Do I have to line up the part origin with the assembly origin? This is my game plane for how to build this out. I'm going to first layout all my parts which will be: 4 extrusions of length 540, 4 corner brackets, 8 bolts and 8 t nuts. Then I'm going to mate the extr
+
+![[Pasted image 20261103145818.png]]
