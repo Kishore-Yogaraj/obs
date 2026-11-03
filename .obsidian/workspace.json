@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 599/PSC Project/What The Project Is.md",
+                "file": "ME 599/PSC Project/Week 1 Task (Assumed).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "What The Project Is"
+              "title": "Week 1 Task (Assumed)"
             }
           },
           {
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -231,8 +230,9 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
-    "Komo Robotics/Continued Prompts.md",
     "ME 599/PSC Project/What The Project Is.md",
+    "ME 599/PSC Project/Week 1 Task (Assumed).md",
+    "Komo Robotics/Continued Prompts.md",
     "ME 599/PSC Project",
     "Komo Robotics/attachments/Pasted image 20261103145818.png",
     "Komo Robotics/Saved prompt for compute selection.md",
@@ -275,7 +275,6 @@
     "Komo Robotics/Meeting Notes/Meeting with Melek.md",
     "RTOS.md",
     "Rosdeps.md",
-    "Review.md",
-    "Questions for Captains Meeting.md"
+    "Review.md"
   ]
 }
