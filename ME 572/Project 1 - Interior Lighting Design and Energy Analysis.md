@@ -40,3 +40,21 @@ E: Average Illuminance
 - The average light intensity that hits your work surface
 N: Number of Luminaires (Light Fixtures)
 D: Design Lumens
+- The initial total light output in lumens produced by a single light fixture
+CU: Coefficient of Utilization
+- An efficiency decimal that calculates how much light reaches the desk after bouncing off room surfaces based on room geometry
+LLF: Light Loss Factor
+- Maintenance multiplayer that accounts for factors that will cause the light to naturally dim over time
+A: Area of the room
+- Length x Width
+
+#### What are we submitting
+- Technical report up to 7 pages plus optional cover page, references page, and appendix
+- It should
+	- Describe our recommended design
+		- Determine number of luminaries to be provided
+		- Choice of lumen package
+		- Luminaire layout withing the ceiling grid
+	- Explain why you chose it by comparing it with a few other reasonable options
+	- Include other information that we think is important
+	
