@@ -22,3 +22,5 @@ CntrlTx
 
 Something to note here the accelerator control path. the VCU reads `AccelFdbk` from `CntrlRx` so the pedal input most likely passes through the vehicle first
 - This could mean that we replace the pedal value only on the copy of CntrlRx going into `StockController` 
+
+### Understanding the Changes
