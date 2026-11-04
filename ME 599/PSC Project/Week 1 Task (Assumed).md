@@ -23,4 +23,20 @@ CntrlTx
 Something to note here the accelerator control path. the VCU reads `AccelFdbk` from `CntrlRx` so the pedal input most likely passes through the vehicle first
 - This could mean that we replace the pedal value only on the copy of CntrlRx going into `StockController` 
 
+#### Finding out what signals are passed from block block
+- Click a signal line
+- Click the signal tab in the too strip
+- Click signal hierarchy
+![[Pasted image 20261103221130.png]]
+
+- You can click something like `AccelFdbk` and then click Source or Destination to see where that signal ends up or where it originated from
+
+#### Observing values of signals
+- Click the signal line you're interested
+- Go to signal tab
+- Click output value lable
+- Click the yellow box that appears on the signal line
+- Tick the signals you are interested in observing
+![[Pasted image 20261103221328.png]]
+
 ### Understanding the Changes
