@@ -34,10 +34,21 @@ Something to note here the accelerator control path. the VCU reads `AccelFdbk` f
 #### Observing values of signals
 - Click the signal line you're interested
 - Go to signal tab
-- Click output value lable
+- Click output value label
 - Click the yellow box that appears on the signal line
 - Tick the signals you are interested in observing
 ![[Pasted image 20261103221328.png]]
 
 ### Understanding the Changes
-What we did was set up the interface layer so that we can split the torque between the front motor and the rear motor 
+What we did was set up the interface layer so that we can split the torque between the front motor and the rear motor given the input from how much the accelerator pedal was pressed. 
+
+The vehicle block will send a bus called CntrlRx which holds a bunch of information the controller can use but the one we are most concerned with is `AccelFdbk` which is a value between 0 and 1 which indicates **how much the accelerator was pressed down**. 
+
+Inside our modified controller (**we created a modified controller so that we can compare the results of our modified controller with the baseline controller**) we built 3 subsystems that handle the torque split.
+
+#### MappingtoTeamSignals
+We needed this subsystem so that we change where signals come from without having to touch the actual controller (**TeamAddedController**).
+
+We want to make sure that the controller always receives the same input. Right now we are dealing with MIL (**Model in the Loop**) so how we get `AccelPedal` is from `CntrlRx > Bus Selector > AccelPedal`
+
+Eventually we will have HIL/VIL (Hardware in the Loop and Vehicle in the Loop). In this case we will most likely get a voltage input. So now instead of going into the controller and creating a subsystem for MIL, HIL and VIL and having to switch between them we can simply just add the logic in the 
