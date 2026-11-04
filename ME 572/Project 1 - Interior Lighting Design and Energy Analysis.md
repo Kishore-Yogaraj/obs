@@ -19,4 +19,24 @@ We need to decide:
 		- Lux measure what actually gets hit
 		- Rain leaving a cloud is lumens and lux is the puddle that's created
 	- LLF accounts for the system losing output as fixtures age and get dirty, so the design starts our brighter than necessary, and dimming can trim that excess
-		- **LLF** stands for light loss factor and its a depreciation mu
+		- **LLF** stands for light loss factor and its a depreciation multiplier (decimal less than 1.0) used during lighting design to anticipate real-world degradation
+		- When a lighting system is brand new it operates at 100% capacity and as time passes the light levels drop due to two main categories
+			- Non Recoverable Factors
+				- **Lamp Lumen Depreciation:** Physical LED chips naturally lose efficiency and dim slightly as they accumulate operating hours
+				- **Luminaire Ambient Temperature:** Overheating can permanently reduce and LED's maximum potential output
+			- Recoverable Factors
+				- **Luminaire Dirt Depreciation:** Dust, film, and airborne particulates settle on the lenses, diffusers and reflectors which traps light inside the fixture
+				- **Room Surface Dirt Depreciation:** Dirt builds up on walls and ceiling which reduces their ability to bounce and reflect ambient light down to the desk level
+- Limited power
+	- Lighting can't exceed 0.8W/ft^2 or 1408 W in this room
+- Even light
+	- Fixtures should not be more than about 10 ft apart which prevents us from using only a few very bright fixtures
+
+#### The Lumen Method (Zonal Cavity Method)
+The lumen method will link our decisions to give us options about which one will be the most suitable
+![[Pasted image 20261104184620.png]]
+
+E: Average Illuminance
+- The average light intensity that hits your work surface
+N: Number of Luminaires (Light Fixtures)
+D: Design Lumens
