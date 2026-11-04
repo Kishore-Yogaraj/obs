@@ -51,4 +51,19 @@ We needed this subsystem so that we change where signals come from without havin
 
 We want to make sure that the controller always receives the same input. Right now we are dealing with MIL (**Model in the Loop**) so how we get `AccelPedal` is from `CntrlRx > Bus Selector > AccelPedal`
 
-Eventually we will have HIL/VIL (Hardware in the Loop and Vehicle in the Loop). In this case we will most likely get a voltage input. So now instead of going into the controller and creating a subsystem for MIL, HIL and VIL and having to switch between them we can simply just add the logic in the 
+Eventually we will have HIL/VIL (Hardware in the Loop and Vehicle in the Loop). In this case we will most likely get a voltage input. So now instead of going into the controller and creating a subsystem for MIL, HIL and VIL and having to switch between them we can simply just add the logic in the `MappingtoTeamSignals` subsystem to make the change. You will also have other team mappings in here if needed
+
+The purpose of this block is to do the following:
+- Rename signals
+- Convert units
+- Standardize signs
+- Group signals
+- Add validity flags
+
+Remember that the current controller is configured for a model in the loop. We will have to change and rename everything once we get access to the CAN database of the car. 
+
+#### TeamAddedController
+The is the meaty part of what we added. This is the controller that will handle the torque split once the `AccelPedal` signal is sent. Here we will create some kind of formula that splits how much torque we send to the front wheels and the rear wheels. Keep in mind that we don't directly control the torque of the front. The stock controller takes a value for "**how much the accelerator is pressed**" and converts that into a torque. What we want to do is take the entire `AccelFdbk` which is how much the accelerator is pushed then turn that into a lower percentage which becomes the new `AccelFdbk`. We then also send the direct torque command to the rear motor because we have access to directly control that. 
+
+#### MappingtoPlantModel
+This subsystem will then take the new `AccelFdbk` which is now represented as `FrontPedalCmd` we created and map it back to the bus using the **Bus Assignment** and then send the entire bus back to the stock controller
