@@ -40,3 +40,4 @@ Something to note here the accelerator control path. the VCU reads `AccelFdbk` f
 ![[Pasted image 20261103221328.png]]
 
 ### Understanding the Changes
+What we did was set up the interface layer so that we can split the torque between the front motor and the rear motor 
