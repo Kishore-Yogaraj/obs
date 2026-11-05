@@ -58,16 +58,22 @@ A: Area of the room
 	- Explain why you chose it by comparing it with a few other reasonable options
 	- Include other information that we think is important
 
-#### Client Concerns
+#### Client Concerns and Building Characteristics
 Its an open-plan office space
 - Capital costs
 - Long term operation
 - Maintenance costs
-- Needs to be designed for a maintained illuminance greater than 400 lux
+- Needs to be designed for a maintained illuminance greater than or equal to 400 lux at the workplace (desk)
+- The LPD (Lighting Power Density) should not exceed 0.8W/ft^2 
+	- Total Lighting Power (W)/Total Floor Area
+	- Measures how much electric power is used to illuminate a given floor area
+- The ceiling tiles will be white and the walls will be painted a light colour (light grey)
 
 #### The LED Troffer
 
 ![[Pasted image 20261104190001.png|400]]
+
+Room cavity height is distance from the work plane (desk) to the luminaires
 
 This is the ceiling layout if you were to use 2 ft by 4 ft luminaires
 - The ceiling space is 44 ft by 40 ft
