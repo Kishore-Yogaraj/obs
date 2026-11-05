@@ -57,4 +57,21 @@ A: Area of the room
 		- Luminaire layout withing the ceiling grid
 	- Explain why you chose it by comparing it with a few other reasonable options
 	- Include other information that we think is important
-	
+
+#### Client Concerns
+Its an open-plan office space
+- Capital costs
+- Long term operation
+- Maintenance costs
+- Needs to be designed for a maintained illuminance greater than 400 lux
+
+#### The LED Troffer
+
+![[Pasted image 20261104190001.png|400]]
+
+This is the ceiling layout if you were to use 2 ft by 4 ft luminaires
+- The ceiling space is 44 ft by 40 ft
+
+You can use half luminaires along walls and rotate the luminaires by 90 degrees if needed
+
+![[Pasted image 20261104190309.png|250]]
