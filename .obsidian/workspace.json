@@ -8,51 +8,37 @@
         "type": "tabs",
         "children": [
           {
+            "id": "94ad45f0f5d43491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ME 599/PSC Project/Week 1 Task (Assumed).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 Task (Assumed)"
+            }
+          },
+          {
             "id": "3a836679ad39cac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ME 572/Project 1 - Interior Lighting Design and Energy Analysis.md",
+                "file": "ME 599/PSC Project/Week 2 Task.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project 1 - Interior Lighting Design and Energy Analysis"
-            }
-          },
-          {
-            "id": "66760b615697825d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Komo Robotics/Discovery Calls.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Discovery Calls"
-            }
-          },
-          {
-            "id": "57b6ce338efc6e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning"
+              "title": "Week 2 Task"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,12 +217,18 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "ME 599/PSC Project/attachments/Pasted image 20261110175231.png",
+    "ME 599/PSC Project/Week 1 Task (Assumed).md",
+    "ME 599/PSC Project/Week 2 Task.md",
+    "ME 599/PSC Project/attachments/Pasted image 20261110175146.png",
+    "ME 599/PSC Project/attachments/Untitled",
+    "ME 599/PSC Project/What The Project Is.md",
+    "ME 572/Project 1 - Interior Lighting Design and Energy Analysis.md",
     "ME 572/attachments/Pasted image 20261104190309.png",
     "ME 572/attachments/Pasted image 20261104190001.png",
     "ME 572/attachments/Pasted image 20261104184620.png",
     "ME 572/attachments",
     "4th Year/Courses.md",
-    "ME 572/Project 1 - Interior Lighting Design and Energy Analysis.md",
     "ME 572",
     "Coin Calculator.md",
     "Ceycan Notes.md",
@@ -247,12 +239,10 @@
     "Questions for Ashwin.md",
     "Quartz.md",
     "Problems with Mustafa.md",
-    "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "ME 599/PSC Project/attachments/Pasted image 20261103221328.png",
     "ME 599/PSC Project/attachments/Pasted image 20261103221130.png",
     "ME 599/PSC Project/attachments/Pasted image 20261103202203.png",
     "ME 599/PSC Project/attachments",
-    "ME 599/PSC Project/What The Project Is.md",
     "Komo Robotics/Continued Prompts.md",
     "ME 599/PSC Project",
     "Komo Robotics/attachments/Pasted image 20261103145818.png",
@@ -263,8 +253,6 @@
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030152808.png",
     "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030151041.png",
-    "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030145441.png",
-    "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261029154502.png",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
     "Komo Robotics/Finalized Sensor Stack.md",
@@ -272,10 +260,8 @@
     "ME 599/MATLAB Learning/attachments",
     "ME 599/MATLAB Learning.md",
     "ME 599/MATLAB Learning",
-    "Solid Works/Solid Works Tutorial 1.md",
     "ME 599",
     "Komo Robotics/SolidWorks Learning/attachments",
-    "Komo Robotics/SolidWorks Learning",
-    "Waterloo/4A/ME 597/attachments"
+    "Komo Robotics/SolidWorks Learning"
   ]
 }

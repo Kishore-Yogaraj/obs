@@ -61,9 +61,7 @@ The purpose of this block is to do the following:
 - Add validity flags
 
 Remember that the current controller is configured for a model in the loop. We will have to change and rename everything once we get access to the CAN database of the car. 
-
 #### TeamAddedController
 The is the meaty part of what we added. This is the controller that will handle the torque split once the `AccelPedal` signal is sent. Here we will create some kind of formula that splits how much torque we send to the front wheels and the rear wheels. Keep in mind that we don't directly control the torque of the front. The stock controller takes a value for "**how much the accelerator is pressed**" and converts that into a torque. What we want to do is take the entire `AccelFdbk` which is how much the accelerator is pushed then turn that into a lower percentage which becomes the new `AccelFdbk`. We then also send the direct torque command to the rear motor because we have access to directly control that. 
-
 #### MappingtoPlantModel
 This subsystem will then take the new `AccelFdbk` which is now represented as `FrontPedalCmd` we created and map it back to the bus using the **Bus Assignment** and then send the entire bus back to the stock controller
