@@ -5,3 +5,6 @@ This week the goal is to add the controller that Sean had in mind into the team 
 What we want in the team added controller instead is what Sean created below
 
 ![[Pasted image 20261110175146.png]]
+
+Below is what the modified controller looked like before
+![[Pasted image 20261110175503.png]]
