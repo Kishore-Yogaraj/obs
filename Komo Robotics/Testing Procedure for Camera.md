@@ -58,6 +58,16 @@
 
 ### What to expect
 ![[Pasted image 20261111170733.png]]![[Pasted image 20261111170749.png]]![[Pasted image 20261111170805.png]]![[Pasted image 20261111170839.png]]
+![[Pasted image 20261111175347.png]]
+
+### How to read summary report
+- **“Ran X s without crashing/disconnecting”:** the most important line. If you see it, the camera got through the long run.
+- **Frames and fps per stream:** all four should be close to each other and roughly steady, probably around 30 fps.
+    - One stream far lower than the others (say 5 fps while the rest are at 30) means that camera or the stereo pipeline is struggling.
+    - All four being a bit low together usually means your laptop is the bottleneck, not the camera.
+- **IMU packets:** should be in the hundreds of thousands, roughly 400 per second. If it’s 0, the IMU is broken even though Part 1 detected it.
+- **Sequence gaps (dropped frames):** a handful, or even a few dozen over several minutes, is normal. Your laptop is drawing three windows at the same time and occasionally falls behind. Hundreds or thousands, especially together with freezes you noticed on screen, point to a bad cable or port connection.
+- **Max chip temp:** about 50–70 °C is typical under this load. Steadily climbing toward 90 °C or higher would be a concern.
 
 ### RGB Window Look For
 - A normal, smooth color image. Watch for frozen frames, colored lines, or permanent spots.
