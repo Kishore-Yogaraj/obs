@@ -37,8 +37,7 @@
               "title": "Week 2 Task"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -214,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "94ad45f0f5d43491",
   "lastOpenFiles": [
+    "ME 599/PSC Project/Week 2 Task.md",
     "Komo Robotics/Testing Procedure for Camera.md",
     "ME 599/PSC Project/Week 1 Task (Assumed).md",
-    "ME 599/PSC Project/Week 2 Task.md",
     "ME 599/PSC Project/attachments/Pasted image 20261110175503.png",
     "ME 599/PSC Project/attachments/Pasted image 20261110175231.png",
     "ME 599/PSC Project/attachments/Pasted image 20261110175146.png",
