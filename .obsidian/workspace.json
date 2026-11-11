@@ -37,8 +37,7 @@
               "title": "Week 2 Task"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "94ad45f0f5d43491",
   "lastOpenFiles": [
+    "ME 599/PSC Project/Week 2 Task.md",
     "ME 599/PSC Project/attachments/Pasted image 20261110175503.png",
     "ME 599/PSC Project/attachments/Pasted image 20261110175231.png",
     "ME 599/PSC Project/Week 1 Task (Assumed).md",
-    "ME 599/PSC Project/Week 2 Task.md",
     "ME 599/PSC Project/attachments/Pasted image 20261110175146.png",
     "ME 599/PSC Project/attachments/Untitled",
     "ME 599/PSC Project/What The Project Is.md",
@@ -252,7 +251,6 @@
     "Komo Robotics/Discovery Calls.md",
     "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
-    "Komo Robotics/SolidWorks Learning/attachments/Pasted image 20261030152808.png",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
     "Komo Robotics/Finalized Sensor Stack.md",
