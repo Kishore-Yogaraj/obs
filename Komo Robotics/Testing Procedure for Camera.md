@@ -33,6 +33,11 @@
 - Point it at a plain surface and look for stuck pixels, dark spots or dust blobs that stay in the same place when you move the camera
 - Hold the printed page about 50 cm away. text should be crips in the color view. The sharpness number goes up as focus gets better you can compare distances. A fixed focus lens should look sharp from roughly 50cm out to the far wall
 
+**How to test**
+1. Hold your printed text page still so it fills the **center** of the color image at about **50 cm**, in normal indoor light. Note the number.
+2. Move it to **about 1 m**, still filling the center (it will look smaller, which is fine). The number will drop somewhat because there’s less detail in the frame, but the text should still look crisp.
+3. Wiggle the page or move it out of the center. The number should drop clearly, which shows the score reacts as expected.
+
 ### Check Depth Accuracy with the Tape Measure
 - Aim the white center box at a flat wall at 0.5m, 1 m and 2 m. Compare the on screen "center=" reading to the tape
 - Being off by about 1-2 % is normal so 1-3 cm at 1 m is normal. If it's off by 10 cm or more, or the reading jumps around a lot the calibration is bad or something has shifted
