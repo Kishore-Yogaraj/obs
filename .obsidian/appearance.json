@@ -4,5 +4,6 @@
   "cssTheme": "Things",
   "enabledCssSnippets": [
     "Kish-Images"
-  ]
+  ],
+  "showRibbon": true
 }
