@@ -15,7 +15,8 @@ Komo_Chassis.sldasm
 └── 10_Front_Panel_Camera    front panel + OAK-D mount
 ```
 
-Caster Washer
-Bolt and washer
+Caster Plate Washer - done
+Bolt and washer - 
 Lock nut
 Caster bolt
+Caster
