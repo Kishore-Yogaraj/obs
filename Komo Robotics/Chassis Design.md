@@ -16,7 +16,7 @@ Komo_Chassis.sldasm
 ```
 
 Caster Plate Washer - done
-Bolt and washer - 
+Bolt and washer - done
 Lock nut
 Caster bolt
 Caster
