@@ -29,9 +29,8 @@ Flat indoor floors with a decent 2D lidar and a navigation only goal
 - Featureless or visually difficult spaces like white walls, glass, big lighting changes
 - Tighter compute budget
 
-
 #### Rough Compute Estimates
 
 ![[Pasted image 20261116215023.png]]
 
-Our biggest gap comes from running visual odometry running on every frame. However, if we ran RTAB-Map with wheel and IMU odometry instead of visual odometry, the cost ends up dropping a lot. The camera can then only be used for loop clsiu
+Our biggest gap comes from running visual odometry running on every frame. However, if we ran RTAB-Map with wheel and IMU odometry instead of visual odometry, the cost ends up dropping a lot. The camera can then only be used for loop closure about once a second but then we just end up paying for localization we don't need.
