@@ -9,4 +9,22 @@ RTAB_Map has to pull color and depth frames over USB, extract and match visual f
 - Wheel encoder and the IMU will help us along long featureless hallways
 
 #### Where does RTAB-Map become a better tool
-Robots without a good 2D lidar. RTAB-Map is a very mature SLAM option for robots that only have an RGB camera
+Robots without a good 2D lidar. RTAB-Map is a very mature SLAM option for robots that only have an RGB-D camera. If a camera is our only sensor then this becomes our no brainer choice.
+
+It's also really good for when we need a 3D map and not a 2D map. It builds 3D point clouds and 3D occupancy grids. This matters for:
+- Drones, which need 3D free space
+- Legged robots and rough terrain where a single 2D slice can't describe stairs
+- Mobile manipulators that need to know what's on table and shelves
+
+Also really good for global relocalization. Its loop closure works on visual appearance so it can recognize a place it has seen before without a pose. This helps when:
+- Robot boots up or loses power somewhere random
+- Someone pushes the robot
+- Hallways are geometrically repetitive but look different
+
+AMCL needs a reasonable starting guess. RTAB-Map can often recover without one.
+
+#### Where RTAB-Map becomes the wrong tool
+Flat indoor floors with a decent 2D lidar and a navigation only goal
+- Slam_Toolbox is just very reliable
+- Featureless or visually difficult spaces like white walls, glass, big lighting changes
+- Tighter compute budget
