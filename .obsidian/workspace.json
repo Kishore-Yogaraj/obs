@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komo Robotics/Choosing SLAM.md",
+                "file": "Komo Robotics/Chassis Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Choosing SLAM"
+              "title": "Chassis Design"
             }
           },
           {
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5,
-    "collapsed": true
+    "width": 263.5
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -216,9 +215,11 @@
   },
   "active": "94ad45f0f5d43491",
   "lastOpenFiles": [
+    "Komo Robotics/Discovery Calls.md",
+    "Komo Robotics/Continued Prompts.md",
+    "Komo Robotics/Choosing SLAM.md",
     "Komo Robotics/attachments/Pasted image 20261116215023.png",
     "Komo Robotics/Chassis Design.md",
-    "Komo Robotics/Choosing SLAM.md",
     "Komo Robotics/Testing Procedure for Camera.md",
     "Komo Robotics/attachments/Pasted image 20261111175347.png",
     "Komo Robotics/attachments/Pasted image 20261111173800.png",
@@ -234,7 +235,6 @@
     "ME 599/PSC Project/attachments/Untitled",
     "ME 599/PSC Project/What The Project Is.md",
     "ME 572/Project 1 - Interior Lighting Design and Energy Analysis.md",
-    "ME 572/attachments/Pasted image 20261104190309.png",
     "ME 572/attachments",
     "4th Year/Courses.md",
     "ME 572",
@@ -248,11 +248,9 @@
     "Quartz.md",
     "Problems with Mustafa.md",
     "ME 599/PSC Project/attachments",
-    "Komo Robotics/Continued Prompts.md",
     "ME 599/PSC Project",
     "Komo Robotics/Saved prompt for compute selection.md",
     "ME 599/MATLAB Learning/Stateflow Onramp.md",
-    "Komo Robotics/Discovery Calls.md",
     "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
