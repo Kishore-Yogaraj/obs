@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Komo Robotics/Chassis Design.md",
+                "file": "Komo Robotics/Choosing SLAM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chassis Design"
+              "title": "Choosing SLAM"
             }
           },
           {
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "right": {
     "id": "5cf04c83ea9ddc1f",
@@ -215,8 +216,9 @@
   },
   "active": "94ad45f0f5d43491",
   "lastOpenFiles": [
-    "Komo Robotics/Testing Procedure for Camera.md",
     "Komo Robotics/Chassis Design.md",
+    "Komo Robotics/Choosing SLAM.md",
+    "Komo Robotics/Testing Procedure for Camera.md",
     "Komo Robotics/attachments/Pasted image 20261111175347.png",
     "Komo Robotics/attachments/Pasted image 20261111173800.png",
     "Komo Robotics/attachments/Pasted image 20261111170839.png",
@@ -255,7 +257,6 @@
     "ME 599/MATLAB Learning/MATLAB Onramp.md",
     "ME 599/MATLAB Learning/Simulink Onramp.md",
     "Komo Robotics/Finalized Sensor Stack.md",
-    "Courses.md",
     "ME 599/MATLAB Learning/attachments",
     "ME 599/MATLAB Learning",
     "ME 599",
