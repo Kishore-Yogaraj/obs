@@ -10,6 +10,8 @@ https://uwflow.com/
 ### CSE List
 https://academic-calendar-archive.uwaterloo.ca/undergraduate-studies/2023-2024/page/ENG-BASc-and-BSE-Complementary-Studies-Courses-Eng.html
 
+### Audit
+ [engadvisor.uwaterloo.ca/advisor/](https://engadvisor.uwaterloo.ca/advisor/ "https://engadvisor.uwaterloo.ca/advisor/")
 
 ### Requirements for Graduation
 - Min Avg of 60.0%
@@ -107,3 +109,5 @@ https://classes.uwaterloo.ca/under.html
 MTE 481/482 - Mechatronics Engineering Design Project
 
 SYDE 542
+
+
