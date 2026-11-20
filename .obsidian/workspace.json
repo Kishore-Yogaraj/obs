@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses.md",
+                "file": "Komo Robotics/Why Odom Frame.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Courses"
+              "title": "Why Odom Frame"
             }
           },
           {
@@ -92,8 +92,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,6 +215,9 @@
   },
   "active": "3a836679ad39cac0",
   "lastOpenFiles": [
+    "Komo Robotics/attachments/Pasted image 20261119221603.png",
+    "Courses.md",
+    "Komo Robotics/Why Odom Frame.md",
     "ME 599/PSC Project/Week 2 Task.md",
     "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Komo Robotics/Chassis Design.md",
@@ -254,8 +256,6 @@
     "ME 599/MATLAB Learning/Stateflow Onramp.md",
     "Waterloo/4A/ME 597/Case Study 1 - Chatter Detection Using Multi Sensor Data Fusion and Machine Learning.md",
     "Komo Robotics/SolidWorks Learning/Beginner Learning.md",
-    "ME 599/MATLAB Learning/MATLAB Onramp.md",
-    "ME 599/MATLAB Learning/Simulink Onramp.md",
     "ME 599/MATLAB Learning/attachments",
     "ME 599/MATLAB Learning",
     "ME 599",
