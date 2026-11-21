@@ -36,8 +36,24 @@
               "icon": "lucide-file",
               "title": "Week 1 Task (Assumed)"
             }
+          },
+          {
+            "id": "2f00364704df51e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Komo Robotics/Chassis Design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Chassis Design"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a836679ad39cac0",
+  "active": "2f00364704df51e8",
   "lastOpenFiles": [
+    "Komo Robotics/Why Odom Frame.md",
     "Komo Robotics/attachments/Pasted image 20261119221603.png",
     "Courses.md",
-    "Komo Robotics/Why Odom Frame.md",
     "ME 599/PSC Project/Week 2 Task.md",
     "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Komo Robotics/Chassis Design.md",
@@ -234,7 +250,6 @@
     "Komo Robotics/attachments/Pasted image 20261111170733.png",
     "ME 599/PSC Project/attachments/Pasted image 20261110175503.png",
     "ME 599/PSC Project/attachments/Pasted image 20261110175231.png",
-    "ME 599/PSC Project/attachments/Pasted image 20261110175146.png",
     "ME 599/PSC Project/attachments/Untitled",
     "ME 599/PSC Project/What The Project Is.md",
     "ME 572/Project 1 - Interior Lighting Design and Energy Analysis.md",
