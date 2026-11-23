@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,14 +229,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66dc7dcb153ece7a",
+  "active": "2f00364704df51e8",
   "lastOpenFiles": [
-    "Komo Robotics/Chassis Design.md",
     "Komo Robotics/Why Odom Frame.md",
+    "Komo Robotics/Chassis Design.md",
+    "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Komo Robotics/attachments/Pasted image 20261119221603.png",
     "Courses.md",
     "ME 599/PSC Project/Week 2 Task.md",
-    "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Komo Robotics/Discovery Calls.md",
     "Komo Robotics/Continued Prompts.md",
     "Komo Robotics/Choosing SLAM.md",
