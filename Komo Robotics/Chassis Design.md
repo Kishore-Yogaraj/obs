@@ -20,3 +20,5 @@ Bolt and washer - done
 Lock nut - done
 Caster plate bolt - done
 Caster
+
+![[Pasted image 20261123202308.png]]
