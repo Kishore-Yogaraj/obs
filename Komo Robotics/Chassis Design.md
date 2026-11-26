@@ -22,3 +22,6 @@ Caster plate bolt - done
 Caster
 
 ![[Pasted image 20261123202308.png]]
+
+**Notes**
+Put M6 heat inserts in BOM
