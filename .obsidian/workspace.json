@@ -43,17 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deadlock/Wraith Play.md",
+                "file": "Komo Robotics/Chassis Design.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Wraith Play"
+              "title": "Chassis Design"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66dc7dcb153ece7a",
+  "active": "2f00364704df51e8",
   "lastOpenFiles": [
     "Deadlock/Wraith Play.md",
     "ME 599/PSC Project/Week 1 Task (Assumed).md",
