@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f00364704df51e8",
+  "active": "66dc7dcb153ece7a",
   "lastOpenFiles": [
-    "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Deadlock/Wraith Play.md",
+    "ME 599/PSC Project/Week 1 Task (Assumed).md",
     "Komo Robotics/Chassis Design.md",
     "Untitled.md",
     "Deadlock",
